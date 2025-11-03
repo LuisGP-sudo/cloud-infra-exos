@@ -56,7 +56,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 | GCP | $158.41|
 | Azure| $92.32 |
   
-  En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère sachant que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de vouloir hébérger une application avec une disponibilité à plein temps sans pas dépenser breaucoup d'argent .
+  En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère sachant que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de vouloir hébérger une application avec une disponibilité à plein temps sans pas dépenser breaucoup d'argent. Suivi par AWS avec un cout un peu plus élevé et finqlement Google, qui est la solution la plus cher par rapport au type d'instance choisi qui respecte les spécifications minimales de 
 
 ## Infrastructure n°2:
 - **6 serveurs avec les ressources suivantes :**
@@ -79,9 +79,9 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNT
-M0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIx
-NzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLT
-MwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMTEwMjE2
-MTA4NiwtMjEyOTkxNjAxNl19
+eyJoaXN0b3J5IjpbLTg1NDI4Njc1OCwtNzc4ODc1ODU4LC01MD
+UxMjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwtMjgyMTUx
+NDUsLTExMTEyMjE3NDYsNjA3MTMxMTgsLTEyMTQwNjQ2MDgsMT
+k2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2MDM2NiwtMTQ3MTI3
+MDU2LC0xMTAyMTYxMDg2LC0yMTI5OTE2MDE2XX0=
 -->
