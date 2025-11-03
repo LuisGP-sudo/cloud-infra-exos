@@ -48,7 +48,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Soit $1107.84 /an
 
 
-### Conclusion : Tableau récapitulatif des couts
+### Conclusion: Tableau récapitulatif des couts
 
 | Service Cloud | Couts mensuels en $ |  
 | ----------- | ----------- |  
@@ -79,9 +79,9 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc2OTQ0ODUsLTc3ODg3NTg1OCwtNT
-A1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1
-MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LD
-E5NjQxNjA2MjUsLTMwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEy
-NzA1NiwtMTEwMjE2MTA4NiwtMjEyOTkxNjAxNl19
+eyJoaXN0b3J5IjpbNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUwNT
+EyMzUzOCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0
+NSwtMTExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOT
+Y0MTYwNjI1LC0zMDI1ODI0NjUsMzk2MzYwMzY2LC0xNDcxMjcw
+NTYsLTExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
 -->
