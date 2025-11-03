@@ -30,6 +30,8 @@ Nombre d’employés : 150
 
 Quelle solution pensez-vous la plus optimale et pourquoi ?
 
+
+
 ---
 
 
@@ -45,6 +47,6 @@ Que conseillez-vous à Paul ?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMT
-YwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbMzcyNDg0MjQsMTcyMjA4ODY1MiwtMTE0OT
+UxNzM2OSwtMTYwNDI1NDM0Nl19
 -->
