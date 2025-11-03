@@ -30,6 +30,14 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Total de $106.7 / mois
 						Soit $1241 / an
 
+ - **Google Cloud **
+ Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xlarge qui a un cout par heure de 0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
+
+						0.1344 × 720 h = $96.77
+						100 × 0.10 = $10.00
+						
+						Total de $106.7 / mois
+						Soit $1241 / an
 						
 
 
@@ -56,6 +64,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQxODAxMTksMzk2MzYwMzY2LC0xND
-cxMjcwNTYsLTExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTMwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0Nz
+EyNzA1NiwtMTEwMjE2MTA4NiwtMjEyOTkxNjAxNl19
 -->
