@@ -67,7 +67,7 @@ Suivi par AWS avec un cout un peu plus élevé et finalement Google, qui est la 
   - **20 Go de stockage disque par serveur**
 - **Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin**
 
-Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur sans compter d'OS et dans des clouds. 
+Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur sans compter d'OS et dans des clouds publics. 
  Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
 
 ## Infrastructure n°3:
@@ -88,12 +88,14 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - GCP ([Pricing | Compute Engine: Virtual Machines (VMs) | Google Cloud | Google Cloud](https://cloud.google.com/compute/all-pricing))
 
 - Azure ([Pricing - Container Instances | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/container-instances/?msockid=354b77bbccc66ef91e5b613dcdf56f4e))
+- Scaleway ([Virtual Instances Pricing | Scaleway](https://www.scaleway.com/en/pricing/virtual-instances/?cpu=4|4&ram=1|16))
+- OVH ()
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODEzNjU3NTUsNzM2Njc0NjU4LC02OD
-YwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUwNTEyMzUz
-OCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMT
-ExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOTY0MTYw
-NjI1LC0zMDI1ODI0NjUsMzk2MzYwMzY2LC0xNDcxMjcwNTYsLT
-ExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbMTg4MTc5Njk4NCw3MzY2NzQ2NTgsLTY4Nj
+AzMDE5Niw3MDA3Mjc2MjMsLTc3ODg3NTg1OCwtNTA1MTIzNTM4
+LDEyNTM0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMT
+ExMjIxNzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2
+MjUsLTMwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMT
+EwMjE2MTA4NiwtMjEyOTkxNjAxNl19
 -->
