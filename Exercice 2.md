@@ -47,6 +47,14 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Total de $92.32 /mois
 						Soit $1107.84 /an
 
+ - **Scaleway**
+ Pour cette solutions je vais prendre l'exemple de l'instance PRO2-XS qui comporte exactement les ressources spécifiés a un cout par mois de $80.30 et le stockage de 100 Go qui coute $10.56. La région étudiée est France Central.
+
+						81.76 + 10.56 = $92.32
+						
+						Total de $92.32 /mois
+						Soit $1107.84 /an
+
 
 ### Conclusion: Tableau récapitulatif des couts
 
@@ -92,10 +100,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDczNj
-Y3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1ODU4
-LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwtMj
-gyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMxMTgsLTEyMTQwNjQ2
-MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2MDM2NiwtMT
-Q3MTI3MDU2LC0xMTAyMTYxMDg2LC0yMTI5OTE2MDE2XX0=
+eyJoaXN0b3J5IjpbMTAwNjk5NzM3LDU4ODMzNDE5MiwtMTg1NT
+Y0NTEwOCw3MzY2NzQ2NTgsLTY4NjAzMDE5Niw3MDA3Mjc2MjMs
+LTc3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NT
+A2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4
+LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLTMwMjU4MjQ2NSwzOT
+YzNjAzNjYsLTE0NzEyNzA1NiwtMTEwMjE2MTA4NiwtMjEyOTkx
+NjAxNl19
 -->
