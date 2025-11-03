@@ -18,7 +18,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
    - **4 vCPU**
   - **100 Go de stockage disque**
  
- Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques et avec les ressources respectés pour chaque fournisseur sans compter d'OS dans des Cloud publics. 
+ Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur sans compter d'OS, les taxes et dans des Cloud publics. 
  Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
  
  - **AWS Cloud**
@@ -56,12 +56,12 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Soit $1066.80 /an
 
  - **OVH**
- Pour cette solutions je vais prendre l'exemple de l'instance b3-16 qui comporte exactement les ressources spécifiés t le stockage de 100 Go (inclus dans le prix) a un cout par mois de $56.41.
+ Pour cette solutions je vais prendre l'exemple de l'instance b3-16 qui comporte exactement les ressources spécifiés le stockage de 100 Go (inclus dans le prix) a un cout par mois de $56.41.
 
-						56.41+ 8.60 = $88.90
+						56.41 x 12 = $88.90
 						
-						Total de $88.90 /mois
-						Soit $1066.80 /an
+						Total de $56.41 /mois
+						Soit $676 /an
 
 
 ### Conclusion: Tableau récapitulatif des couts
@@ -110,11 +110,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MzU0ODM3MywtMTE1ODAwNzA2NSw2MT
-Y5NzUwNjEsLTExMjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1
-MTA4LDczNjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNz
-c4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2
-NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMxMTgsLT
-EyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2
-MDM2Nl19
+eyJoaXN0b3J5IjpbMTE1NzQ1MDUsLTExNTgwMDcwNjUsNjE2OT
+c1MDYxLC0xMTI1MjcwNzY5LDU4ODMzNDE5MiwtMTg1NTY0NTEw
+OCw3MzY2NzQ2NTgsLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLTc3OD
+g3NTg1OCwtNTA1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NTA2Njcx
+OTEsLTI4MjE1MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4LC0xMj
+E0MDY0NjA4LDE5NjQxNjA2MjUsLTMwMjU4MjQ2NSwzOTYzNjAz
+NjZdfQ==
 -->
