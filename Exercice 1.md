@@ -53,7 +53,9 @@ Une grande entreprise française de soutien aux armées du pays, accréditée pa
 
 Quelle solution doit être mise en place pour moderniser l’infrastructure de cette entreprise ? 
 
+
 ---
+IaaS
 
 ## Cas n°5
 TheFoodStore est une petite entreprise qui cherche à publier un site e-commerce rapidement afin de générer ses premières ventes en ligne. 
@@ -63,7 +65,7 @@ Nombre d’employés : 5
 Quelle solution sera la plus adaptée pour TheFoodStore ? 
 
 ---
-
+SaaS
 
 ## Cas n°6 
 DeliverEats est une plateforme permettant de commander et se faire livrer des repas. Elle dispose d’une application mobile et d’un site internet pour passer commande. Les livreurs de commandes disposent d’une application mobile qui les guide dans leurs livraisons, tandis que les restaurateurs reçoivent les commandes à préparer sur une application pour tablette. 
@@ -73,6 +75,7 @@ Nombre d’employés : inconnu
 Quels types d'architecture peuvent être envisagées dans ce cas ? Quels sont les avantages et inconvénients des différentes solutions ?
 
 ---
+SaaS
 
 ## Cas n°7 
 L’entreprise de télévendeurs Onenveutpa a besoin d’un nouveau système pour la gestion des informations de ses potentiels futurs clients. Les télévendeurs travaillent partout dans le monde. 
@@ -86,6 +89,7 @@ Quelle solution proposez-vous ?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNz
-IyMDg4NjUyLC0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
+eyJoaXN0b3J5IjpbLTQ2NjY2MjM3LDIwODQxMDA5MDMsLTE4Nz
+M1NTYxMDUsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMTYwNDI1
+NDM0Nl19
 -->
