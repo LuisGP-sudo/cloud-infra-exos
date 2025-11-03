@@ -56,9 +56,9 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Soit $1066.80 /an
 
  - **OVH**
- Pour cette solutions je vais prendre l'exemple de l'instance PRO2-XS qui comporte exactement les ressources spécifiés a un cout par mois de $80.30 et le stockage de 100 Go qui coute $8.6 par mois.
+ Pour cette solutions je vais prendre l'exemple de l'instance b3-16 qui comporte exactement les ressources spécifiés t le stockage de 100 Go (inclus dans le prix) a un cout par mois de $56.41.
 
-						80.30 + 8.60 = $88.90
+						56.41+ 8.60 = $88.90
 						
 						Total de $88.90 /mois
 						Soit $1066.80 /an
@@ -110,11 +110,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNTc0MDc5LC0xMTU4MDA3MDY1LDYxNj
-k3NTA2MSwtMTEyNTI3MDc2OSw1ODgzMzQxOTIsLTE4NTU2NDUx
-MDgsNzM2Njc0NjU4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nz
-g4NzU4NTgsLTUwNTEyMzUzOCwxMjUzNDQxNDA3LC0xNDUwNjY3
-MTkxLC0yODIxNTE0NSwtMTExMTIyMTc0Niw2MDcxMzExOCwtMT
-IxNDA2NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0NjUsMzk2MzYw
-MzY2XX0=
+eyJoaXN0b3J5IjpbMTA2MzU0ODM3MywtMTE1ODAwNzA2NSw2MT
+Y5NzUwNjEsLTExMjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1
+MTA4LDczNjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNz
+c4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2
+NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMxMTgsLT
+EyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2
+MDM2Nl19
 -->
