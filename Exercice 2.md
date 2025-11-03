@@ -40,7 +40,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Soit $1900.92 /an
 
  - **Azure**
- Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle qui comporte exactement les ressources spécifiés a un cout par mois de $94.17 et le stockage de 128 Go qui coute $10.56. La région étudiée est France Central.
+ Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle qui comporte exactement les ressources spécifiés a un cout par mois de $81.76 et le stockage de 128 Go qui coute $10.56. La région étudiée est France Central.
 
 						81.76 + 10.56 = $92.32
 						
@@ -79,9 +79,10 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUwNT
-EyMzUzOCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0
-NSwtMTExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOT
-Y0MTYwNjI1LC0zMDI1ODI0NjUsMzk2MzYwMzY2LC0xNDcxMjcw
-NTYsLTExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLTc3OD
+g3NTg1OCwtNTA1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NTA2Njcx
+OTEsLTI4MjE1MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4LC0xMj
+E0MDY0NjA4LDE5NjQxNjA2MjUsLTMwMjU4MjQ2NSwzOTYzNjAz
+NjYsLTE0NzEyNzA1NiwtMTEwMjE2MTA4NiwtMjEyOTkxNjAxNl
+19
 -->
