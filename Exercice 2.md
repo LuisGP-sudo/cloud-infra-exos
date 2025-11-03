@@ -80,11 +80,17 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **2 vCPU**
   - **10 Go de stockage disque**
 
+## Réferences bibliographiques
+
+- [AWS] ()
+- GCP
+- Azure
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNjQ5MzMwLC02ODYwMzAxOTYsNzAwNz
-I3NjIzLC03Nzg4NzU4NTgsLTUwNTEyMzUzOCwxMjUzNDQxNDA3
-LC0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIyMTc0Niw2MD
-cxMzExOCwtMTIxNDA2NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0
-NjUsMzk2MzYwMzY2LC0xNDcxMjcwNTYsLTExMDIxNjEwODYsLT
-IxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTI0NTg1MDMzOCwtNjg2MDMwMTk2LDcwMD
+cyNzYyMywtNzc4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQw
+NywtMTQ1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNj
+A3MTMxMTgsLTEyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgy
+NDY1LDM5NjM2MDM2NiwtMTQ3MTI3MDU2LC0xMTAyMTYxMDg2LC
+0yMTI5OTE2MDE2XX0=
 -->
