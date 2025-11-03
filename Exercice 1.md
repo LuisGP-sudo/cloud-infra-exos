@@ -88,13 +88,13 @@ Nombre de télévendeurs : beaucoup trop
 Quelle solution proposez-vous ?
 
 ---
-Cloud Privé IaaS, 
+Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDc1MTM5OCwxMTE4MDcxODQ4LC0yNT
-QyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC0zNDcwODIz
-NTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4NjUyLC
-0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
+eyJoaXN0b3J5IjpbLTE1NDU2NzA5OTEsMTExODA3MTg0OCwtMj
+U0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2OTMwNiwtMzQ3MDgy
+MzU3LDIwODQxMDA5MDMsLTE4NzM1NTYxMDUsMTcyMjA4ODY1Mi
+wtMTE0OTUxNzM2OSwtMTYwNDI1NDM0Nl19
 -->
