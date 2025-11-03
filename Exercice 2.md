@@ -24,7 +24,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
  - **AWS Cloud**
  Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xlarge qui a un cout par heure de $0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
 
-						0.1344 × 720 h = $96.77
+						0.1344 × 720 = $96.77
 						100 × 0.10 = $10.00
 						
 						Total de $106.77 /mois
@@ -33,7 +33,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
  - **Google Cloud**
  Pour cette solutions je vais prendre l'exemple d'un Compute Engine C4 c4a-standard-4 qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et le stockage qui coute $0.000187397/Go. La région étudiée est Europe (London) europe-west2.
 
-						0.204736 × 720 h = $147.41
+						0.204736 × 720 = $147.41
 						100 × 0.11 = $11.00
 						
 						Total de $158.41 /mois
@@ -79,9 +79,9 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NDg1Njc5NSwtNzc4ODc1ODU4LC01MD
-UxMjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwtMjgyMTUx
-NDUsLTExMTEyMjE3NDYsNjA3MTMxMTgsLTEyMTQwNjQ2MDgsMT
-k2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2MDM2NiwtMTQ3MTI3
-MDU2LC0xMTAyMTYxMDg2LC0yMTI5OTE2MDE2XX0=
+eyJoaXN0b3J5IjpbNTE5MTY4MjM1LC03Nzg4NzU4NTgsLTUwNT
+EyMzUzOCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0
+NSwtMTExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOT
+Y0MTYwNjI1LC0zMDI1ODI0NjUsMzk2MzYwMzY2LC0xNDcxMjcw
+NTYsLTExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
 -->
