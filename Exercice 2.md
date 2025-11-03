@@ -60,10 +60,10 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 
 | Service Cloud | Couts mensuels en $ |  
 | ----------- | ----------- |  
-| AWS | $106.77 |  
-| GCP | $158.41|
+| AWS| $106.77 |  
+| GCP| $158.41|
 | Azure| $92.32 |
-| Scaleway | $
+| Scaleway| $88.90|
   
   En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère, sachant en plus que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de vouloir héberger une solution ou service avec une disponibilité à plein temps sans pas dépenser beaucoup d'argent. 
   
@@ -101,7 +101,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQxMzE2OTgsNTg4MzM0MTkyLC0xOD
+eyJoaXN0b3J5IjpbLTExMjUyNzA3NjksNTg4MzM0MTkyLC0xOD
 U1NjQ1MTA4LDczNjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYy
 MywtNzc4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMT
 Q1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMx
