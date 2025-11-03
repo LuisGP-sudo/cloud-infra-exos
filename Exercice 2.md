@@ -26,7 +26,9 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						0.1344 × 720 h = $96.77
 						100 × 0.10 = $10.00
 						
-						Total de **$106.77**
+						Total de $106.7 / mois
+						1241
+
 						
 
 
@@ -53,6 +55,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTg2NDA2MTEsMzk2MzYwMzY2LC0xND
-cxMjcwNTYsLTExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwNjQ4MTgwMywzOTYzNjAzNjYsLTE0Nz
+EyNzA1NiwtMTEwMjE2MTA4NiwtMjEyOTkxNjAxNl19
 -->
