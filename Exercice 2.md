@@ -33,7 +33,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
  - **Google Cloud **
  Pour cette solutions je vais prendre l'exemple d'un Compute Engine C4 c4a-standard-4 qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et le stockage qui coute $0.000187397/Go. La région étudiée est Europe (London) europe-west2.
 
-						0.204736 × 720 h = $96.77
+						0.204736 × 720 h = $147.41
 						100 × 0.10 = $10.00
 						
 						Total de $106.7 / mois
@@ -64,7 +64,8 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3MTMxMTgsLTEyMTQwNjQ2MDgsMTk2ND
-E2MDYyNSwtMzAyNTgyNDY1LDM5NjM2MDM2NiwtMTQ3MTI3MDU2
-LC0xMTAyMTYxMDg2LC0yMTI5OTE2MDE2XX0=
+eyJoaXN0b3J5IjpbLTExMTEyMjE3NDYsNjA3MTMxMTgsLTEyMT
+QwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2MDM2
+NiwtMTQ3MTI3MDU2LC0xMTAyMTYxMDg2LC0yMTI5OTE2MDE2XX
+0=
 -->
