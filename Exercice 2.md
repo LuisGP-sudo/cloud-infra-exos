@@ -27,8 +27,8 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						0.1344 × 720 h = $96.77
 						100 × 0.10 = $10.00
 						
-						Total de $106.77 / mois
-						Soit $1241 / an
+						Total de $106.77 /mois
+						Soit $1241 /an
 
  - **Google Cloud**
  Pour cette solutions je vais prendre l'exemple d'un Compute Engine C4 c4a-standard-4 qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et le stockage qui coute $0.000187397/Go. La région étudiée est Europe (London) europe-west2.
@@ -36,16 +36,16 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						0.204736 × 720 h = $147.41
 						100 × 0.11 = $11.00
 						
-						Total de $158.41 / mois
-						Soit $1900.92/ an
+						Total de $158.41 /mois
+						Soit $1900.92 /an
 
  - **Azure**
  Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle Linux (Ubuntu Pro) qui comporte exactement les ressources spécifiés a un cout par mois de $94.17 et le stockage de 128 Go qui coute $10.56. La région étudiée est France Central.
 
 						94.17 + 10.56  = $104.73
 						
-						Total de $104.73 / mois
-						Soit $1256.76/ an
+						Total de $104.73 /mois
+						Soit $1256.76 /an
 
   
 ## Infrastructure n°2:
@@ -67,7 +67,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDE0NTQ3MiwtNTA1MTIzNTM4LDEyNT
+eyJoaXN0b3J5IjpbMTI1MzI3NDI2MiwtNTA1MTIzNTM4LDEyNT
 M0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIx
 NzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLT
 MwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMTEwMjE2
