@@ -55,6 +55,8 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **20 Go de stockage disque par serveur**
 - **Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin**
 
+Dans ce cas 
+
 ## Infrastructure n°3:
 - **3 serveurs avec les ressources suivantes :**
   - **4 Go de RAM minimum**
@@ -67,9 +69,9 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzI3NDI2MiwtNTA1MTIzNTM4LDEyNT
-M0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIx
-NzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLT
-MwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMTEwMjE2
-MTA4NiwtMjEyOTkxNjAxNl19
+eyJoaXN0b3J5IjpbNjQyNDI5Mjg1LC01MDUxMjM1MzgsMTI1Mz
+Q0MTQwNywtMTQ1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3
+NDYsNjA3MTMxMTgsLTEyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMz
+AyNTgyNDY1LDM5NjM2MDM2NiwtMTQ3MTI3MDU2LC0xMTAyMTYx
+MDg2LC0yMTI5OTE2MDE2XX0=
 -->
