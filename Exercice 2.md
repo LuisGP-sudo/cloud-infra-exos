@@ -12,6 +12,28 @@ Précisions:
 
 Avant de démarrer vous devez récupérer les informations concernant les coûts des différents services. Si des éléments ne sont pas donnés dans les énoncés vous choisissez systématiquement l’option la moins chère !
 
+Infrastructure n°1:
+- 1 serveur avec les ressources suivantes :
+- - 16 Go de RAM minimum
+○ 4 vCPU
+○ 100 Go de stockage disque
+Infrastructure n°2:
+● 6 serveurs avec les ressources suivantes :
+○ 6 Go de RAM minimum
+○ 3 vCPU
+○ 20 Go de stockage disque par serveur
+● Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin
+Infrastructure n°3:
+● 3 serveurs avec les ressources suivantes :
+○ 4 Go de RAM minimum
+○ 2 vCPU
+○ 50 Go de stockage disque par serveur
+● 1 load balancer qui répartit 5 Mb/s de données équitablement vers les 3 serveurs ci-dessus
+● 1 service de base de données managé
+○ 8 Go de RAM minimum
+○ 2 vCPU
+○ 10 Go de stockage disque
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTU3NzA5OTU2NSwtMjEyOTkxNjAxNl19
 -->
