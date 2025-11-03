@@ -58,7 +58,7 @@ Quelle solution doit être mise en place pour moderniser l’infrastructure de c
 
 
 ---
-Cloud Privé - NaaS , infra hybride
+Cloud Privé - NaaS , infra hybride 10M d'euros
 
 ## Cas n°5
 TheFoodStore est une petite entreprise qui cherche à publier un site e-commerce rapidement afin de générer ses premières ventes en ligne. 
@@ -68,7 +68,7 @@ Nombre d’employés : 5
 Quelle solution sera la plus adaptée pour TheFoodStore ? 
 
 ---
-SaaS
+PaaS
 
 ## Cas n°6 
 DeliverEats est une plateforme permettant de commander et se faire livrer des repas. Elle dispose d’une application mobile et d’un site internet pour passer commande. Les livreurs de commandes disposent d’une application mobile qui les guide dans leurs livraisons, tandis que les restaurateurs reçoivent les commandes à préparer sur une application pour tablette. 
@@ -93,8 +93,8 @@ Cloud privé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MD
-M5NTUwODgsLTg1NzU2OTMwNiwtMzQ3MDgyMzU3LDIwODQxMDA5
-MDMsLTE4NzM1NTYxMDUsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OS
-wtMTYwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbOTE0NjQyNTQ4LDExMTgwNzE4NDgsLTI1ND
+I2NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLTM0NzA4MjM1
+NywyMDg0MTAwOTAzLC0xODczNTU2MTA1LDE3MjIwODg2NTIsLT
+ExNDk1MTczNjksLTE2MDQyNTQzNDZdfQ==
 -->
