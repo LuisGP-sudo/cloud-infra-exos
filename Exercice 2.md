@@ -18,7 +18,8 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
    - 4 vCPU
   - 100 Go de stockage disque
  
- Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours 
+ Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, voici les estimations des couts mensuels pour les 5 cloud providers:
+ 
   
 ## Infrastructure n°2:
 - 6 serveurs avec les ressources suivantes :
@@ -39,6 +40,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - 10 Go de stockage disque
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjQ1OTg2MDksLTExMDIxNjEwODYsLT
-IxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbMTY0OTg3NTE0MiwtMTEwMjE2MTA4NiwtMj
+EyOTkxNjAxNl19
 -->
