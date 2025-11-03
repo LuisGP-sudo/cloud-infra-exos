@@ -68,7 +68,7 @@ Nombre d’employés : 5
 Quelle solution sera la plus adaptée pour TheFoodStore ? 
 
 ---
-PaaS
+SaaS - Cloud publique - UberEats, Shopify, etc...
 
 ## Cas n°6 
 DeliverEats est une plateforme permettant de commander et se faire livrer des repas. Elle dispose d’une application mobile et d’un site internet pour passer commande. Les livreurs de commandes disposent d’une application mobile qui les guide dans leurs livraisons, tandis que les restaurateurs reçoivent les commandes à préparer sur une application pour tablette. 
@@ -93,8 +93,8 @@ Cloud privé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0NjQyNTQ4LDExMTgwNzE4NDgsLTI1ND
-I2NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLTM0NzA4MjM1
-NywyMDg0MTAwOTAzLC0xODczNTU2MTA1LDE3MjIwODg2NTIsLT
-ExNDk1MTczNjksLTE2MDQyNTQzNDZdfQ==
+eyJoaXN0b3J5IjpbLTg5MjM1NjA1NCwxMTE4MDcxODQ4LC0yNT
+QyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC0zNDcwODIz
+NTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4NjUyLC
+0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
 -->
