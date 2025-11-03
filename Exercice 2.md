@@ -18,7 +18,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
    - 4 vCPU
   - 100 Go de stockage disque
  
- Je suppose a
+ Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours 
   
 ## Infrastructure n°2:
 - 6 serveurs avec les ressources suivantes :
@@ -39,6 +39,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - 10 Go de stockage disque
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4Nzg0ODg4OSwtMTEwMjE2MTA4NiwtMj
-EyOTkxNjAxNl19
+eyJoaXN0b3J5IjpbLTIwNjQ1OTg2MDksLTExMDIxNjEwODYsLT
+IxMjk5MTYwMTZdfQ==
 -->
