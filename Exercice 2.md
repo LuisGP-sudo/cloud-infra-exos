@@ -90,7 +90,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **2 vCPU**
   - **10 Go de stockage disque**
 
-## Références bibliographiques
+## Références
 
 - AWS ([EC2 On-Demand Instance Pricing](https://aws.amazon.com/ec2/pricing/on-demand/?refid=75a4f739-7816-4022-93a6-34a6f58d2910))
 
@@ -101,11 +101,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2OTc1MDYxLDYxNjk3NTA2MSwtMTEyNT
-I3MDc2OSw1ODgzMzQxOTIsLTE4NTU2NDUxMDgsNzM2Njc0NjU4
-LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUwNT
-EyMzUzOCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0
-NSwtMTExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOT
-Y0MTYwNjI1LC0zMDI1ODI0NjUsMzk2MzYwMzY2LC0xNDcxMjcw
-NTZdfQ==
+eyJoaXN0b3J5IjpbLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0xMT
+I1MjcwNzY5LDU4ODMzNDE5MiwtMTg1NTY0NTEwOCw3MzY2NzQ2
+NTgsLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLTc3ODg3NTg1OCwtNT
+A1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1
+MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LD
+E5NjQxNjA2MjUsLTMwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEy
+NzA1Nl19
 -->
