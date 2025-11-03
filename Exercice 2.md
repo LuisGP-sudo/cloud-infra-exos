@@ -89,13 +89,13 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 
 - Azure ([Pricing - Container Instances | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/container-instances/?msockid=354b77bbccc66ef91e5b613dcdf56f4e))
 - Scaleway ([Virtual Instances Pricing | Scaleway](https://www.scaleway.com/en/pricing/virtual-instances/?cpu=4|4&ram=1|16))
-- OVH ()
+- OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MTc5Njk4NCw3MzY2NzQ2NTgsLTY4Nj
-AzMDE5Niw3MDA3Mjc2MjMsLTc3ODg3NTg1OCwtNTA1MTIzNTM4
-LDEyNTM0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMT
-ExMjIxNzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2
-MjUsLTMwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMT
-EwMjE2MTA4NiwtMjEyOTkxNjAxNl19
+eyJoaXN0b3J5IjpbLTE4NTU2NDUxMDgsNzM2Njc0NjU4LC02OD
+YwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUwNTEyMzUz
+OCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMT
+ExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOTY0MTYw
+NjI1LC0zMDI1ODI0NjUsMzk2MzYwMzY2LC0xNDcxMjcwNTYsLT
+ExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
 -->
