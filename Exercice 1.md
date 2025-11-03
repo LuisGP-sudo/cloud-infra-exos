@@ -47,7 +47,7 @@ Que conseillez-vous à Paul ?
 ---
 SaaS - cloud privé - Google Cloud Storage, Microsoft One Drive
 
-Sinon SSD protable et voila
+Sinon SSD SanDisk 1 To, paye 86 euros one shot et voila
 
 ## Cas n°4
 Une grande entreprise française de soutien aux armées du pays, accréditée par le ministère des armées et dont le nom est confidentiel, a besoin de moderniser ses infrastructures informatiques. Les besoins en termes de diversité de service, de quantité de serveurs, stockages et réseaux évoluent très rapidement.
@@ -93,7 +93,8 @@ Cloud privé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMzk1NTA4OCwtODU3NTY5MzA2LC0zND
-cwODIzNTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4
-NjUyLC0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
+eyJoaXN0b3J5IjpbMTIwMjY1MTIyOSwxNTAzOTU1MDg4LC04NT
+c1NjkzMDYsLTM0NzA4MjM1NywyMDg0MTAwOTAzLC0xODczNTU2
+MTA1LDE3MjIwODg2NTIsLTExNDk1MTczNjksLTE2MDQyNTQzND
+ZdfQ==
 -->
