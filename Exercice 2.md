@@ -22,7 +22,12 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
  Voici les estimations des couts mensuels pour les 5 cloud providers:
  - **AWS Cloud**
  Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xlarge qui a un cout par heure de 0.1344/h et comme stockage gp3 qui coute 0.10/Go
- 0.1344 × 720 h = $96.77
+
+						0.1344 × 720 h = $96.77
+						100 × 0.10$10.00**
+
+
+				 
  
  
   
@@ -45,6 +50,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2MzYwMzY2LC0xNDcxMjcwNTYsLTExMD
-IxNjEwODYsLTIxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNDQ4OTY2NzYsMzk2MzYwMzY2LC0xND
+cxMjcwNTYsLTExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
 -->
