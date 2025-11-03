@@ -47,7 +47,8 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Total de $104.73 /mois
 						Soit $1256.76 /an
 
-### 
+### Tableau récapitulatif des couts
+
   
 ## Infrastructure n°2:
 - **6 serveurs avec les ressources suivantes :**
@@ -70,7 +71,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjUwNzA1MiwtNTA1MTIzNTM4LDEyNT
+eyJoaXN0b3J5IjpbMTYwNzM2OTIxOSwtNTA1MTIzNTM4LDEyNT
 M0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIx
 NzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLT
 MwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMTEwMjE2
