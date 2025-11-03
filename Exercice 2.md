@@ -48,7 +48,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Soit $1107.84 /an
 
 
-### Tableau récapitulatif des couts
+### Conclusion : Tableau récapitulatif des couts
 
 | Service Cloud | Couts mensuels en $ |  
 | ----------- | ----------- |  
@@ -56,7 +56,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 | GCP | $158.41|
 | Azure| $92.32 |
   
-  En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère sachant que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de vouloir héberger une solution ou service avec une disponibilité à plein temps sans pas dépenser beaucoup d'argent. Suivi par AWS avec un cout un peu plus élevé et finalement Google, qui est la solution la plus cher par rapport au type d'instance choisi qui respecte les spécifications minimales de mémoire et vCPU. 
+  En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère, sachant en plus que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de vouloir héberger une solution ou service avec une disponibilité à plein temps sans pas dépenser beaucoup d'argent. Suivi par AWS avec un cout un peu plus élevé et finalement Google, qui est la solution la plus cher par rapport au type d'instance choisi qui respecte les spécifications minimales de mémoire et vCPU. 
 
 ## Infrastructure n°2:
 - **6 serveurs avec les ressources suivantes :**
@@ -79,7 +79,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjA0MDc4NzksLTc3ODg3NTg1OCwtNT
+eyJoaXN0b3J5IjpbLTE0Mjc2OTQ0ODUsLTc3ODg3NTg1OCwtNT
 A1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1
 MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LD
 E5NjQxNjA2MjUsLTMwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEy
