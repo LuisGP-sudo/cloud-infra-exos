@@ -18,7 +18,11 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
    - **4 vCPU**
   - **100 Go de stockage disque**
  
- Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques pour chaque fournisseur. oici les estimations des couts mensuels pour les 5 cloud providers:
+ Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques pour chaque fournisseur. 
+ Voici les estimations des couts mensuels pour les 5 cloud providers:
+ - AWS Cloud
+ Pour cette solutions je vqis prendre l'exemple d'un EC2 t4g.xlarge:
+ 
  
  
   
@@ -41,6 +45,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjg4MTQ5MSwtMTQ3MTI3MDU2LC0xMT
-AyMTYxMDg2LC0yMTI5OTE2MDE2XX0=
+eyJoaXN0b3J5IjpbMzE5NzY4MzEyLC0xNDcxMjcwNTYsLTExMD
+IxNjEwODYsLTIxMjk5MTYwMTZdfQ==
 -->
