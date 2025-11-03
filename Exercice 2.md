@@ -55,7 +55,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **20 Go de stockage disque par serveur**
 - **Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin**
 
-Dans ce cas, cette infrqstructure est utilisée 
+Dans ce cas, cette infrastructure est utilisée 16h sur 7 j 
 
 ## Infrastructure n°3:
 - **3 serveurs avec les ressources suivantes :**
@@ -69,7 +69,7 @@ Dans ce cas, cette infrqstructure est utilisée
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTI5ODU0ODksLTUwNTEyMzUzOCwxMj
+eyJoaXN0b3J5IjpbLTE1ODAxODcwMjksLTUwNTEyMzUzOCwxMj
 UzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIy
 MTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOTY0MTYwNjI1LC
 0zMDI1ODI0NjUsMzk2MzYwMzY2LC0xNDcxMjcwNTYsLTExMDIx
