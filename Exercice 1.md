@@ -58,7 +58,7 @@ Quelle solution doit être mise en place pour moderniser l’infrastructure de c
 
 
 ---
-Cloud Privé - NaaS 
+Cloud Privé - NaaS , infra hybride
 
 ## Cas n°5
 TheFoodStore est une petite entreprise qui cherche à publier un site e-commerce rapidement afin de générer ses premières ventes en ligne. 
@@ -93,8 +93,8 @@ Cloud privé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDI2NTU3NSwxNTAzOTU1MDg4LC04NT
-c1NjkzMDYsLTM0NzA4MjM1NywyMDg0MTAwOTAzLC0xODczNTU2
-MTA1LDE3MjIwODg2NTIsLTExNDk1MTczNjksLTE2MDQyNTQzND
-ZdfQ==
+eyJoaXN0b3J5IjpbMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MD
+M5NTUwODgsLTg1NzU2OTMwNiwtMzQ3MDgyMzU3LDIwODQxMDA5
+MDMsLTE4NzM1NTYxMDUsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OS
+wtMTYwNDI1NDM0Nl19
 -->
