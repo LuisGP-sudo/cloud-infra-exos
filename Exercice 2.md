@@ -27,7 +27,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						0.1344 × 720 h = $96.77
 						100 × 0.10 = $10.00
 						
-						Total de $106.7 / mois
+						Total de $106.77 / mois
 						Soit $1241 / an
 
  - **Google Cloud**
@@ -64,8 +64,8 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NTUzMzQ4OCwtMTExMTIyMTc0Niw2MD
-cxMzExOCwtMTIxNDA2NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0
-NjUsMzk2MzYwMzY2LC0xNDcxMjcwNTYsLTExMDIxNjEwODYsLT
-IxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTI4MjE1MTQ1LC0xMTExMjIxNzQ2LDYwNz
+EzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLTMwMjU4MjQ2
+NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMTEwMjE2MTA4NiwtMj
+EyOTkxNjAxNl19
 -->
