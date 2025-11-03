@@ -47,6 +47,8 @@ Que conseillez-vous à Paul ?
 ---
 SaaS - cloud privé - Google Cloud Storage, Microsoft One Drive
 
+Sinon SSD protable et voila
+
 ## Cas n°4
 Une grande entreprise française de soutien aux armées du pays, accréditée par le ministère des armées et dont le nom est confidentiel, a besoin de moderniser ses infrastructures informatiques. Les besoins en termes de diversité de service, de quantité de serveurs, stockages et réseaux évoluent très rapidement.
 
@@ -91,7 +93,7 @@ Cloud privé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NzU2OTMwNiwtMzQ3MDgyMzU3LDIwOD
-QxMDA5MDMsLTE4NzM1NTYxMDUsMTcyMjA4ODY1MiwtMTE0OTUx
-NzM2OSwtMTYwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbMTUwMzk1NTA4OCwtODU3NTY5MzA2LC0zND
+cwODIzNTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4
+NjUyLC0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
 -->
