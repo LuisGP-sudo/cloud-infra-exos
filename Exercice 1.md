@@ -40,6 +40,7 @@ Iaas
 Paul est un particulier de 37 ans qui souhaite reprendre le contrôle de ses données. Il fait beaucoup de photos et apprécie pouvoir les stocker à un seul endroit mais y accéder depuis de nombreux appareils. Il dispose d’environ 800 Go de données et son besoin en stockage évolue relativement peu. Les compétences en informatique de Paul sont limitées. 
 
 Nombre d’employé : N/A
+
 Que conseillez-vous à Paul ?
 
 ---
@@ -47,15 +48,22 @@ PaaS
 
 ## Cas n°4
 Une grande entreprise française de soutien aux armées du pays, accréditée par le ministère des armées et dont le nom est confidentiel, a besoin de moderniser ses infrastructures informatiques. Les besoins en termes de diversité de service, de quantité de serveurs, stockages et réseaux évoluent très rapidement.
+
  Nombre d’employés : 5000 
 
 Quelle solution doit être mise en place pour moderniser l’infrastructure de cette entreprise ? 
 
+---
+
 ## Cas n°5
 TheFoodStore est une petite entreprise qui cherche à publier un site e-commerce rapidement afin de générer ses premières ventes en ligne. 
+
 Nombre d’employés : 5 
 
 Quelle solution sera la plus adaptée pour TheFoodStore ? 
+
+---
+
 
 ## Cas n°6 
 DeliverEats est une plateforme permettant de commander et se faire livrer des repas. Elle dispose d’une application mobile et d’un site internet pour passer commande. Les livreurs de commandes disposent d’une application mobile qui les guide dans leurs livraisons, tandis que les restaurateurs reçoivent les commandes à préparer sur une application pour tablette. 
@@ -64,14 +72,20 @@ Nombre d’employés : inconnu
 
 Quels types d'architecture peuvent être envisagées dans ce cas ? Quels sont les avantages et inconvénients des différentes solutions ?
 
+---
+
 ## Cas n°7 
 L’entreprise de télévendeurs Onenveutpa a besoin d’un nouveau système pour la gestion des informations de ses potentiels futurs clients. Les télévendeurs travaillent partout dans le monde. 
+
 Nombre de télévendeurs : beaucoup trop 
+
 Quelle solution proposez-vous ?
+
+---
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDE0NjgxMywtMTg3MzU1NjEwNSwxNz
+eyJoaXN0b3J5IjpbMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNz
 IyMDg4NjUyLC0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
 -->
