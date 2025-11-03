@@ -78,7 +78,7 @@ Nombre d’employés : inconnu
 Quels types d'architecture peuvent être envisagées dans ce cas ? Quels sont les avantages et inconvénients des différentes solutions ?
 
 ---
-PaaS - Cloud Publique penser q lq scqlqbil
+PaaS - Cloud Publique penser q lq scalabilité, Kubernetes avec Jenkins 
 
 ## Cas n°7 
 L’entreprise de télévendeurs Onenveutpa a besoin d’un nouveau système pour la gestion des informations de ses potentiels futurs clients. Les télévendeurs travaillent partout dans le monde. 
@@ -93,8 +93,8 @@ Cloud privé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTcwOTk1MzEsMTExODA3MTg0OCwtMj
-U0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2OTMwNiwtMzQ3MDgy
-MzU3LDIwODQxMDA5MDMsLTE4NzM1NTYxMDUsMTcyMjA4ODY1Mi
-wtMTE0OTUxNzM2OSwtMTYwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbMTgwODk5NTA4OCwxMTE4MDcxODQ4LC0yNT
+QyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC0zNDcwODIz
+NTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4NjUyLC
+0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
 -->
