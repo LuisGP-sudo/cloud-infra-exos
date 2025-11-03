@@ -20,7 +20,7 @@ Nombre d’employés : 60
 Quelle solution est la plus adaptée pour héberger les logiciels Eldo ?
 
 ---
-
+Sachant que Eldo travail dans une startup, que le nombre d'employés 
 
 ## Cas n°2
 
@@ -45,6 +45,6 @@ Que conseillez-vous à Paul ?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDk1MTczNjksLTE2MDQyNTQzNDZdfQ
-==
+eyJoaXN0b3J5IjpbMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMT
+YwNDI1NDM0Nl19
 -->
