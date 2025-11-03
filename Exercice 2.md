@@ -53,7 +53,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						80.30 + 8.60 = $88.90
 						
 						Total de $88.90 /mois
-						Soit $ /an
+						Soit $1066.80 /an
 
 
 ### Conclusion: Tableau récapitulatif des couts
@@ -63,6 +63,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 | AWS | $106.77 |  
 | GCP | $158.41|
 | Azure| $92.32 |
+| Scaleway | $
   
   En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère, sachant en plus que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de vouloir héberger une solution ou service avec une disponibilité à plein temps sans pas dépenser beaucoup d'argent. 
   
@@ -100,11 +101,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5ODc2NTY0Niw1ODgzMzQxOTIsLTE4NT
-U2NDUxMDgsNzM2Njc0NjU4LC02ODYwMzAxOTYsNzAwNzI3NjIz
-LC03Nzg4NzU4NTgsLTUwNTEyMzUzOCwxMjUzNDQxNDA3LC0xND
-UwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIyMTc0Niw2MDcxMzEx
-OCwtMTIxNDA2NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0NjUsMz
-k2MzYwMzY2LC0xNDcxMjcwNTYsLTExMDIxNjEwODYsLTIxMjk5
-MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwMjQxMzE2OTgsNTg4MzM0MTkyLC0xOD
+U1NjQ1MTA4LDczNjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYy
+MywtNzc4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMT
+Q1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMx
+MTgsLTEyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LD
+M5NjM2MDM2NiwtMTQ3MTI3MDU2LC0xMTAyMTYxMDg2LC0yMTI5
+OTE2MDE2XX0=
 -->
