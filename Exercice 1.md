@@ -88,12 +88,12 @@ Nombre de télévendeurs : beaucoup trop
 Quelle solution proposez-vous ?
 
 ---
-Cloud privé
+Cloud publique - PaaS, si budget Cloud Privé IaaS
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwODk5NTA4OCwxMTE4MDcxODQ4LC0yNT
+eyJoaXN0b3J5IjpbMTY4NDI5NzMwNywxMTE4MDcxODQ4LC0yNT
 QyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC0zNDcwODIz
 NTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4NjUyLC
 0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
