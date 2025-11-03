@@ -56,7 +56,9 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 | GCP | $158.41|
 | Azure| $92.32 |
   
-  En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère, sachant en plus que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de vouloir héberger une solution ou service avec une disponibilité à plein temps sans pas dépenser beaucoup d'argent. Suivi par AWS avec un cout un peu plus élevé et finalement Google, qui est la solution la plus cher par rapport au type d'instance choisi qui respecte les spécifications minimales de mémoire et vCPU. 
+  En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère, sachant en plus que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de vouloir héberger une solution ou service avec une disponibilité à plein temps sans pas dépenser beaucoup d'argent. 
+  
+Suivi par AWS avec un cout un peu plus élevé et finalement Google, qui est la solution la plus cher des trois fournisseurs analysés. 
 
 ## Infrastructure n°2:
 - **6 serveurs avec les ressources suivantes :**
@@ -79,10 +81,10 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLTc3OD
-g3NTg1OCwtNTA1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NTA2Njcx
-OTEsLTI4MjE1MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4LC0xMj
-E0MDY0NjA4LDE5NjQxNjA2MjUsLTMwMjU4MjQ2NSwzOTYzNjAz
-NjYsLTE0NzEyNzA1NiwtMTEwMjE2MTA4NiwtMjEyOTkxNjAxNl
-19
+eyJoaXN0b3J5IjpbMzgzNjQ5MzMwLC02ODYwMzAxOTYsNzAwNz
+I3NjIzLC03Nzg4NzU4NTgsLTUwNTEyMzUzOCwxMjUzNDQxNDA3
+LC0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIyMTc0Niw2MD
+cxMzExOCwtMTIxNDA2NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0
+NjUsMzk2MzYwMzY2LC0xNDcxMjcwNTYsLTExMDIxNjEwODYsLT
+IxMjk5MTYwMTZdfQ==
 -->
