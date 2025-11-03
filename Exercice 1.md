@@ -28,8 +28,16 @@ Quelle solution pensez-vous la plus optimale et pourquoi ?
 
 ## Cas n°3
 
+Paul est un particulier de 37 ans qui souhaite reprendre le contrôle de ses données. Il fait beaucoup de photos et apprécie pouvoir les stocker à un seul endroit mais y accéder depuis de nombreux appareils. Il dispose d’environ 800 Go de données et son besoin en stockage évolue relativement peu. Les compétences en informatique de Paul sont limitées. 
+
+Nombre d’employé : N/A
+Que conseillez-vous à Paul ?
+
+---
+
+---
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4MDE5MzQ5MiwtMTYwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbMTM2MDkwNzM3NiwtMTYwNDI1NDM0Nl19
 -->
