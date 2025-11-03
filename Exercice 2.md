@@ -47,13 +47,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						
 						Total de $158.41 / mois
 						Soit $1900.92/ an
-				
-						
 
-
-				 
- 
- 
   
 ## Infrastructure n°2:
 - **6 serveurs avec les ressources suivantes :**
@@ -74,7 +68,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODAyMjcxMywtMTQ1MDY2NzE5MSwtMj
+eyJoaXN0b3J5IjpbMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwtMj
 gyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMxMTgsLTEyMTQwNjQ2
 MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2MDM2NiwtMT
 Q3MTI3MDU2LC0xMTAyMTYxMDg2LC0yMTI5OTE2MDE2XX0=
