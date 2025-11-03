@@ -45,8 +45,8 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						94.17 + 10.56  = $104.73
 						
 						
-						Total de $15 / mois
-						Soit $1900.92/ an
+						Total de $104.73 / mois
+						Soit $1256.76/ an
 
   
 ## Infrastructure n°2:
@@ -68,9 +68,9 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ3MzcwMDcsMTI1MzQ0MTQwNywtMT
-Q1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMx
-MTgsLTEyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LD
-M5NjM2MDM2NiwtMTQ3MTI3MDU2LC0xMTAyMTYxMDg2LC0yMTI5
-OTE2MDE2XX0=
+eyJoaXN0b3J5IjpbMjA4MDM5NDk5NiwxMjUzNDQxNDA3LC0xND
+UwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIyMTc0Niw2MDcxMzEx
+OCwtMTIxNDA2NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0NjUsMz
+k2MzYwMzY2LC0xNDcxMjcwNTYsLTExMDIxNjEwODYsLTIxMjk5
+MTYwMTZdfQ==
 -->
