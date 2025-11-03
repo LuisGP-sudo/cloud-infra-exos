@@ -55,7 +55,7 @@ Quelle solution doit être mise en place pour moderniser l’infrastructure de c
 
 
 ---
-IaaS
+Cloud Privé
 
 ## Cas n°5
 TheFoodStore est une petite entreprise qui cherche à publier un site e-commerce rapidement afin de générer ses premières ventes en ligne. 
@@ -85,11 +85,12 @@ Nombre de télévendeurs : beaucoup trop
 Quelle solution proposez-vous ?
 
 ---
+Cloud privé
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjY2MjM3LDIwODQxMDA5MDMsLTE4Nz
-M1NTYxMDUsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMTYwNDI1
-NDM0Nl19
+eyJoaXN0b3J5IjpbLTEzNTk3NTk1MTUsMjA4NDEwMDkwMywtMT
+g3MzU1NjEwNSwxNzIyMDg4NjUyLC0xMTQ5NTE3MzY5LC0xNjA0
+MjU0MzQ2XX0=
 -->
