@@ -1,9 +1,10 @@
 # Exercice: Quel type de cloud pour quels besoins ?
----
+
 >Etudiant: 
 **Luis Antonio GONZALEZ PATINO**
 
-Pour chacun des cas ci-dessous dire quel type de cloud et de XaaS est le plus adapté et pourquoi. Expliquer avec un maximum de détails et des exemples comment répondre aux besoins dans chaque situation. Donner un ordre d’idée du coût de la solution préconisée.
+Pour chacun des cas ci-dessous dire quel type de cloud et de XaaS est le plus adapté et pourquoi. Expliquer avec un maximum de détails et des exemples comment répondre aux besoins dans chaque situation. 
+Donner un ordre d’idée du coût de la solution préconisée.
 
 ## Cas n°1
 
@@ -22,6 +23,7 @@ MySecureProtect est une entreprise qui développe et exploite des objets connect
 Nombre d’employés : 150
 
 Quelle solution pensez-vous la plus optimale et pourquoi ?
+
 ---
 
 
@@ -37,5 +39,6 @@ Que conseillez-vous à Paul ?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0Mjc4NzU1NiwtMTYwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbLTEyNzQ3MDMyMjcsLTE2MDQyNTQzNDZdfQ
+==
 -->
