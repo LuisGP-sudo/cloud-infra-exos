@@ -17,6 +17,8 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - 16 Go de RAM minimum
    - 4 vCPU
   - 100 Go de stockage disque
+ 
+ Je suppose a
   
 ## Infrastructure n°2:
 - 6 serveurs avec les ressources suivantes :
@@ -37,6 +39,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - 10 Go de stockage disque
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ
-==
+eyJoaXN0b3J5IjpbLTk4Nzg0ODg4OSwtMTEwMjE2MTA4NiwtMj
+EyOTkxNjAxNl19
 -->
