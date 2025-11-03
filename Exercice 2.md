@@ -64,6 +64,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 | GCP| $158.41|
 | Azure| $92.32 |
 | Scaleway| $88.90|
+| OVH |
   
   En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère, sachant en plus que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de vouloir héberger une solution ou service avec une disponibilité à plein temps sans pas dépenser beaucoup d'argent. 
   
@@ -101,11 +102,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0xMT
-I1MjcwNzY5LDU4ODMzNDE5MiwtMTg1NTY0NTEwOCw3MzY2NzQ2
-NTgsLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLTc3ODg3NTg1OCwtNT
-A1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1
-MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LD
-E5NjQxNjA2MjUsLTMwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEy
-NzA1Nl19
+eyJoaXN0b3J5IjpbLTE3NzQ2OTQ0MCwtMTE1ODAwNzA2NSw2MT
+Y5NzUwNjEsLTExMjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1
+MTA4LDczNjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNz
+c4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2
+NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMxMTgsLT
+EyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2
+MDM2Nl19
 -->
