@@ -12,12 +12,13 @@ Précisions:
 
 Avant de démarrer vous devez récupérer les informations concernant les coûts des différents services. Si des éléments ne sont pas donnés dans les énoncés vous choisissez systématiquement l’option la moins chère !
 
-Infrastructure n°1:
-- 1 serveur avec les ressources suivantes :
-- - 16 Go de RAM minimum
-○ 4 vCPU
-○ 100 Go de stockage disque
-Infrastructure n°2:
+## Infrastructure n°1:
+- 1 serveur avec les ressources suivantes :  
+  - 16 Go de RAM minimum
+   - 4 vCPU
+  - 100 Go de stockage disque
+  
+  ## Infrastructure n°2:
 ● 6 serveurs avec les ressources suivantes :
 ○ 6 Go de RAM minimum
 ○ 3 vCPU
@@ -35,5 +36,6 @@ Infrastructure n°3:
 ○ 10 Go de stockage disque
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NzA5OTU2NSwtMjEyOTkxNjAxNl19
+eyJoaXN0b3J5IjpbLTE4MDMzMzE5NzgsLTIxMjk5MTYwMTZdfQ
+==
 -->
