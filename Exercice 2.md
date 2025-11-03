@@ -10,7 +10,7 @@ Précisions:
 - Aucun plan d’économie / Saving plans / Spot instances / etc …
 - Région à considérer : France(Paris) ou à défaut Europe
 
-Avant de démarrer vous devez récupérer les informations concernant les coûts des différents services. Si des éléments ne sont pas donnés dans les énoncés vous choisissez systématiquement l’option la moins chère !
+Avant de démarrer vous devez récupérer les informations concernant les coûts des différents services. Si des éléments ne sont pas donnés dans les énoncés vous choisissez systématiquement l’option la moins chère!
 
 ## Infrastructure n°1:
 - **1 serveur avec les ressources suivantes :**
@@ -92,10 +92,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTU2NDUxMDgsNzM2Njc0NjU4LC02OD
-YwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUwNTEyMzUz
-OCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMT
-ExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOTY0MTYw
-NjI1LC0zMDI1ODI0NjUsMzk2MzYwMzY2LC0xNDcxMjcwNTYsLT
-ExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTE2MDM1MDAzNTQsLTE4NTU2NDUxMDgsNz
+M2Njc0NjU4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4
+NTgsLTUwNTEyMzUzOCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC
+0yODIxNTE0NSwtMTExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2
+NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0NjUsMzk2MzYwMzY2LC
+0xNDcxMjcwNTYsLTExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
+
 -->
