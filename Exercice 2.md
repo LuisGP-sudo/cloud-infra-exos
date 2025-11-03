@@ -18,11 +18,11 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
    - **4 vCPU**
   - **100 Go de stockage disque**
  
- Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques et avec les ressources respect pour chaque fournisseur. 
+ Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques et avec les ressources respectés pour chaque fournisseur. 
  Voici les estimations des couts mensuels pour les 5 cloud providers:
  
  - **AWS Cloud**
- Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xlarge qui a un cout par heure de 0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
+ Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xlarge qui a un cout par heure de $0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
 
 						0.1344 × 720 h = $96.77
 						100 × 0.10 = $10.00
@@ -31,7 +31,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Soit $1241 / an
 
  - **Google Cloud **
- Pour cette solutions je vais prendre l'exemple d'un Compute Engine C4 c4a-standard-4 qui comporte exactement les ressources a un cout par heure de 0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
+ Pour cette solutions je vais prendre l'exemple d'un Compute Engine C4 c4a-standard-4 qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
 
 						0.1344 × 720 h = $96.77
 						100 × 0.10 = $10.00
@@ -64,7 +64,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTU3MzU5LDE5NjQxNjA2MjUsLTMwMj
-U4MjQ2NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMTEwMjE2MTA4
-NiwtMjEyOTkxNjAxNl19
+eyJoaXN0b3J5IjpbLTE3MTEwNTUyMTQsMTk2NDE2MDYyNSwtMz
+AyNTgyNDY1LDM5NjM2MDM2NiwtMTQ3MTI3MDU2LC0xMTAyMTYx
+MDg2LC0yMTI5OTE2MDE2XX0=
 -->
