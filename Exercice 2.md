@@ -76,7 +76,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   
   En comparant les prix d'hébérgement dans la zone européenne. OVH est l'option la moins chère, sans compter pas de licences, ni de plans d'économie et taxes. Ce qui pour une PME serait une option a considérer dans le cas de vouloir héberger une solution ou service avec une disponibilité à plein temps sans pas dépenser beaucoup d'argent. 
   
-Suivi par Scaleway avec un cout un peu plus élevé et finalem, qui est la solution la plus cher des trois fournisseurs analysés. 
+Suivi par Scaleway avec un cout un peu plus élevé, suivi par Azure et AWS. Finalement Google, qui est la solution la plus cher des trois fournisseurs analysés. 
 
 ## Infrastructure n°2:
 - **6 serveurs avec les ressources suivantes :**
@@ -110,11 +110,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE1OTA4OSwtMTE1ODAwNzA2NSw2MT
-Y5NzUwNjEsLTExMjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1
-MTA4LDczNjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNz
-c4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2
-NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMxMTgsLT
-EyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2
-MDM2Nl19
+eyJoaXN0b3J5IjpbLTE0NTA3NTE0MzIsLTExNTgwMDcwNjUsNj
+E2OTc1MDYxLC0xMTI1MjcwNzY5LDU4ODMzNDE5MiwtMTg1NTY0
+NTEwOCw3MzY2NzQ2NTgsLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLT
+c3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NTA2
+NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4LC
+0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLTMwMjU4MjQ2NSwzOTYz
+NjAzNjZdfQ==
 -->
