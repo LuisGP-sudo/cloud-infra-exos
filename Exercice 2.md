@@ -18,24 +18,25 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
    - 4 vCPU
   - 100 Go de stockage disque
   
-  ## Infrastructure n°2:
-● 6 serveurs avec les ressources suivantes :
-○ 6 Go de RAM minimum
-○ 3 vCPU
-○ 20 Go de stockage disque par serveur
-● Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin
-Infrastructure n°3:
-● 3 serveurs avec les ressources suivantes :
-○ 4 Go de RAM minimum
-○ 2 vCPU
-○ 50 Go de stockage disque par serveur
-● 1 load balancer qui répartit 5 Mb/s de données équitablement vers les 3 serveurs ci-dessus
+## Infrastructure n°2:
+- 6 serveurs avec les ressources suivantes :
+  - 6 Go de RAM minimum
+  - 3 vCPU
+  - 20 Go de stockage disque par serveur
+- Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin
+
+## Infrastructure n°3:
+- 3 serveurs avec les ressources suivantes :
+  - 4 Go de RAM minimum
+  - 2 vCPU
+  - 50 Go de stockage disque par serveur
+- 1 load balancer qui répartit 5 Mb/s de données équitablement vers les 3 serveurs ci-dessus
 ● 1 service de base de données managé
 ○ 8 Go de RAM minimum
 ○ 2 vCPU
 ○ 10 Go de stockage disque
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDMzMzE5NzgsLTIxMjk5MTYwMTZdfQ
+eyJoaXN0b3J5IjpbLTE4MzA0MTk1ODIsLTIxMjk5MTYwMTZdfQ
 ==
 -->
