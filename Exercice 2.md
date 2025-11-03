@@ -19,7 +19,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **100 Go de stockage disque**
  
  Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques et avec les ressources respectés pour chaque fournisseur. 
- Voici les estimations des couts mensuels pour les 5 cloud providers:
+ Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
  
  - **AWS Cloud**
  Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xlarge qui a un cout par heure de $0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
@@ -68,7 +68,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDM5NDk5NiwxMjUzNDQxNDA3LC0xND
+eyJoaXN0b3J5IjpbLTUwNTEyMzUzOCwxMjUzNDQxNDA3LC0xND
 UwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIyMTc0Niw2MDcxMzEx
 OCwtMTIxNDA2NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0NjUsMz
 k2MzYwMzY2LC0xNDcxMjcwNTYsLTExMDIxNjEwODYsLTIxMjk5
