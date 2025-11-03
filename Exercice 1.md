@@ -1,6 +1,8 @@
 # Exercice: Quel type de cloud pour quels besoins ?
-Etudiant: 
+---
+>Etudiant: 
 **Luis Antonio GONZALEZ PATINO**
+
 
 Pour chacun des cas ci-dessous dire quel type de cloud et de XaaS est le plus adapté et pourquoi. Expliquer avec un maximum de détails et des exemples comment répondre aux besoins dans chaque situation. Donner un ordre d’idée du coût de la solution préconisée.
 
@@ -12,8 +14,7 @@ Nombre d’employés : 60
 Quelle solution est la plus adaptée pour héberger les logiciels Eldo ?
 
 ---
-
----
+test
 
 ## Cas n°2
 
@@ -39,5 +40,5 @@ Que conseillez-vous à Paul ?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDkwNzM3NiwtMTYwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbLTU1Njk5OTgyLC0xNjA0MjU0MzQ2XX0=
 -->
