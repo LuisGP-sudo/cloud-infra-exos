@@ -40,7 +40,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Soit $1900.92/ an
 
  - **Azure**
- Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle c4a-standard-4 qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et le stockage qui coute $0.000187397/Go. La région étudiée est Europe (London) europe-west2.
+ Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle Linux (Ubuntu) qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et le stockage qui coute $0.000187397/Go. La région étudiée est Europe (London) europe-west2.
 
 						0.204736 × 720 h = $147.41
 						100 × 0.11 = $11.00
@@ -68,8 +68,9 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwtMj
-gyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMxMTgsLTEyMTQwNjQ2
-MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2MDM2NiwtMT
-Q3MTI3MDU2LC0xMTAyMTYxMDg2LC0yMTI5OTE2MDE2XX0=
+eyJoaXN0b3J5IjpbNDY3ODE3OTYsMTI1MzQ0MTQwNywtMTQ1MD
+Y2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMxMTgs
+LTEyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LDM5Nj
+M2MDM2NiwtMTQ3MTI3MDU2LC0xMTAyMTYxMDg2LC0yMTI5OTE2
+MDE2XX0=
 -->
