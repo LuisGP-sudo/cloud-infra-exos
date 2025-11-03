@@ -47,14 +47,17 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Total de $92.32 /mois
 						Soit $1107.84 /an
 
+
 ### Tableau récapitulatif des couts
 
 | Service Cloud | Couts mensuels en $ |  
 | ----------- | ----------- |  
 | AWS | $106.77 |  
 | GCP | $158.41|
-| Azure| $104.73 |
+| Azure| $92.32 |
   
+  En comparant le
+
 ## Infrastructure n°2:
 - **6 serveurs avec les ressources suivantes :**
   - **6 Go de RAM minimum**
@@ -76,9 +79,9 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkxMTgwMjY3LC01MDUxMjM1MzgsMTI1Mz
-Q0MTQwNywtMTQ1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3
-NDYsNjA3MTMxMTgsLTEyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMz
-AyNTgyNDY1LDM5NjM2MDM2NiwtMTQ3MTI3MDU2LC0xMTAyMTYx
-MDg2LC0yMTI5OTE2MDE2XX0=
+eyJoaXN0b3J5IjpbLTE1NTMzNzM5NjMsLTUwNTEyMzUzOCwxMj
+UzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIy
+MTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOTY0MTYwNjI1LC
+0zMDI1ODI0NjUsMzk2MzYwMzY2LC0xNDcxMjcwNTYsLTExMDIx
+NjEwODYsLTIxMjk5MTYwMTZdfQ==
 -->
