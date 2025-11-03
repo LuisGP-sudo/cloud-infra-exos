@@ -18,7 +18,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
    - **4 vCPU**
   - **100 Go de stockage disque**
  
- Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques et avec les ressources respectés pour chaque fournisseur sans compter d'OS. 
+ Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques et avec les ressources respectés pour chaque fournisseur sans compter d'OS dans des Cloud publics. 
  Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
  
  - **AWS Cloud**
@@ -67,7 +67,7 @@ Suivi par AWS avec un cout un peu plus élevé et finalement Google, qui est la 
   - **20 Go de stockage disque par serveur**
 - **Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin**
 
-Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 jour, en précisant que je compare les options plus économiques et avec les ressources respectés pour chaque fournisseur sans compter d'OS. 
+Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur sans compter d'OS et dans des clouds. 
  Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
 
 ## Infrastructure n°3:
@@ -90,10 +90,10 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - Azure ([Pricing - Container Instances | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/container-instances/?msockid=354b77bbccc66ef91e5b613dcdf56f4e))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM2Njc0NjU4LC02ODYwMzAxOTYsNzAwNz
-I3NjIzLC03Nzg4NzU4NTgsLTUwNTEyMzUzOCwxMjUzNDQxNDA3
-LC0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIyMTc0Niw2MD
-cxMzExOCwtMTIxNDA2NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0
-NjUsMzk2MzYwMzY2LC0xNDcxMjcwNTYsLTExMDIxNjEwODYsLT
-IxMjk5MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbLTIwODEzNjU3NTUsNzM2Njc0NjU4LC02OD
+YwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUwNTEyMzUz
+OCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMT
+ExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOTY0MTYw
+NjI1LC0zMDI1ODI0NjUsMzk2MzYwMzY2LC0xNDcxMjcwNTYsLT
+ExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
 -->
