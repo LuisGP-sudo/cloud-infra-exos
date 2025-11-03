@@ -82,12 +82,12 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 
 ## Réferences bibliographiques
 
-- [AWS] ()
-- GCP
-- Azure
+- AWS 
+- GCP ([Pricing | Compute Engine: Virtual Machines (VMs) | Google Cloud | Google Cloud](https://cloud.google.com/compute/all-pricing))
+- Azure ([Pricing - Container Instances | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/container-instances/?msockid=354b77bbccc66ef91e5b613dcdf56f4e))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTg1MDMzOCwtNjg2MDMwMTk2LDcwMD
+eyJoaXN0b3J5IjpbLTU4MDQ3NDg4OSwtNjg2MDMwMTk2LDcwMD
 cyNzYyMywtNzc4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQw
 NywtMTQ1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNj
 A3MTMxMTgsLTEyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgy
