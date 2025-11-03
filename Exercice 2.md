@@ -8,7 +8,7 @@ Précisions:
 - Les coûts sont à présenter en $USD, hors taxes par périodicité mensuelle
 -  Aucune licence n’est utilisé
 - Aucun plan d’économie / Saving plans / Spot instances / etc …
-- Région à considérer : France(Paris) ou à défaut Europe
+- Région à considérer : France (Paris) ou à défaut Europe
 
 Avant de démarrer vous devez récupérer les informations concernant les coûts des différents services. Si des éléments ne sont pas donnés dans les énoncés vous choisissez systématiquement l’option la moins chère!
 
@@ -92,11 +92,10 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDM1MDAzNTQsLTE4NTU2NDUxMDgsNz
-M2Njc0NjU4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4
-NTgsLTUwNTEyMzUzOCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC
-0yODIxNTE0NSwtMTExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2
-NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0NjUsMzk2MzYwMzY2LC
-0xNDcxMjcwNTYsLTExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ==
-
+eyJoaXN0b3J5IjpbNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDczNj
+Y3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1ODU4
+LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwtMj
+gyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMxMTgsLTEyMTQwNjQ2
+MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LDM5NjM2MDM2NiwtMT
+Q3MTI3MDU2LC0xMTAyMTYxMDg2LC0yMTI5OTE2MDE2XX0=
 -->
