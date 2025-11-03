@@ -31,12 +31,12 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - 2 vCPU
   - 50 Go de stockage disque par serveur
 - 1 load balancer qui répartit 5 Mb/s de données équitablement vers les 3 serveurs ci-dessus
-● 1 service de base de données managé
-○ 8 Go de RAM minimum
-○ 2 vCPU
-○ 10 Go de stockage disque
+- 1 service de base de données managé
+  - 8 Go de RAM minimum
+  - 2 vCPU
+  - 10 Go de stockage disque
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzA0MTk1ODIsLTIxMjk5MTYwMTZdfQ
+eyJoaXN0b3J5IjpbLTExMDIxNjEwODYsLTIxMjk5MTYwMTZdfQ
 ==
 -->
