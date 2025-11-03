@@ -13,18 +13,18 @@ Précisions:
 Avant de démarrer vous devez récupérer les informations concernant les coûts des différents services. Si des éléments ne sont pas donnés dans les énoncés vous choisissez systématiquement l’option la moins chère !
 
 ## Infrastructure n°1:
-- 1 serveur avec les ressources suivantes :  
-  - 16 Go de RAM minimum
-   - 4 vCPU
-  - 100 Go de stockage disque
+- **1 serveur avec les ressources suivantes :**
+  - **16 Go de RAM minimum** 
+   - **4 vCPU**
+  - **100 Go de stockage disque**
  
  Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, voici les estimations des couts mensuels pour les 5 cloud providers:
  
   
 ## Infrastructure n°2:
-- 6 serveurs avec les ressources suivantes :
-  - 6 Go de RAM minimum
-  - 3 vCPU
+- **6 serveurs avec les ressources suivantes :**
+  - **6 Go de RAM minimum**
+  - *3 vCPU
   - 20 Go de stockage disque par serveur
 - Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin
 
@@ -40,6 +40,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - 10 Go de stockage disque
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTg3NTE0MiwtMTEwMjE2MTA4NiwtMj
-EyOTkxNjAxNl19
+eyJoaXN0b3J5IjpbODg4MDg0MjYsLTExMDIxNjEwODYsLTIxMj
+k5MTYwMTZdfQ==
 -->
