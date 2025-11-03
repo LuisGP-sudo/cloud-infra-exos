@@ -6,6 +6,12 @@
 Pour chacun des cas ci-dessous dire quel type de cloud et de XaaS est le plus adapté et pourquoi. Expliquer avec un maximum de détails et des exemples comment répondre aux besoins dans chaque situation. 
 Donner un ordre d’idée du coût de la solution préconisée.
 
+En plus du cours et de vos connaissances de certains outils et logiciels, il est nécessaire de faire des recherches complémentaires sur internet pour apporter un maximum d’informations. Vous pouvez échanger et débattre entre vous des solutions mais chacun doit formuler ses propres réponses. 
+
+Compétences : 
+-  Concevoir des architectures évolutives et fiables 
+- Surveiller et optimiser l'utilisation des ressources
+
 ## Cas n°1
 
 Eldo est une start-up qui développe un logiciel qui a pour objectif la mise en relation de professionnels du BTP avec des prospects qui souhaitent faire des travaux chez eux. En plus d’un module de mise en relation, Eldo développe un CRM pour les professionnels du BTP. 
@@ -14,7 +20,7 @@ Nombre d’employés : 60
 Quelle solution est la plus adaptée pour héberger les logiciels Eldo ?
 
 ---
-test
+
 
 ## Cas n°2
 
@@ -39,6 +45,6 @@ Que conseillez-vous à Paul ?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzQ3MDMyMjcsLTE2MDQyNTQzNDZdfQ
+eyJoaXN0b3J5IjpbLTExNDk1MTczNjksLTE2MDQyNTQzNDZdfQ
 ==
 -->
