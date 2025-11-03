@@ -94,18 +94,18 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 
 - AWS ([EC2 On-Demand Instance Pricing](https://aws.amazon.com/ec2/pricing/on-demand/?refid=75a4f739-7816-4022-93a6-34a6f58d2910))
 
-- GCP ([Pricing | Compute Engine: Virtual Machines (VMs) | Google Cloud | Google Cloud](https://cloud.google.com/compute/all-pricing))
+- GCP ([Pricing | Compute Engine: Virtual Machines (VMs) | Google Cloud](https://cloud.google.com/compute/all-pricing))
 
 - Azure ([Pricing - Container Instances | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/container-instances/?msockid=354b77bbccc66ef91e5b613dcdf56f4e))
 - Scaleway ([Virtual Instances Pricing | Scaleway](https://www.scaleway.com/en/pricing/virtual-instances/?cpu=4|4&ram=1|16))
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUyNzA3NjksNTg4MzM0MTkyLC0xOD
-U1NjQ1MTA4LDczNjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYy
-MywtNzc4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMT
-Q1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3MTMx
-MTgsLTEyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgyNDY1LD
-M5NjM2MDM2NiwtMTQ3MTI3MDU2LC0xMTAyMTYxMDg2LC0yMTI5
-OTE2MDE2XX0=
+eyJoaXN0b3J5IjpbNjE2OTc1MDYxLC0xMTI1MjcwNzY5LDU4OD
+MzNDE5MiwtMTg1NTY0NTEwOCw3MzY2NzQ2NTgsLTY4NjAzMDE5
+Niw3MDA3Mjc2MjMsLTc3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNT
+M0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIx
+NzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLT
+MwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMTEwMjE2
+MTA4Nl19
 -->
