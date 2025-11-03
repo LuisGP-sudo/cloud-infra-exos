@@ -56,7 +56,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 | GCP | $158.41|
 | Azure| $92.32 |
   
-  En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère sachant que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de 
+  En comparant les prix d'hébérgement dans la zone européenne. Azure est l'option la moins chère sachant que pour respecter les contraintes j'ai augmenté le stockage de 28 Go et sans compter pas de licences, ni de plans d'économie. Ce qui pour une PME serait une option a considérer dans le cas de vouloir hébérger une application avec une disponibilité à plein temps sans pas dépenser breaucoup d'argent .
 
 ## Infrastructure n°2:
 - **6 serveurs avec les ressources suivantes :**
@@ -79,7 +79,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDY5MzI0NiwtNTA1MTIzNTM4LDEyNT
+eyJoaXN0b3J5IjpbLTc3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNT
 M0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIx
 NzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLT
 MwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMTEwMjE2
