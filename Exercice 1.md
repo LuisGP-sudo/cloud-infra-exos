@@ -45,7 +45,7 @@ Nombre d’employé : N/A
 Que conseillez-vous à Paul ?
 
 ---
-PaaS
+PaaS - privé
 
 ## Cas n°4
 Une grande entreprise française de soutien aux armées du pays, accréditée par le ministère des armées et dont le nom est confidentiel, a besoin de moderniser ses infrastructures informatiques. Les besoins en termes de diversité de service, de quantité de serveurs, stockages et réseaux évoluent très rapidement.
@@ -91,7 +91,7 @@ Cloud privé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4ODcxMzA5LDIwODQxMDA5MDMsLTE4Nz
-M1NTYxMDUsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMTYwNDI1
-NDM0Nl19
+eyJoaXN0b3J5IjpbLTIwNzg4ODU3ODYsMjA4NDEwMDkwMywtMT
+g3MzU1NjEwNSwxNzIyMDg4NjUyLC0xMTQ5NTE3MzY5LC0xNjA0
+MjU0MzQ2XX0=
 -->
