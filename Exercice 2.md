@@ -80,14 +80,16 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **2 vCPU**
   - **10 Go de stockage disque**
 
-## Réferences bibliographiques
+## Références bibliographiques
 
-- AWS 
+- AWS ([EC2 On-Demand Instance Pricing](https://aws.amazon.com/ec2/pricing/on-demand/?refid=75a4f739-7816-4022-93a6-34a6f58d2910))
+
 - GCP ([Pricing | Compute Engine: Virtual Machines (VMs) | Google Cloud | Google Cloud](https://cloud.google.com/compute/all-pricing))
+
 - Azure ([Pricing - Container Instances | Microsoft Azure](https://azure.microsoft.com/en-us/pricing/details/container-instances/?msockid=354b77bbccc66ef91e5b613dcdf56f4e))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQ3NDg4OSwtNjg2MDMwMTk2LDcwMD
+eyJoaXN0b3J5IjpbMTEyMTA3NjM5MywtNjg2MDMwMTk2LDcwMD
 cyNzYyMywtNzc4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQw
 NywtMTQ1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNj
 A3MTMxMTgsLTEyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMzAyNTgy
