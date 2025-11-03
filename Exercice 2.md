@@ -40,10 +40,9 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Soit $1900.92/ an
 
  - **Azure**
- Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle Linux (Ubuntu Pro) qui comporte exactement les ressources spécifiés a un cout par mois de $94.17 et le stockage de 128 Go qui coute $10.56. La région étudiée est France Central
+ Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle Linux (Ubuntu Pro) qui comporte exactement les ressources spécifiés a un cout par mois de $94.17 et le stockage de 128 Go qui coute $10.56. La région étudiée est France Central.
 
 						94.17 + 10.56  = $104.73
-						
 						
 						Total de $104.73 / mois
 						Soit $1256.76/ an
@@ -68,9 +67,9 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTEyMzUzOCwxMjUzNDQxNDA3LC0xND
-UwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIyMTc0Niw2MDcxMzEx
-OCwtMTIxNDA2NDYwOCwxOTY0MTYwNjI1LC0zMDI1ODI0NjUsMz
-k2MzYwMzY2LC0xNDcxMjcwNTYsLTExMDIxNjEwODYsLTIxMjk5
-MTYwMTZdfQ==
+eyJoaXN0b3J5IjpbMjA3MDE0NTQ3MiwtNTA1MTIzNTM4LDEyNT
+M0NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIx
+NzQ2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLT
+MwMjU4MjQ2NSwzOTYzNjAzNjYsLTE0NzEyNzA1NiwtMTEwMjE2
+MTA4NiwtMjEyOTkxNjAxNl19
 -->
