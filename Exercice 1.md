@@ -18,9 +18,11 @@ Eldo est une start-up qui développe un logiciel qui a pour objectif la mise en 
 Nombre d’employés : 60 
 
 Quelle solution est la plus adaptée pour héberger les logiciels Eldo ?
+Sachant que Eldo travail dans une startup, que le nombre d'employés 
 
 ---
-Sachant que Eldo travail dans une startup, que le nombre d'employés 
+SaaS
+
 
 ## Cas n°2
 
@@ -30,10 +32,8 @@ Nombre d’employés : 150
 
 Quelle solution pensez-vous la plus optimale et pourquoi ?
 
-
-
 ---
-
+Iaas
 
 ## Cas n°3
 
@@ -43,10 +43,11 @@ Nombre d’employé : N/A
 Que conseillez-vous à Paul ?
 
 ---
+PaaS
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyNDg0MjQsMTcyMjA4ODY1MiwtMTE0OT
-UxNzM2OSwtMTYwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbLTE4NzM1NTYxMDUsMTcyMjA4ODY1MiwtMT
+E0OTUxNzM2OSwtMTYwNDI1NDM0Nl19
 -->
