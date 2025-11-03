@@ -33,7 +33,8 @@ Nombre d’employés : 150
 Quelle solution pensez-vous la plus optimale et pourquoi ?
 
 ---
-Iaas
+IaaS - cloud privé
+AWS IoT très cher 
 
 ## Cas n°3
 
@@ -90,7 +91,7 @@ Cloud privé
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ1NTIxODExLDIwODQxMDA5MDMsLTE4Nz
+eyJoaXN0b3J5IjpbODk4ODcxMzA5LDIwODQxMDA5MDMsLTE4Nz
 M1NTYxMDUsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMTYwNDI1
 NDM0Nl19
 -->
