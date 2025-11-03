@@ -31,7 +31,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						Soit $1241 / an
 
  - **Google Cloud **
- Pour cette solutions je vais prendre l'exemple d'un Compute Engine C4 c4a-standard-4 qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
+ Pour cette solutions je vais prendre l'exemple d'un Compute Engine C4 c4a-standard-4 qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et le stockage qui coute $0.000187397/Go. La région étudiée est Europe (London) europe-west2.
 
 						0.1344 × 720 h = $96.77
 						100 × 0.10 = $10.00
@@ -64,7 +64,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **10 Go de stockage disque**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTEwNTUyMTQsMTk2NDE2MDYyNSwtMz
+eyJoaXN0b3J5IjpbLTEyMTQwNjQ2MDgsMTk2NDE2MDYyNSwtMz
 AyNTgyNDY1LDM5NjM2MDM2NiwtMTQ3MTI3MDU2LC0xMTAyMTYx
 MDg2LC0yMTI5OTE2MDE2XX0=
 -->
