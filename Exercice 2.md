@@ -88,6 +88,48 @@ Suivi par Scaleway avec un cout un peu plus élevé, suivi par Azure et AWS. Fin
 Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur sans compter d'OS et dans des clouds publics. 
  Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
 
+ - **AWS Cloud**
+ Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xlarge qui a un cout par heure de $0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
+
+						0.1344 × 720 = $96.77
+						100 × 0.10 = $10.00
+						
+						Total de $106.77 /mois
+						Soit $1241 /an
+
+ - **Google Cloud**
+ Pour cette solutions je vais prendre l'exemple d'un Compute Engine C4 c4a-standard-4 qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et le stockage qui coute $0.000187397/Go. La région étudiée est Europe (London) europe-west2.
+
+						0.204736 × 720 = $147.41
+						100 × 0.11 = $11.00
+						
+						Total de $158.41 /mois
+						Soit $1900.92 /an
+
+ - **Azure**
+ Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle qui comporte exactement les ressources spécifiés a un cout par mois de $81.76 et le stockage de 128 Go qui coute $10.56. La région étudiée est France Central.
+
+						81.76 + 10.56 = $92.32
+						
+						Total de $92.32 /mois
+						Soit $1107.84 /an
+
+ - **Scaleway**
+ Pour cette solutions je vais prendre l'exemple de l'instance PRO2-XS qui comporte exactement les ressources spécifiés a un cout par mois de $80.30 et le stockage de 100 Go qui coute $8.6 par mois.
+
+						80.30 + 8.60 = $88.90
+						
+						Total de $88.90 /mois
+						Soit $1066.80 /an
+
+ - **OVH**
+ Pour cette solutions je vais prendre l'exemple de l'instance b3-16 qui comporte exactement les ressources spécifiés le stockage de 100 Go (inclus dans le prix) a un cout par mois de $56.41.
+
+						56.41 x 12 = $88.90
+						
+						Total de $56.41 /mois
+						Soit $676 /an
+
 ## Infrastructure n°3:
 - **3 serveurs avec les ressources suivantes :**
   - **4 Go de RAM minimum**
@@ -110,11 +152,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTA3NTE0MzIsLTExNTgwMDcwNjUsNj
-E2OTc1MDYxLC0xMTI1MjcwNzY5LDU4ODMzNDE5MiwtMTg1NTY0
-NTEwOCw3MzY2NzQ2NTgsLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLT
-c3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NTA2
-NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4LC
-0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLTMwMjU4MjQ2NSwzOTYz
-NjAzNjZdfQ==
+eyJoaXN0b3J5IjpbLTExOTQ2MjM4NjEsLTE0NTA3NTE0MzIsLT
+ExNTgwMDcwNjUsNjE2OTc1MDYxLC0xMTI1MjcwNzY5LDU4ODMz
+NDE5MiwtMTg1NTY0NTEwOCw3MzY2NzQ2NTgsLTY4NjAzMDE5Ni
+w3MDA3Mjc2MjMsLTc3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNTM0
+NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIxNz
+Q2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLTMw
+MjU4MjQ2NV19
 -->
