@@ -18,7 +18,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
    - **4 vCPU**
   - **100 Go de stockage disque**
  
- Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur sans compter d'OS, les taxes et dans des Cloud publics. 
+ Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur san, les taxes et dans des Cloud publics. 
  Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
  
  - **AWS Cloud**
@@ -152,11 +152,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTQ2MjM4NjEsLTE0NTA3NTE0MzIsLT
-ExNTgwMDcwNjUsNjE2OTc1MDYxLC0xMTI1MjcwNzY5LDU4ODMz
-NDE5MiwtMTg1NTY0NTEwOCw3MzY2NzQ2NTgsLTY4NjAzMDE5Ni
-w3MDA3Mjc2MjMsLTc3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNTM0
-NDE0MDcsLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIxNz
-Q2LDYwNzEzMTE4LC0xMjE0MDY0NjA4LDE5NjQxNjA2MjUsLTMw
-MjU4MjQ2NV19
+eyJoaXN0b3J5IjpbNDc3ODg5MTMzLC0xMTk0NjIzODYxLC0xND
+UwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEyNTI3
+MDc2OSw1ODgzMzQxOTIsLTE4NTU2NDUxMDgsNzM2Njc0NjU4LC
+02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUwNTEy
+MzUzOCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0yODIxNTE0NS
+wtMTExMTIyMTc0Niw2MDcxMzExOCwtMTIxNDA2NDYwOCwxOTY0
+MTYwNjI1XX0=
 -->
