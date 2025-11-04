@@ -78,7 +78,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   
 Suivi par Scaleway avec un cout un peu plus élevé, suivi par Azure et AWS. Finalement Google, qui est la solution la plus cher des trois fournisseurs analysés. 
 
-## Infrastructure n°2:
+## Infrastructure n°2: a faire 
 - **6 serveurs avec les ressources suivantes :**
   - **6 Go de RAM minimum**
   - **3 vCPU**
@@ -130,7 +130,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 						Total de $56.41 /mois
 						Soit $676 /an
 
-## Infrastructure n°3:
+## Infrastructure n°3: a faire 
 - **3 serveurs avec les ressources suivantes :**
   - **4 Go de RAM minimum**
   - **2 vCPU**
@@ -152,11 +152,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NDA1MjU1MSwtMTE5NDYyMzg2MSwtMT
-Q1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTExMjUy
-NzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDczNjY3NDY1OC
-wtNjg2MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1ODU4LC01MDUx
-MjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwtMjgyMTUxND
-UsLTExMTEyMjE3NDYsNjA3MTMxMTgsLTEyMTQwNjQ2MDgsMTk2
-NDE2MDYyNV19
+eyJoaXN0b3J5IjpbNjAyOTcxNDg1LDEzODQwNTI1NTEsLTExOT
+Q2MjM4NjEsLTE0NTA3NTE0MzIsLTExNTgwMDcwNjUsNjE2OTc1
+MDYxLC0xMTI1MjcwNzY5LDU4ODMzNDE5MiwtMTg1NTY0NTEwOC
+w3MzY2NzQ2NTgsLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLTc3ODg3
+NTg1OCwtNTA1MTIzNTM4LDEyNTM0NDE0MDcsLTE0NTA2NjcxOT
+EsLTI4MjE1MTQ1LC0xMTExMjIxNzQ2LDYwNzEzMTE4LC0xMjE0
+MDY0NjA4XX0=
 -->
