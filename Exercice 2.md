@@ -36,7 +36,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						100 × 0.11 = $11.00
 						
 						Total de $158.41 /mois
-						Soit $1900.92 /an
 
  - **Azure**
  Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle qui comporte exactement les ressources spécifiés a un cout par mois de $81.76 et le stockage de 128 Go qui coute $10.56. La région étudiée est France Central.
@@ -44,7 +43,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						81.76 + 10.56 = $92.32
 						
 						Total de $92.32 /mois
-						Soit $1107.84 /an
 
  - **Scaleway**
  Pour cette solutions je vais prendre l'exemple de l'instance PRO2-XS qui comporte exactement les ressources spécifiés a un cout par mois de $80.30 et le stockage de 100 Go qui coute $8.6 par mois.
@@ -52,7 +50,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						80.30 + 8.60 = $88.90
 						
 						Total de $88.90 /mois
-						Soit $1066.80 /an
 
  - **OVH**
  Pour cette solutions je vais prendre l'exemple de l'instance b3-16 qui comporte exactement les ressources spécifiés le stockage de 100 Go (inclus dans le prix) a un cout par mois de $56.41.
@@ -143,11 +140,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTYxOTA0NzUsMTAzMzUwODczMyw2MD
-I5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYyMzg2MSwtMTQ1MDc1
-MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTExMjUyNzA3Nj
-ksNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDczNjY3NDY1OCwtNjg2
-MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1ODU4LC01MDUxMjM1Mz
-gsMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwtMjgyMTUxNDUsLTEx
-MTEyMjE3NDZdfQ==
+eyJoaXN0b3J5IjpbLTE4NzgyMjE3NjMsLTEwNTYxOTA0NzUsMT
+AzMzUwODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYy
+Mzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNj
+EsLTExMjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDcz
+NjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1OD
+U4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwt
+MjgyMTUxNDVdfQ==
 -->
