@@ -28,7 +28,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						100 × 0.10 = $10.00
 						
 						Total de $106.77 /mois
-						Soit $1241 /an
 
  - **Google Cloud**
  Pour cette solutions je vais prendre l'exemple d'un Compute Engine C4 c4a-standard-4 qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et le stockage qui coute $0.000187397/Go. La région étudiée est Europe (London) europe-west2.
@@ -89,7 +88,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
  Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
 
  - **AWS Cloud**
- Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xlarge qui a un cout par heure de $0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
+ Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xl qui a un cout par heure de $0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
 
 					(0.1344 × 720) + (20 × 0.10) = $98.77
 					98.77 x 3 = $296.31 pour les 3 serveurs qui tournent 24h/7
@@ -144,11 +143,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzUwODczMyw2MDI5NzE0ODUsMTM4ND
-A1MjU1MSwtMTE5NDYyMzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAw
-NzA2NSw2MTY5NzUwNjEsLTExMjUyNzA3NjksNTg4MzM0MTkyLC
-0xODU1NjQ1MTA4LDczNjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcy
-NzYyMywtNzc4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNy
-wtMTQ1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3
-MTMxMThdfQ==
+eyJoaXN0b3J5IjpbLTEwNTYxOTA0NzUsMTAzMzUwODczMyw2MD
+I5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYyMzg2MSwtMTQ1MDc1
+MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTExMjUyNzA3Nj
+ksNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDczNjY3NDY1OCwtNjg2
+MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1ODU4LC01MDUxMjM1Mz
+gsMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwtMjgyMTUxNDUsLTEx
+MTEyMjE3NDZdfQ==
 -->
