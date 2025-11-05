@@ -57,7 +57,6 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
 						56.41 x 12 = $88.90
 						
 						Total de $56.41 /mois
-						Soit $676 /an
 
 
 ### Conclusion: Tableau récapitulatif des couts
@@ -140,11 +139,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgyMjE3NjMsLTEwNTYxOTA0NzUsMT
-AzMzUwODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYy
-Mzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNj
-EsLTExMjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDcz
-NjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1OD
-U4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNywtMTQ1MDY2NzE5MSwt
-MjgyMTUxNDVdfQ==
+eyJoaXN0b3J5IjpbMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMD
+MzNTA4NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIz
+ODYxLC0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MS
+wtMTEyNTI3MDc2OSw1ODgzMzQxOTIsLTE4NTU2NDUxMDgsNzM2
+Njc0NjU4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NT
+gsLTUwNTEyMzUzOCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0y
+ODIxNTE0NV19
 -->
