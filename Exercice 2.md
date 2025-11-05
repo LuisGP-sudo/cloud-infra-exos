@@ -78,7 +78,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   
 Suivi par Scaleway avec un cout un peu plus élevé, suivi par Azure et AWS. Finalement Google, qui est la solution la plus cher des trois fournisseurs analysés. 
 
-## Infrastructure n°2: a faire 
+## Infrastructure n°2: 
 - **6 serveurs avec les ressources suivantes :**
   - **6 Go de RAM minimum**
   - **3 vCPU**
@@ -97,9 +97,9 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 					(0.1344 × 480) + (20 × 0.10) = $66.52
 					66.52 x 3 = $199.53 pour les 3 serveurs qui tournent 16h/7
 
-					98.77+66.52
+					98.77 + 66.52 = $165.39
 
-						
+					Total de $165.39 / mois	
 						
 						
 
@@ -120,21 +120,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 						Total de $92.32 /mois
 						Soit $1107.84 /an
 
- - **Scaleway**
- Pour cette solutions je vais prendre l'exemple de l'instance PRO2-XS qui comporte exactement les ressources spécifiés a un cout par mois de $80.30 et le stockage de 100 Go qui coute $8.6 par mois.
 
-						80.30 + 8.60 = $88.90
-						
-						Total de $88.90 /mois
-						Soit $1066.80 /an
-
- - **OVH**
- Pour cette solutions je vais prendre l'exemple de l'instance b3-16 qui comporte exactement les ressources spécifiés le stockage de 100 Go (inclus dans le prix) a un cout par mois de $56.41.
-
-						56.41 x 12 = $88.90
-						
-						Total de $56.41 /mois
-						Soit $676 /an
 
 ## Infrastructure n°3: a faire 
 - **3 serveurs avec les ressources suivantes :**
@@ -158,11 +144,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3ODY4MTk5LDYwMjk3MTQ4NSwxMzg0MD
-UyNTUxLC0xMTk0NjIzODYxLC0xNDUwNzUxNDMyLC0xMTU4MDA3
-MDY1LDYxNjk3NTA2MSwtMTEyNTI3MDc2OSw1ODgzMzQxOTIsLT
-E4NTU2NDUxMDgsNzM2Njc0NjU4LC02ODYwMzAxOTYsNzAwNzI3
-NjIzLC03Nzg4NzU4NTgsLTUwNTEyMzUzOCwxMjUzNDQxNDA3LC
-0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIyMTc0Niw2MDcx
-MzExOF19
+eyJoaXN0b3J5IjpbMTAzMzUwODczMyw2MDI5NzE0ODUsMTM4ND
+A1MjU1MSwtMTE5NDYyMzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAw
+NzA2NSw2MTY5NzUwNjEsLTExMjUyNzA3NjksNTg4MzM0MTkyLC
+0xODU1NjQ1MTA4LDczNjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcy
+NzYyMywtNzc4ODc1ODU4LC01MDUxMjM1MzgsMTI1MzQ0MTQwNy
+wtMTQ1MDY2NzE5MSwtMjgyMTUxNDUsLTExMTEyMjE3NDYsNjA3
+MTMxMThdfQ==
 -->
