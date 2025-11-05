@@ -92,7 +92,9 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
  Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xlarge qui a un cout par heure de $0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
 
 					(0.1344 × 720) + (100 × 0.10) = $106.77
-					106.77 x 3 = 312
+					106.77 x 3 = $314.91 pour les 3 serveurs qui tournent 24/7
+
+					(0.1344 × 720) + (100 × 0.10) = $106.77
 						
 						
 						
@@ -152,11 +154,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzc2OTgyODcsNjAyOTcxNDg1LDEzOD
-QwNTI1NTEsLTExOTQ2MjM4NjEsLTE0NTA3NTE0MzIsLTExNTgw
-MDcwNjUsNjE2OTc1MDYxLC0xMTI1MjcwNzY5LDU4ODMzNDE5Mi
-wtMTg1NTY0NTEwOCw3MzY2NzQ2NTgsLTY4NjAzMDE5Niw3MDA3
-Mjc2MjMsLTc3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNTM0NDE0MD
-csLTE0NTA2NjcxOTEsLTI4MjE1MTQ1LC0xMTExMjIxNzQ2LDYw
-NzEzMTE4XX0=
+eyJoaXN0b3J5IjpbNzk2ODE5NDczLDYwMjk3MTQ4NSwxMzg0MD
+UyNTUxLC0xMTk0NjIzODYxLC0xNDUwNzUxNDMyLC0xMTU4MDA3
+MDY1LDYxNjk3NTA2MSwtMTEyNTI3MDc2OSw1ODgzMzQxOTIsLT
+E4NTU2NDUxMDgsNzM2Njc0NjU4LC02ODYwMzAxOTYsNzAwNzI3
+NjIzLC03Nzg4NzU4NTgsLTUwNTEyMzUzOCwxMjUzNDQxNDA3LC
+0xNDUwNjY3MTkxLC0yODIxNTE0NSwtMTExMTIyMTc0Niw2MDcx
+MzExOF19
 -->
