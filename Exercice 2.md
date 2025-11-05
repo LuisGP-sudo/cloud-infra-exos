@@ -95,19 +95,8 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 					98.77 + 66.52 = $165.39
 
 					Total de $165.39 / mois	
-						
-						
 
- - **Google Cloud**
- Pour cette solutions je vais prendre l'exemple d'un Compute Engine C4 c4a-standard-4 qui comporte exactement les ressources spécifiés a un cout par heure de $0.204736/h et le stockage qui coute $0.000187397/Go. La région étudiée est Europe (London) europe-west2.
-
-						0.204736 × 720 = $147.41
-						100 × 0.11 = $11.00
-						
-						Total de $158.41 /mois
-						Soit $1900.92 /an
-
- - **Azure**
+ - **GCP**
  Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle qui comporte exactement les ressources spécifiés a un cout par mois de $81.76 et le stockage de 128 Go qui coute $10.56. La région étudiée est France Central.
 
 						81.76 + 10.56 = $92.32
@@ -139,11 +128,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMD
-MzNTA4NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIz
-ODYxLC0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MS
-wtMTEyNTI3MDc2OSw1ODgzMzQxOTIsLTE4NTU2NDUxMDgsNzM2
-Njc0NjU4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NT
-gsLTUwNTEyMzUzOCwxMjUzNDQxNDA3LC0xNDUwNjY3MTkxLC0y
-ODIxNTE0NV19
+eyJoaXN0b3J5IjpbMTMzNjY2NTU5OSwxNjI0NDgxOTUxLC0xMD
+U2MTkwNDc1LDEwMzM1MDg3MzMsNjAyOTcxNDg1LDEzODQwNTI1
+NTEsLTExOTQ2MjM4NjEsLTE0NTA3NTE0MzIsLTExNTgwMDcwNj
+UsNjE2OTc1MDYxLC0xMTI1MjcwNzY5LDU4ODMzNDE5MiwtMTg1
+NTY0NTEwOCw3MzY2NzQ2NTgsLTY4NjAzMDE5Niw3MDA3Mjc2Mj
+MsLTc3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNTM0NDE0MDcsLTE0
+NTA2NjcxOTFdfQ==
 -->
