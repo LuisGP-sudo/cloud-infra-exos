@@ -92,9 +92,9 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 					(0.1344 × 480) + (20 × 0.10) = $66.52
 					66.52 x 3 = $199.53 pour les 3 serveurs qui tournent 16h/7
 
-					98.77 + 66.52 = $165.39
+					296.31 + 199.53 = $165.39
 
-					Total de $165.39 / mois	
+					Total de $495.84 / mois	
 
  - **GCP**
  Pour cette solutions je vais prendre l'exemple d'une Machine virtuelle qui comporte exactement les ressources spécifiés a un cout par mois de $81.76 et le stockage de 128 Go qui coute $10.56. La région étudiée est France Central.
@@ -128,11 +128,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNjY2NTU5OSwxNjI0NDgxOTUxLC0xMD
-U2MTkwNDc1LDEwMzM1MDg3MzMsNjAyOTcxNDg1LDEzODQwNTI1
-NTEsLTExOTQ2MjM4NjEsLTE0NTA3NTE0MzIsLTExNTgwMDcwNj
-UsNjE2OTc1MDYxLC0xMTI1MjcwNzY5LDU4ODMzNDE5MiwtMTg1
-NTY0NTEwOCw3MzY2NzQ2NTgsLTY4NjAzMDE5Niw3MDA3Mjc2Mj
-MsLTc3ODg3NTg1OCwtNTA1MTIzNTM4LDEyNTM0NDE0MDcsLTE0
-NTA2NjcxOTFdfQ==
+eyJoaXN0b3J5IjpbLTU5Mzc0MjQ2MSwxMzM2NjY1NTk5LDE2Mj
+Q0ODE5NTEsLTEwNTYxOTA0NzUsMTAzMzUwODczMyw2MDI5NzE0
+ODUsMTM4NDA1MjU1MSwtMTE5NDYyMzg2MSwtMTQ1MDc1MTQzMi
+wtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTExMjUyNzA3NjksNTg4
+MzM0MTkyLC0xODU1NjQ1MTA4LDczNjY3NDY1OCwtNjg2MDMwMT
+k2LDcwMDcyNzYyMywtNzc4ODc1ODU4LC01MDUxMjM1MzgsMTI1
+MzQ0MTQwN119
 -->
