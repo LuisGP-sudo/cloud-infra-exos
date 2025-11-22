@@ -46,6 +46,7 @@ La solution plus adaptée a son besoin est d'utiiser un cloud privé en mode Iaa
 
 Ceci permettant de garder le contrôle sur la sécurité des données et sa performance, indispensable pour une entreprise qui gère des données sensibles et être affronté a des fortes activités des clients pendant le matin et le soir lorsque les alarmes sont activés.
 Ce type de cloud permet d'adapter la puissance des serveurs, la puissance et le stockage selon le besoin et assurant une haute disponibilité du service.
+
 Et disposant par exemple:
 -   Des serveurs dédiés et virtualisés pour héberger l’application et traiter les communications avec les objets connectés,
 -   Un stockage haute disponibilité pour les données sensibles,
@@ -156,11 +157,11 @@ En termes de coût, un CRM SaaS revient généralement à **20 à 100 € par ut
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3NTc1NDQwMywtMTQyNDk2Nzk1Miw2Nz
-QxMDA0MiwyMTM3MTM4ODcyLDcxMTM1NDQ1OSwtMTI1NzAwNDMz
-LDE2NDkwNzY2MDIsNDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1Mz
-UyMzY5LDE4MzU3OTg0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMs
-MjM4ODcxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1ND
-U2NzA5OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUw
-ODhdfQ==
+eyJoaXN0b3J5IjpbLTE5MTQ2MTk1NjcsLTE0MjQ5Njc5NTIsNj
+c0MTAwNDIsMjEzNzEzODg3Miw3MTEzNTQ0NTksLTEyNTcwMDQz
+MywxNjQ5MDc2NjAyLDQzODA4MzcwNSwxNDI3NjQzMDc0LDgxNT
+M1MjM2OSwxODM1Nzk4NDQ5LDkwNjQ2ODg5MywxNjY1OTQ2Mjkz
+LDIzODg3MTM3NCwxMzAxNzIyNjYzLC0xMzk3NzYyMDY5LC0xNT
+Q1NjcwOTkxLDExMTgwNzE4NDgsLTI1NDI2NTU3NSwxNTAzOTU1
+MDg4XX0=
 -->
