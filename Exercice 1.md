@@ -62,7 +62,7 @@ Nombre d’employé : N/A
 Que conseillez-vous à Paul ?
 
 ---
-Pour Paul qui lui est un particulier de 37 ans qui so
+Pour Paul qui lui est un particulier de 37 ans qui souhaite reprendre le contrôle de ses données et disposer d'un stockage accessible depuis plusieurs appareils, la solution étant la plus adapté pour lui est d'utiliser un cloud public en mode SaaS.
 
 
 ## Cas n°4
@@ -109,7 +109,7 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MjQ1NDMwOSw5MDY0Njg4OTMsMTY2NT
+eyJoaXN0b3J5IjpbMTgzNTc5ODQ0OSw5MDY0Njg4OTMsMTY2NT
 k0NjI5MywyMzg4NzEzNzQsMTMwMTcyMjY2MywtMTM5Nzc2MjA2
 OSwtMTU0NTY3MDk5MSwxMTE4MDcxODQ4LC0yNTQyNjU1NzUsMT
 UwMzk1NTA4OCwtODU3NTY5MzA2LC0zNDcwODIzNTcsMjA4NDEw
