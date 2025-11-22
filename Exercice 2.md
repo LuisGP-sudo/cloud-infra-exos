@@ -137,18 +137,10 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 
  Pour cette solutions je vais prendre l'exemple de 3 EC2 t3.medium qui a un cout par heure de $0.0416/h et comme stockage EBS gp3 qui coute 0.08/Go. La région étudiée est Europe (Paris) eu-west3.
  
-						(0.1344 × 720) + (20 × 0.10) = $98.77
-						98.77 x 3 = $296.31 pour les 3 serveurs qui tournent 24h/7
+						(0.0416 × 720) + (50× 0.08) = $33.95
+						33.95 x 3 = $101,86 pour les 3 serveurs qui tournent 24h/7
 
-
-    
- 0,0416 × 720 = **29,952 $/mois** → **29,95 $**.
-    
--   Stockage : **50 GB × 0,08 $/GB/mois (EBS gp3)** = **4,00 $/mois** par serveur. [Amazon Web Services, Inc.](https://aws.amazon.com/fr/ebs/pricing/?utm_source=chatgpt.com)
-    
--   Coût total par serveur = 29,952 + 4,00 = **33,952 $/mois** → arrondi **33,95 $**.
-    
--   Pour 3 serveurs : **33,952 × 3 = 101,856 $** → **101,86 $/mois**.
+Pour le Load Balancer nous 
     
 
 ### B — Load Balancer (Application Load Balancer, ALB)
@@ -195,11 +187,11 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2NDY3OTgwLC0xODU3Nzc0NTY1LC0zOD
-Q3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4MTMxLDE3NjQ3ODQ3
-ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMDIxNjQ5ODc1LDEzMz
-Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
-NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
-0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
-NTI3MDc2OV19
+eyJoaXN0b3J5IjpbMTcwODIzODYwMCwtMTg1Nzc3NDU2NSwtMz
+g0NzQ4MDM2LDU1NzcyNjEzMywtMTc0NjIwODEzMSwxNzY0Nzg0
+Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMjAyMTY0OTg3NSwxMz
+M2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0NzUsMTAzMzUw
+ODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYyMzg2MS
+wtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTEx
+MjUyNzA3NjldfQ==
 -->
