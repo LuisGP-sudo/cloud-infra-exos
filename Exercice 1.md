@@ -62,7 +62,7 @@ Nombre d’employé : N/A
 Que conseillez-vous à Paul ?
 
 ---
-SaaS - cloud privé - Google Cloud Storage, Microsoft One Drive
+Pour Paul qui lui est un particulier de 37 ans qui so
 
 
 ## Cas n°4
@@ -109,10 +109,10 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA2NDY4ODkzLDE2NjU5NDYyOTMsMjM4OD
-cxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1NDU2NzA5
-OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUwODgsLT
-g1NzU2OTMwNiwtMzQ3MDgyMzU3LDIwODQxMDA5MDMsLTE4NzM1
-NTYxMDUsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMTYwNDI1ND
-M0Nl19
+eyJoaXN0b3J5IjpbLTk0MjQ1NDMwOSw5MDY0Njg4OTMsMTY2NT
+k0NjI5MywyMzg4NzEzNzQsMTMwMTcyMjY2MywtMTM5Nzc2MjA2
+OSwtMTU0NTY3MDk5MSwxMTE4MDcxODQ4LC0yNTQyNjU1NzUsMT
+UwMzk1NTA4OCwtODU3NTY5MzA2LC0zNDcwODIzNTcsMjA4NDEw
+MDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4NjUyLC0xMTQ5NTE3Mz
+Y5LC0xNjA0MjU0MzQ2XX0=
 -->
