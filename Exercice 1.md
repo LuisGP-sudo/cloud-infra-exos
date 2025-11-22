@@ -83,7 +83,7 @@ Pour 800 Go de données, les solutions SaaS peuvent coûter entre 10 € et 15 �
 ---
 Pour cette grande entreprise française de soutien aux armées, qui compte 5 000 employés et doit moderniser ses infrastructures informatiques tout en gérant des besoins très divers et évolutifs, la solution la plus adaptée est un cloud privé en mode NaaS (Network as a Service) avec une infrastructure hybride.
 
-Ce qui permet de garder un control total des données sensibles et services
+Ce qui permet de garder un control total des données sensibles et services critiques, bénéficiant d'une flexibilité et scalalbilité permettant de gérer des nouveaux serveurs, stockage, et réseau efficacement. Ceci ég
 ## Cas n°5
 TheFoodStore est une petite entreprise qui cherche à publier un site e-commerce rapidement afin de générer ses premières ventes en ligne. 
 
@@ -117,11 +117,11 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzYxNTE5NywxNjQ5MDc2NjAyLDQzOD
-A4MzcwNSwxNDI3NjQzMDc0LDgxNTM1MjM2OSwxODM1Nzk4NDQ5
-LDkwNjQ2ODg5MywxNjY1OTQ2MjkzLDIzODg3MTM3NCwxMzAxNz
-IyNjYzLC0xMzk3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMTgwNzE4
-NDgsLTI1NDI2NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLT
-M0NzA4MjM1NywyMDg0MTAwOTAzLC0xODczNTU2MTA1LDE3MjIw
-ODg2NTJdfQ==
+eyJoaXN0b3J5IjpbLTE1NzA4NzU3MjksMTY0OTA3NjYwMiw0Mz
+gwODM3MDUsMTQyNzY0MzA3NCw4MTUzNTIzNjksMTgzNTc5ODQ0
+OSw5MDY0Njg4OTMsMTY2NTk0NjI5MywyMzg4NzEzNzQsMTMwMT
+cyMjY2MywtMTM5Nzc2MjA2OSwtMTU0NTY3MDk5MSwxMTE4MDcx
+ODQ4LC0yNTQyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC
+0zNDcwODIzNTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIy
+MDg4NjUyXX0=
 -->
