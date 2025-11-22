@@ -80,7 +80,7 @@ Suivi par Scaleway avec un cout un peu plus élevé, suivi par Azure et AWS. Fin
   - **20 Go de stockage disque par serveur**
 - **Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin**
 
-Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
+Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
  Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
 
  - **AWS Cloud**
@@ -141,11 +141,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTEwNjIzMywyMDIxNjQ5ODc1LDEzMz
-Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
-NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
-0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
-NTI3MDc2OSw1ODgzMzQxOTIsLTE4NTU2NDUxMDgsNzM2Njc0Nj
-U4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUw
-NTEyMzUzOF19
+eyJoaXN0b3J5IjpbNzAwNjYwNTg1LDIwMjE2NDk4NzUsMTMzNj
+Y2NTU5OSwxNjI0NDgxOTUxLC0xMDU2MTkwNDc1LDEwMzM1MDg3
+MzMsNjAyOTcxNDg1LDEzODQwNTI1NTEsLTExOTQ2MjM4NjEsLT
+E0NTA3NTE0MzIsLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0xMTI1
+MjcwNzY5LDU4ODMzNDE5MiwtMTg1NTY0NTEwOCw3MzY2NzQ2NT
+gsLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLTc3ODg3NTg1OCwtNTA1
+MTIzNTM4XX0=
 -->
