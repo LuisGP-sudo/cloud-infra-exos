@@ -72,11 +72,12 @@ Pour 800 Go de données, les solutions SaaS peuvent coûter entre 10 € et 15 �
 
 
 ## Cas n°4
-Une grande entreprise française de soutien aux armées du pays, accréditée par le ministère des armées et dont le nom est confidentiel, a besoin de moderniser ses infrastructures informatiques. Les besoins en termes de diversité de service, de quantité de serveurs, stockages et réseaux évoluent très rapidement.
 
- Nombre d’employés : 5000 
+**Une grande entreprise française de soutien aux armées du pays, accréditée par le ministère des armées et dont le nom est confidentiel, a besoin de moderniser ses infrastructures informatiques. Les besoins en termes de diversité de service, de quantité de serveurs, stockages et réseaux évoluent très rapidement.**
 
-Quelle solution doit être mise en place pour moderniser l’infrastructure de cette entreprise ? 
+**Nombre d’employés : 5000**
+
+**Quelle solution doit être mise en place pour moderniser l’infrastructure de cette entreprise ?** 
 
 
 ---
@@ -115,7 +116,7 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTQwMTc1LDE0Mjc2NDMwNzQsODE1Mz
+eyJoaXN0b3J5IjpbNDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1Mz
 UyMzY5LDE4MzU3OTg0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMs
 MjM4ODcxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1ND
 U2NzA5OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUw
