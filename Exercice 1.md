@@ -2,6 +2,7 @@
 
 >Etudiant: 
 **Luis Antonio GONZALEZ PATINO**
+Luen GitHub: https://github.com/LuisGP-sudo/cloud-infra-exos/
 
 Pour chacun des cas ci-dessous dire quel type de cloud et de XaaS est le plus adapté et pourquoi. Expliquer avec un maximum de détails et des exemples comment répondre aux besoins dans chaque situation. 
 Donner un ordre d’idée du coût de la solution préconisée.
@@ -123,11 +124,11 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0ODMxNjkxMSwtMTI1NzAwNDMzLDE2ND
-kwNzY2MDIsNDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1MzUyMzY5
-LDE4MzU3OTg0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMsMjM4OD
-cxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1NDU2NzA5
-OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUwODgsLT
-g1NzU2OTMwNiwtMzQ3MDgyMzU3LDIwODQxMDA5MDMsLTE4NzM1
-NTYxMDVdfQ==
+eyJoaXN0b3J5IjpbNTcxMDQwODYyLC0xMjU3MDA0MzMsMTY0OT
+A3NjYwMiw0MzgwODM3MDUsMTQyNzY0MzA3NCw4MTUzNTIzNjks
+MTgzNTc5ODQ0OSw5MDY0Njg4OTMsMTY2NTk0NjI5MywyMzg4Nz
+EzNzQsMTMwMTcyMjY2MywtMTM5Nzc2MjA2OSwtMTU0NTY3MDk5
+MSwxMTE4MDcxODQ4LC0yNTQyNjU1NzUsMTUwMzk1NTA4OCwtOD
+U3NTY5MzA2LC0zNDcwODIzNTcsMjA4NDEwMDkwMywtMTg3MzU1
+NjEwNV19
 -->
