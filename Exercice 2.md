@@ -133,8 +133,8 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
  Dans ce cas, je suppose que les 3 serveurs sont utilisés 24h/7 avec un load balancer qui distribue 5 Mb/s de trafic entrant/sortant et 1 serveur de base de données managé, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
  Voici les estimations des couts mensuels pour les deux cloud providers mentionnés ci-dessus:
 
- - **Scaleway**
-  Pour cette solutions je vais prendre l'exemple de l'instance PLAY2-NANO qui comporte exactement les ressources spécifiés a un cout par heure de $0.0001298 et le stockage de 50 Go et pour la base de donnée un POP2-2C-8G qui comporte exactement les ressources spécifiés avec un coût par heure $0.08085 et le stockage.
+-**AWS Cloud**
+
 
 ## Références
 
@@ -147,11 +147,11 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk1NTI3ODY1LC0xODU3Nzc0NTY1LC0zOD
-Q3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4MTMxLDE3NjQ3ODQ3
-ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMDIxNjQ5ODc1LDEzMz
-Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
-NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
-0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
-NTI3MDc2OV19
+eyJoaXN0b3J5IjpbLTIwNjEwMDk0ODcsLTE4NTc3NzQ1NjUsLT
+M4NDc0ODAzNiw1NTc3MjYxMzMsLTE3NDYyMDgxMzEsMTc2NDc4
+NDc4OCw4Njg1MTQ5NywtNjIyMTg4MDY1LDIwMjE2NDk4NzUsMT
+MzNjY2NTU5OSwxNjI0NDgxOTUxLC0xMDU2MTkwNDc1LDEwMzM1
+MDg3MzMsNjAyOTcxNDg1LDEzODQwNTI1NTEsLTExOTQ2MjM4Nj
+EsLTE0NTA3NTE0MzIsLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0x
+MTI1MjcwNzY5XX0=
 -->
