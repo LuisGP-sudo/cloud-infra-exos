@@ -121,7 +121,12 @@ En termes de coût, ce type de solution peut coûter entre 10 € et 100€ par 
 Pour DeliverEats, une plateforme de commande et livraison de repas disposant d’une application mobile pour les clients et les livreurs, ainsi qu’un site internet et des applications pour restaurateurs, la solution la plus adaptée est un cloud public en mode PaaS.
 
 Ceci permettant le déploiement rapide de l'application, en plus de gérer facilement la montée en charge pendant les périodes de forte demande, sans nécessité de réaliser la maintenance de serveurs physiques. Ce modèle permet aussi d'ajouter des services pour le stockage, base de données, API,, entre autres.
-Un exemple de composants qui pourraient intégrer cette inf
+Un exemple de composants qui pourraient intégrer cette infrastructure seraient:
+- Kubernetes pour orchestrer les conteneurs, permettant une scalabilité automatique des services en fonction de la demande.
+    
+-   Jenkins pour automatiser le déploiement continu, garantissant que les nouvelles fonctionnalités ou corrections arrivent rapidement en production.
+    
+-   Services managés du cloud pour la base de données (SQL ou NoSQL), le stockage d’images et de données, et la messagerie en temps réel.
 
 
 ## Cas n°7 
@@ -137,7 +142,7 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMTg0MDUzMCw2NzQxMDA0MiwyMTM3MT
+eyJoaXN0b3J5IjpbMTQ2Mzg0NjU3OCw2NzQxMDA0MiwyMTM3MT
 M4ODcyLDcxMTM1NDQ1OSwtMTI1NzAwNDMzLDE2NDkwNzY2MDIs
 NDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1MzUyMzY5LDE4MzU3OT
 g0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMsMjM4ODcxMzc0LDEz
