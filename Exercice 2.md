@@ -140,7 +140,9 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 						(0.0416 × 720) + (50× 0.08) = $33.95
 						33.95 x 3 = $101,86 pour les 3 serveurs qui tournent 24h/7
 
-Pour le Load Balancer nous 
+Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute $0.0225/h
+						
+								0,0225 × 720 = 16,20 $/mois
     
 
 ### B — Load Balancer (Application Load Balancer, ALB)
@@ -187,11 +189,11 @@ Pour le Load Balancer nous
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODIzODYwMCwtMTg1Nzc3NDU2NSwtMz
-g0NzQ4MDM2LDU1NzcyNjEzMywtMTc0NjIwODEzMSwxNzY0Nzg0
-Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMjAyMTY0OTg3NSwxMz
-M2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0NzUsMTAzMzUw
-ODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYyMzg2MS
-wtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTEx
-MjUyNzA3NjldfQ==
+eyJoaXN0b3J5IjpbLTEwMzAxODcwOTksLTE4NTc3NzQ1NjUsLT
+M4NDc0ODAzNiw1NTc3MjYxMzMsLTE3NDYyMDgxMzEsMTc2NDc4
+NDc4OCw4Njg1MTQ5NywtNjIyMTg4MDY1LDIwMjE2NDk4NzUsMT
+MzNjY2NTU5OSwxNjI0NDgxOTUxLC0xMDU2MTkwNDc1LDEwMzM1
+MDg3MzMsNjAyOTcxNDg1LDEzODQwNTI1NTEsLTExOTQ2MjM4Nj
+EsLTE0NTA3NTE0MzIsLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0x
+MTI1MjcwNzY5XX0=
 -->
