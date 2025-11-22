@@ -99,7 +99,7 @@ En termes de coûts, la mise en place d'une infrastructure est estimée entre 1 
 **Quelle solution sera la plus adaptée pour TheFoodStore ?** 
 
 ---
-SaaS - Cloud publique - UberEats, Shopify, etc... entre 10 et 100 euros
+Pour TheFoodStore, une petite entreprise de 5 employés qui souhaite publier rapidement un site e-commerce pour générer ses premières ventes en ligne, la solution la plus adaptée est un **cloud public en mode SaaS**
 
 ## Cas n°6 
 DeliverEats est une plateforme permettant de commander et se faire livrer des repas. Elle dispose d’une application mobile et d’un site internet pour passer commande. Les livreurs de commandes disposent d’une application mobile qui les guide dans leurs livraisons, tandis que les restaurateurs reçoivent les commandes à préparer sur une application pour tablette. 
@@ -124,7 +124,7 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcxMDQwODYyLC0xMjU3MDA0MzMsMTY0OT
+eyJoaXN0b3J5IjpbNzExMzU0NDU5LC0xMjU3MDA0MzMsMTY0OT
 A3NjYwMiw0MzgwODM3MDUsMTQyNzY0MzA3NCw4MTUzNTIzNjks
 MTgzNTc5ODQ0OSw5MDY0Njg4OTMsMTY2NTk0NjI5MywyMzg4Nz
 EzNzQsMTMwMTcyMjY2MywtMTM5Nzc2MjA2OSwtMTU0NTY3MDk5
