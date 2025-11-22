@@ -130,7 +130,7 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
   - **2 vCPU**
   - **10 Go de stockage disque**
   
- Dans ce cas, je suppose que les 3 serveurs sont utilisés 24h/7 avec un load balancer qui distribue 5 Mb/s de trafic entrant/sortant et 1 service de base de données managé, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
+ Dans ce cas, je suppose que les 3 serveurs sont utilisés 24h/7 avec un load balancer qui distribue 5 Mb/s de trafic entrant/sortant et 1 serveur de base de données managé, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
  Voici les estimations des couts mensuels pour les deux cloud providers mentionnés ci-dessus:
 
  - **Scaleway**
@@ -147,11 +147,11 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NDc4NDc4OCw4Njg1MTQ5NywtNjIyMT
-g4MDY1LDIwMjE2NDk4NzUsMTMzNjY2NTU5OSwxNjI0NDgxOTUx
-LC0xMDU2MTkwNDc1LDEwMzM1MDg3MzMsNjAyOTcxNDg1LDEzOD
-QwNTI1NTEsLTExOTQ2MjM4NjEsLTE0NTA3NTE0MzIsLTExNTgw
-MDcwNjUsNjE2OTc1MDYxLC0xMTI1MjcwNzY5LDU4ODMzNDE5Mi
-wtMTg1NTY0NTEwOCw3MzY2NzQ2NTgsLTY4NjAzMDE5Niw3MDA3
-Mjc2MjNdfQ==
+eyJoaXN0b3J5IjpbLTE3NDYyMDgxMzEsMTc2NDc4NDc4OCw4Nj
+g1MTQ5NywtNjIyMTg4MDY1LDIwMjE2NDk4NzUsMTMzNjY2NTU5
+OSwxNjI0NDgxOTUxLC0xMDU2MTkwNDc1LDEwMzM1MDg3MzMsNj
+AyOTcxNDg1LDEzODQwNTI1NTEsLTExOTQ2MjM4NjEsLTE0NTA3
+NTE0MzIsLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0xMTI1MjcwNz
+Y5LDU4ODMzNDE5MiwtMTg1NTY0NTEwOCw3MzY2NzQ2NTgsLTY4
+NjAzMDE5Nl19
 -->
