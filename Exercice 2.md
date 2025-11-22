@@ -134,7 +134,7 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
  Voici les estimations des couts mensuels pour les deux cloud providers mentionnés ci-dessus:
 
  - **Scaleway**
-  Pour cette solutions je vais prendre l'exemple de l'instance DEV1-M qui comporte exactement les ressources spécifiés a un cout par mois de $80.30 et le stockage de 100 Go qui coute $8.6 par mois.
+  Pour cette solutions je vais prendre l'exemple de l'instance PLAY2-NANO qui comporte exactement les ressources spécifiés a un cout par mois de $80.30 et le stockage de 100 Go qui coute $8.6 par mois.
 
 ## Références
 
@@ -147,11 +147,11 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYyMDgxMzEsMTc2NDc4NDc4OCw4Nj
-g1MTQ5NywtNjIyMTg4MDY1LDIwMjE2NDk4NzUsMTMzNjY2NTU5
-OSwxNjI0NDgxOTUxLC0xMDU2MTkwNDc1LDEwMzM1MDg3MzMsNj
-AyOTcxNDg1LDEzODQwNTI1NTEsLTExOTQ2MjM4NjEsLTE0NTA3
-NTE0MzIsLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0xMTI1MjcwNz
-Y5LDU4ODMzNDE5MiwtMTg1NTY0NTEwOCw3MzY2NzQ2NTgsLTY4
-NjAzMDE5Nl19
+eyJoaXN0b3J5IjpbMTg2NTI0NTc4MiwtMTc0NjIwODEzMSwxNz
+Y0Nzg0Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMjAyMTY0OTg3
+NSwxMzM2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0NzUsMT
+AzMzUwODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYy
+Mzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNj
+EsLTExMjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDcz
+NjY3NDY1OF19
 -->
