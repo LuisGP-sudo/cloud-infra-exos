@@ -18,6 +18,7 @@ Avant de démarrer vous devez récupérer les informations concernant les coûts
   - **16 Go de RAM minimum** 
    - **4 vCPU**
   - **100 Go de stockage disque**
+ ---
  
  Je suppose que cette infrastructure est utilisée 24/7 sur 30 jours soit 720 heures par jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux, les taxes et dans des Cloud publics. 
  Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
@@ -80,6 +81,7 @@ Suivi par Scaleway avec un cout un peu plus élevé, suivi par Azure et AWS. Fin
   - **3 vCPU**
   - **20 Go de stockage disque par serveur**
 - **Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin**
+---
 
 Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
  Voici les estimations des couts mensuels pour les deux cloud providers mentionnés ci-dessus:
@@ -129,6 +131,7 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
   - **8 Go de RAM minimum**
   - **2 vCPU**
   - **10 Go de stockage disque**
+  ----
   
  Dans ce cas, je suppose que les 3 serveurs sont utilisés 24h/7 avec un load balancer qui distribue 5 Mb/s de trafic entrant/sortant et 1 serveur de base de données managé, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
  Voici les estimations des couts mensuels pour les deux cloud providers mentionnés ci-dessus:
@@ -196,11 +199,11 @@ Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large q
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzMxMDkwNzEsLTY5MTcwMDg4NywtMT
-g1Nzc3NDU2NSwtMzg0NzQ4MDM2LDU1NzcyNjEzMywtMTc0NjIw
-ODEzMSwxNzY0Nzg0Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMj
-AyMTY0OTg3NSwxMzM2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYx
-OTA0NzUsMTAzMzUwODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MS
-wtMTE5NDYyMzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2
-MTY5NzUwNjFdfQ==
+eyJoaXN0b3J5IjpbMTM4NTMzODEsLTY5MTcwMDg4NywtMTg1Nz
+c3NDU2NSwtMzg0NzQ4MDM2LDU1NzcyNjEzMywtMTc0NjIwODEz
+MSwxNzY0Nzg0Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMjAyMT
+Y0OTg3NSwxMzM2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0
+NzUsMTAzMzUwODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMT
+E5NDYyMzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5
+NzUwNjFdfQ==
 -->
