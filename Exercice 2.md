@@ -148,6 +148,7 @@ Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute 
 						
 						Total de $29.16
 
+Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large 
    
 
 ### C — Base de données managée (Amazon RDS)
@@ -183,7 +184,7 @@ Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NDEwODg3NiwtMTg1Nzc3NDU2NSwtMz
+eyJoaXN0b3J5IjpbLTY5MTcwMDg4NywtMTg1Nzc3NDU2NSwtMz
 g0NzQ4MDM2LDU1NzcyNjEzMywtMTc0NjIwODEzMSwxNzY0Nzg0
 Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMjAyMTY0OTg3NSwxMz
 M2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0NzUsMTAzMzUw
