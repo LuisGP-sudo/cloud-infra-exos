@@ -128,6 +128,7 @@ Un exemple de composants qui pourraient intégrer cette infrastructure seraient:
     
 -   Services managés du cloud pour la base de données (SQL ou NoSQL), le stockage d’images et de données, et la messagerie en temps réel.
 
+En termes de coûts, cette architecture PaaS sur cloud public et en comptant les 
 
 ## Cas n°7 
 L’entreprise de télévendeurs Onenveutpa a besoin d’un nouveau système pour la gestion des informations de ses potentiels futurs clients. Les télévendeurs travaillent partout dans le monde. 
@@ -142,7 +143,7 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2Mzg0NjU3OCw2NzQxMDA0MiwyMTM3MT
+eyJoaXN0b3J5IjpbLTY5MjkwNTI3NSw2NzQxMDA0MiwyMTM3MT
 M4ODcyLDcxMTM1NDQ1OSwtMTI1NzAwNDMzLDE2NDkwNzY2MDIs
 NDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1MzUyMzY5LDE4MzU3OT
 g0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMsMjM4ODcxMzc0LDEz
