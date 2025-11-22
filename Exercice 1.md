@@ -57,7 +57,7 @@ En termes de coût, un cloud privé étant plus cher qu’un cloud public, il fa
 
 Paul est un particulier de 37 ans qui souhaite reprendre le contrôle de ses données. Il fait beaucoup de photos et apprécie pouvoir les stocker à un seul endroit mais y accéder depuis de nombreux appareils. Il dispose d’environ 800 Go de données et son besoin en stockage évolue relativement peu. Les compétences en informatique de Paul sont limitées. 
 
-Nombre d’employé : N/A
+Nombre d’employé : N/A 
 
 Que conseillez-vous à Paul ?
 
@@ -109,9 +109,10 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NTk0NjI5MywyMzg4NzEzNzQsMTMwMT
-cyMjY2MywtMTM5Nzc2MjA2OSwtMTU0NTY3MDk5MSwxMTE4MDcx
-ODQ4LC0yNTQyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC
-0zNDcwODIzNTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIy
-MDg4NjUyLC0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
+eyJoaXN0b3J5IjpbOTA2NDY4ODkzLDE2NjU5NDYyOTMsMjM4OD
+cxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1NDU2NzA5
+OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUwODgsLT
+g1NzU2OTMwNiwtMzQ3MDgyMzU3LDIwODQxMDA5MDMsLTE4NzM1
+NTYxMDUsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMTYwNDI1ND
+M0Nl19
 -->
