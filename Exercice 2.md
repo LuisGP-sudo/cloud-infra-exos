@@ -147,7 +147,7 @@ Pour le Load Balancer je vais utiliser l'Application Load Balancer qui coute $0.
 						
 					0,0225 × 720 = $16,20 /mois pour le base hourly charge
 					$0,008 x 1620 = $12,96 /mois pour le data processed charge
-					16.20 + 12.96 = $19.16 
+					16.20 + 12.96 = $19.16 /mois 
 						
 						Total de $29.16
 
@@ -173,9 +173,9 @@ Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute 
 						
 					0.013 × 720 = $9.36 /mois pour le base hourly gateway
 					$0,004 x 1620 = $6.48 /mois pour le data processed
-					16.20 + 12.96 = $19.16 
+					9.36 + 6.48 = $15.84/mois
 						
-						Total de $29.16
+						Total de $15.84
 
 Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large qui a un cout de $0.145/h et pour le stockage un coût de $0.115/Go par mois 
 						
@@ -199,7 +199,7 @@ Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large q
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE2MDA4MTYyLC02OTE3MDA4ODcsLTE4NT
+eyJoaXN0b3J5IjpbNjQ3Mjc5MjQyLC02OTE3MDA4ODcsLTE4NT
 c3NzQ1NjUsLTM4NDc0ODAzNiw1NTc3MjYxMzMsLTE3NDYyMDgx
 MzEsMTc2NDc4NDc4OCw4Njg1MTQ5NywtNjIyMTg4MDY1LDIwMj
 E2NDk4NzUsMTMzNjY2NTU5OSwxNjI0NDgxOTUxLC0xMDU2MTkw
