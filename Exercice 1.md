@@ -108,7 +108,7 @@ Voici des exemples que TheFoodStore pourraient utiliser:
 - Shopify
 - Wix
 
-En termes de coût, ce type de solution peut coûter entre 10 € 
+En termes de coût, ce type de solution peut coûter entre 10 € et 100€ par mois selon l'abonnement et le volume de ventes.
 
 ## Cas n°6 
 DeliverEats est une plateforme permettant de commander et se faire livrer des repas. Elle dispose d’une application mobile et d’un site internet pour passer commande. Les livreurs de commandes disposent d’une application mobile qui les guide dans leurs livraisons, tandis que les restaurateurs reçoivent les commandes à préparer sur une application pour tablette. 
@@ -133,11 +133,11 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNTkyODgsMjEzNzEzODg3Miw3MTEzNT
-Q0NTksLTEyNTcwMDQzMywxNjQ5MDc2NjAyLDQzODA4MzcwNSwx
-NDI3NjQzMDc0LDgxNTM1MjM2OSwxODM1Nzk4NDQ5LDkwNjQ2OD
-g5MywxNjY1OTQ2MjkzLDIzODg3MTM3NCwxMzAxNzIyNjYzLC0x
-Mzk3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMTgwNzE4NDgsLTI1ND
-I2NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLTM0NzA4MjM1
-N119
+eyJoaXN0b3J5IjpbMTY1NTk2Njc3OCwyMTM3MTM4ODcyLDcxMT
+M1NDQ1OSwtMTI1NzAwNDMzLDE2NDkwNzY2MDIsNDM4MDgzNzA1
+LDE0Mjc2NDMwNzQsODE1MzUyMzY5LDE4MzU3OTg0NDksOTA2ND
+Y4ODkzLDE2NjU5NDYyOTMsMjM4ODcxMzc0LDEzMDE3MjI2NjMs
+LTEzOTc3NjIwNjksLTE1NDU2NzA5OTEsMTExODA3MTg0OCwtMj
+U0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2OTMwNiwtMzQ3MDgy
+MzU3XX0=
 -->
