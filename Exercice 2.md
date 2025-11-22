@@ -186,7 +186,16 @@ Pour la base de données managée, je vais utiliser un Flexible Server qui occup
 					
  Au total par mois je retrouve le résultat suivant:
     
-					 101,86 + 29,16 + 105,55 = $236,57/mois
+					 97.36 + 15.84 + 125.33 = $238.53 /mois
+
+### Conclusion: Tableau récapitulatif des couts
+
+| Service Cloud | Couts mensuels en $ |  
+| ----------- | ----------- |  
+| AWS| $495.84 |  
+| GCP| $628.40|
+
+ En comparant les prix d'hébérgement dans la zone européenne. AWS Cloud est l'option la moins chère, sans compter pas de licences, ni de plans d'économie et taxes.
 
 ## Références
 
@@ -199,11 +208,11 @@ Pour la base de données managée, je vais utiliser un Flexible Server qui occup
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI4NzkzOCwtNjkxNzAwODg3LC0xOD
-U3Nzc0NTY1LC0zODQ3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4
-MTMxLDE3NjQ3ODQ3ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMD
-IxNjQ5ODc1LDEzMzY2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5
-MDQ3NSwxMDMzNTA4NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC
-0xMTk0NjIzODYxLC0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYx
-Njk3NTA2MV19
+eyJoaXN0b3J5IjpbLTcxODY4ODQyLC02OTE3MDA4ODcsLTE4NT
+c3NzQ1NjUsLTM4NDc0ODAzNiw1NTc3MjYxMzMsLTE3NDYyMDgx
+MzEsMTc2NDc4NDc4OCw4Njg1MTQ5NywtNjIyMTg4MDY1LDIwMj
+E2NDk4NzUsMTMzNjY2NTU5OSwxNjI0NDgxOTUxLC0xMDU2MTkw
+NDc1LDEwMzM1MDg3MzMsNjAyOTcxNDg1LDEzODQwNTI1NTEsLT
+ExOTQ2MjM4NjEsLTE0NTA3NTE0MzIsLTExNTgwMDcwNjUsNjE2
+OTc1MDYxXX0=
 -->
