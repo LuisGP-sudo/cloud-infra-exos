@@ -105,11 +105,18 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 					(0.2326 × 480) + (20 × 0.1792) = $115.232
 					66.52 x 3 = $199.53 pour les 3 serveurs qui tournent 16h/7
 
-					513.168 + 115.232 = $
+					513.168 + 115.232 = $628.40
 
-					Total de $495.84 / mois	
+					Total de $628.40/ mois	
 
+### Conclusion: Tableau récapitulatif des couts
 
+| Service Cloud | Couts mensuels en $ |  
+| ----------- | ----------- |  
+| AWS| $495.84 |  
+| GCP| $628.40|
+
+ En comparant les prix d'hébérgement dans la zone européenne. AWS Cloudest l'option la moins chère, sans compter pas de licences, ni de plans d'économie et taxes.
 
 ## Infrastructure n°3: a faire 
 - **3 serveurs avec les ressources suivantes :**
@@ -133,11 +140,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk1ODg4OTYsMjAyMTY0OTg3NSwxMz
-M2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0NzUsMTAzMzUw
-ODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYyMzg2MS
-wtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTEx
-MjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDczNjY3ND
-Y1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1ODU4LC01
-MDUxMjM1MzhdfQ==
+eyJoaXN0b3J5IjpbLTQ2NjExMzQ0NywyMDIxNjQ5ODc1LDEzMz
+Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
+NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
+0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
+NTI3MDc2OSw1ODgzMzQxOTIsLTE4NTU2NDUxMDgsNzM2Njc0Nj
+U4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUw
+NTEyMzUzOF19
 -->
