@@ -97,7 +97,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 					Total de $495.84 / mois	
 
  - **GCP**
- Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xl qui a un cout par heure de $0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
+ Pour cette solutions je vais prendre l'exemple d'un n2-standard-4 qui a un cout par heure de $0.2326/h et le stockage qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
 
 					(0.1344 × 720) + (20 × 0.10) = $98.77
 					98.77 x 3 = $296.31 pour les 3 serveurs qui tournent 24h/7
@@ -133,11 +133,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUyMzI2MTk5LDIwMjE2NDk4NzUsMTMzNj
-Y2NTU5OSwxNjI0NDgxOTUxLC0xMDU2MTkwNDc1LDEwMzM1MDg3
-MzMsNjAyOTcxNDg1LDEzODQwNTI1NTEsLTExOTQ2MjM4NjEsLT
-E0NTA3NTE0MzIsLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0xMTI1
-MjcwNzY5LDU4ODMzNDE5MiwtMTg1NTY0NTEwOCw3MzY2NzQ2NT
-gsLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLTc3ODg3NTg1OCwtNTA1
-MTIzNTM4XX0=
+eyJoaXN0b3J5IjpbLTIwMDIyNjE3OTYsMjAyMTY0OTg3NSwxMz
+M2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0NzUsMTAzMzUw
+ODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYyMzg2MS
+wtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTEx
+MjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDczNjY3ND
+Y1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1ODU4LC01
+MDUxMjM1MzhdfQ==
 -->
