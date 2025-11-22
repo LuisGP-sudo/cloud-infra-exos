@@ -131,23 +131,23 @@ Un exemple de composants qui pourraient intégrer cette infrastructure seraient:
 En termes de coûts, cette architecture PaaS sur cloud public et en comptant des milliers d'utilisateurs demandant une haute disponibilité du service, pourrait atteindre les milliers d'euros par mois.
 
 ## Cas n°7 
-L’entreprise de télévendeurs Onenveutpa a besoin d’un nouveau système pour la gestion des informations de ses potentiels futurs clients. Les télévendeurs travaillent partout dans le monde. 
+**L’entreprise de télévendeurs Onenveutpa a besoin d’un nouveau système pour la gestion des informations de ses potentiels futurs clients. Les télévendeurs travaillent partout dans le monde.** 
 
-Nombre de télévendeurs : beaucoup trop 
+**Nombre de télévendeurs : beaucoup trop** 
 
-Quelle solution proposez-vous ?
+**Quelle solution proposez-vous ?**
 
 ---
-SaaS
+Pour Onenveutpa, une entreprise de télévendeurs travaillant partout dans le monde, la solution la plus adaptée est un **cloud public en mode SaaS**, par exemple un **CRM en ligne** comme **Salesforce, HubSpot ou Zoho CRM**.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjQ5Njc5NTIsNjc0MTAwNDIsMjEzNz
-EzODg3Miw3MTEzNTQ0NTksLTEyNTcwMDQzMywxNjQ5MDc2NjAy
-LDQzODA4MzcwNSwxNDI3NjQzMDc0LDgxNTM1MjM2OSwxODM1Nz
-k4NDQ5LDkwNjQ2ODg5MywxNjY1OTQ2MjkzLDIzODg3MTM3NCwx
-MzAxNzIyNjYzLC0xMzk3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMT
-gwNzE4NDgsLTI1NDI2NTU3NSwxNTAzOTU1MDg4LC04NTc1Njkz
-MDZdfQ==
+eyJoaXN0b3J5IjpbMTMzNDEwMDMxMSwtMTQyNDk2Nzk1Miw2Nz
+QxMDA0MiwyMTM3MTM4ODcyLDcxMTM1NDQ1OSwtMTI1NzAwNDMz
+LDE2NDkwNzY2MDIsNDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1Mz
+UyMzY5LDE4MzU3OTg0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMs
+MjM4ODcxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1ND
+U2NzA5OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUw
+ODhdfQ==
 -->
