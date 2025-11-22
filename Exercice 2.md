@@ -133,7 +133,33 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
  Dans ce cas, je suppose que les 3 serveurs sont utilisés 24h/7 avec un load balancer qui distribue 5 Mb/s de trafic entrant/sortant et 1 serveur de base de données managé, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
  Voici les estimations des couts mensuels pour les deux cloud providers mentionnés ci-dessus:
 
--**AWS Cloud**
+- **AWS Cloud**
+
+ Pour cette solutions je vais prendre l'exemple de 3 EC2 t3.medium qui a un cout par heure de $0.0416/h et comme stockage EBS gp3 qui coute 0.08/Go. La région étudiée est Europe (Paris) eu-west3.
+ 
+					0.0416 × 720) + (50× 0.08) = $33.95
+					33.95 x 3 = $101,86 pour les 3 serveurs qui tournent 24h/7
+
+Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute $0.0225/h et en supposant aussi un trafic de 1620 Go par mois.
+						
+					0,0225 × 720 = 16,20 $/mois pour le base hourly charge
+					$0,008 x 1620 = 12,96 $/mois pour le data processed charge
+					16.20 + 12.96 = $19.16 
+						
+						Total de $29.16
+
+Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large qui a un cout de $0.145/h et pour le stockage un coût de $0.115/Go par mois 
+						
+					0,145 × 720 = 104,40 $/mois
+					10 × 0,115 = 1,15 $/mois
+					
+						Total 105.55
+					
+ Au total par mois je retrouve le résultat suivant:
+    
+					 101,86 + 29,16 + 105,55 = $236,57/mois
+
+- **Azure**
 
  Pour cette solutions je vais prendre l'exemple de 3 EC2 t3.medium qui a un cout par heure de $0.0416/h et comme stockage EBS gp3 qui coute 0.08/Go. La région étudiée est Europe (Paris) eu-west3.
  
@@ -170,7 +196,7 @@ Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large q
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDU4NDUzMjIsLTY5MTcwMDg4NywtMT
+eyJoaXN0b3J5IjpbLTIwNzMxMDkwNzEsLTY5MTcwMDg4NywtMT
 g1Nzc3NDU2NSwtMzg0NzQ4MDM2LDU1NzcyNjEzMywtMTc0NjIw
 ODEzMSwxNzY0Nzg0Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMj
 AyMTY0OTg3NSwxMzM2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYx
