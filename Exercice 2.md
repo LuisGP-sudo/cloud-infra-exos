@@ -143,7 +143,9 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute $0.0225/h et en supposant aussi un trafic de 1620 Go par mois.
 						
 						0,0225 × 720 = 16,20 $/mois pour le base hourly charge
-						$0,008 x 1620 GB/mois** = **12,96 $/mois
+						$0,008 x 1620 = 2,96 $/mois pour le data processed charge
+						16.20 + 2.96 = $19.16 
+						
 
 ### B — Load Balancer (Application Load Balancer, ALB)
 
@@ -189,7 +191,7 @@ Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMyMDI1OTU0LC0xODU3Nzc0NTY1LC0zOD
+eyJoaXN0b3J5IjpbLTI3OTA0MTM3LC0xODU3Nzc0NTY1LC0zOD
 Q3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4MTMxLDE3NjQ3ODQ3
 ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMDIxNjQ5ODc1LDEzMz
 Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
