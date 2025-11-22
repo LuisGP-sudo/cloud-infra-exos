@@ -143,20 +143,12 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute $0.0225/h et en supposant aussi un trafic de 1620 Go par mois.
 						
 						0,0225 × 720 = 16,20 $/mois pour le base hourly charge
-						$0,008 x 1620 = 2,96 $/mois pour le data processed charge
-						16.20 + 2.96 = $19.16 
+						$0,008 x 1620 = 12,96 $/mois pour le data processed charge
+						16.20 + 12.96 = $19.16 
 						
+						Total de $29.16
 
-### B — Load Balancer (Application Load Balancer, ALB)
-
--   Base hourly charge (ALB) ≈ **0,0225 $/h** → mensuel : 0,0225 × 720 = **16,20 $/mois**. [CloudZero](https://www.cloudzero.com/blog/aws-alb-pricing/?utm_source=chatgpt.com)
-    
--   Data processed charge : **0,008 $ / GB** (ALB) × **1620 GB/mois** = **12,96 $/mois**. [CloudZero](https://www.cloudzero.com/blog/aws-alb-pricing/?utm_source=chatgpt.com)
-    
--   Total ALB ≈ 16,20 + 12,96 = **29,16 $/mois**.
-    
-
-> Remarque AWS : l’ALB comporte aussi la notion d’LCU (Load-balancer Capacity Units) qui peut ajouter un coût si tu utilises beaucoup de règles/connexions; ici on a pris la formule simple base + data processed (hypothèse raisonnable pour ce cas). [Amazon Web Services, Inc.+1](https://aws.amazon.com/elasticloadbalancing/pricing/?utm_source=chatgpt.com)
+   
 
 ### C — Base de données managée (Amazon RDS)
 
@@ -191,11 +183,11 @@ Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTA0MTM3LC0xODU3Nzc0NTY1LC0zOD
-Q3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4MTMxLDE3NjQ3ODQ3
-ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMDIxNjQ5ODc1LDEzMz
-Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
-NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
-0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
-NTI3MDc2OV19
+eyJoaXN0b3J5IjpbMTA2NDEwODg3NiwtMTg1Nzc3NDU2NSwtMz
+g0NzQ4MDM2LDU1NzcyNjEzMywtMTc0NjIwODEzMSwxNzY0Nzg0
+Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMjAyMTY0OTg3NSwxMz
+M2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0NzUsMTAzMzUw
+ODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYyMzg2MS
+wtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTEx
+MjUyNzA3NjldfQ==
 -->
