@@ -153,29 +153,11 @@ Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large q
 					0,145 × 720 = 104,40 $/mois
 					10 × 0,115 = 1,15 $/mois
 					
-   
-
-### C — Base de données managée (Amazon RDS)
-
--   Instance choisie : **db.t3.large** (2 vCPU, 8 GiB) → tarif on-demand ≈ **0,145 $/h**. [instances.vantage.sh](https://instances.vantage.sh/aws/rds/db.t3.large?utm_source=chatgpt.com)
+						Total 105.55
+					
+ Au total par mois je retrouve le résultat suivant
     
--   Compute RDS / mois : 0,145 × 720 = **104,40 $/mois**.
-    
--   Stockage RDS : **10 GB × 0,115 $/GB/mois** = **1,15 $/mois** (approx. tarif gp/gp2 style). 
-    
--   Total RDS ≈ 104,40 + 1,15 = **105,55 $/mois**.
-    
-
-### D — Total AWS (récap)
-
--   Serveurs (3) : **101,86 $**
-    
--   Load Balancer : **29,16 $**
-    
--   RDS (managed DB) : **105,55 $**
-    
-
-**→ Total AWS = 101,86 + 29,16 + 105,55 = 236,57 $/mois** (arrondi au centime)
+		 101,86 + 29,16 + 105,55 = 236,57 $/mois
 
 ## Références
 
@@ -188,11 +170,11 @@ Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large q
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI0MDgxMDEsLTY5MTcwMDg4NywtMT
-g1Nzc3NDU2NSwtMzg0NzQ4MDM2LDU1NzcyNjEzMywtMTc0NjIw
-ODEzMSwxNzY0Nzg0Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMj
-AyMTY0OTg3NSwxMzM2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYx
-OTA0NzUsMTAzMzUwODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MS
-wtMTE5NDYyMzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2
-MTY5NzUwNjFdfQ==
+eyJoaXN0b3J5IjpbMTUxNzE5MTM4MiwtNjkxNzAwODg3LC0xOD
+U3Nzc0NTY1LC0zODQ3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4
+MTMxLDE3NjQ3ODQ3ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMD
+IxNjQ5ODc1LDEzMzY2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5
+MDQ3NSwxMDMzNTA4NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC
+0xMTk0NjIzODYxLC0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYx
+Njk3NTA2MV19
 -->
