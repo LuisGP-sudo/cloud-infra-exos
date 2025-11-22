@@ -120,7 +120,7 @@ En termes de coût, ce type de solution peut coûter entre 10 € et 100€ par 
 ---
 Pour DeliverEats, une plateforme de commande et livraison de repas disposant d’une application mobile pour les clients et les livreurs, ainsi qu’un site internet et des applications pour restaurateurs, la solution la plus adaptée est un cloud public en mode PaaS.
 
-Ceci permettant le déploiement rapide d'une application 
+Ceci permettant le déploiement rapide de l'application, en plus de gérer facilement la montée en charge pendant les périodes de forte demande, sans nécessité d
 
 
 ## Cas n°7 
@@ -136,11 +136,11 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTcyODY2NzgsNjc0MTAwNDIsMjEzNz
-EzODg3Miw3MTEzNTQ0NTksLTEyNTcwMDQzMywxNjQ5MDc2NjAy
-LDQzODA4MzcwNSwxNDI3NjQzMDc0LDgxNTM1MjM2OSwxODM1Nz
-k4NDQ5LDkwNjQ2ODg5MywxNjY1OTQ2MjkzLDIzODg3MTM3NCwx
-MzAxNzIyNjYzLC0xMzk3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMT
-gwNzE4NDgsLTI1NDI2NTU3NSwxNTAzOTU1MDg4LC04NTc1Njkz
-MDZdfQ==
+eyJoaXN0b3J5IjpbMTk2NDk2MTA3MCw2NzQxMDA0MiwyMTM3MT
+M4ODcyLDcxMTM1NDQ1OSwtMTI1NzAwNDMzLDE2NDkwNzY2MDIs
+NDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1MzUyMzY5LDE4MzU3OT
+g0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMsMjM4ODcxMzc0LDEz
+MDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1NDU2NzA5OTEsMTExOD
+A3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2OTMw
+Nl19
 -->
