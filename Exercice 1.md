@@ -83,7 +83,19 @@ Pour 800 Go de données, les solutions SaaS peuvent coûter entre 10 € et 15 �
 ---
 Pour cette grande entreprise française de soutien aux armées, qui compte 5 000 employés et doit moderniser ses infrastructures informatiques tout en gérant des besoins très divers et évolutifs, la solution la plus adaptée est un cloud privé en mode NaaS (Network as a Service) avec une infrastructure hybride.
 
-Ce qui permet de garder un control total des données sensibles et services critiques, bénéficiant d'une flexibilité et scalalbilité permettant de gérer des nouveaux serveurs, stockage, et réseau efficacement. Ce type de solution permet de combiner des ressources locales sécurisées et ressources cloud qui optimisent les coûts et améliorent la performance
+Ce qui permet de garder un control total des données sensibles et services critiques, bénéficiant d'une flexibilité et scalalbilité permettant de gérer des nouveaux serveurs, stockage, et réseau efficacement. Ce type de solution permet de combiner des ressources locales sécurisées et ressources cloud qui optimisent les coûts et améliorent la performance.
+Les possibles services à implémenter pourraient être par exemple:
+-   Un NaaS** pour gérer les réseaux virtuels et les connexions sécurisées entre sites et cloud,
+-   **Serveurs et stockage virtualisés** dans un cloud privé pour héberger les applications critiques,
+-   **Cloud public sécurisé** pour les services moins sensibles ou les pics de charge temporaires.
+    
+
+En termes de coût, un tel cloud privé hybride est important :
+
+-   **Investissement initial** : entre **1 et 3 millions d’euros**, pour mettre en place les serveurs, le stockage, le réseau, la virtualisation, la sécurité et la redondance.
+    
+-   **Coût mensuel d’exploitation** : entre **100 000 € et 300 000 €**, selon le volume de services utilisés, la maintenance, la sécurité et le personnel technique nécessaire.
+
 ## Cas n°5
 TheFoodStore est une petite entreprise qui cherche à publier un site e-commerce rapidement afin de générer ses premières ventes en ligne. 
 
@@ -117,11 +129,11 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTI1MTYxLDE2NDkwNzY2MDIsNDM4MD
-gzNzA1LDE0Mjc2NDMwNzQsODE1MzUyMzY5LDE4MzU3OTg0NDks
-OTA2NDY4ODkzLDE2NjU5NDYyOTMsMjM4ODcxMzc0LDEzMDE3Mj
-I2NjMsLTEzOTc3NjIwNjksLTE1NDU2NzA5OTEsMTExODA3MTg0
-OCwtMjU0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2OTMwNiwtMz
-Q3MDgyMzU3LDIwODQxMDA5MDMsLTE4NzM1NTYxMDUsMTcyMjA4
-ODY1Ml19
+eyJoaXN0b3J5IjpbMTY5MzI1MTEzMywxNjQ5MDc2NjAyLDQzOD
+A4MzcwNSwxNDI3NjQzMDc0LDgxNTM1MjM2OSwxODM1Nzk4NDQ5
+LDkwNjQ2ODg5MywxNjY1OTQ2MjkzLDIzODg3MTM3NCwxMzAxNz
+IyNjYzLC0xMzk3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMTgwNzE4
+NDgsLTI1NDI2NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLT
+M0NzA4MjM1NywyMDg0MTAwOTAzLC0xODczNTU2MTA1LDE3MjIw
+ODg2NTJdfQ==
 -->
