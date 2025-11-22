@@ -135,6 +135,52 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 
 -**AWS Cloud**
 
+ Pour cette solutions je vais prendre l'exemple de 3 EC2 t3.medium qui a un cout par heure de $0.h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
+### Serveurs (3 × EC2 t3.medium : 2 vCPU / 4 GiB)
+
+-   Prix horaire t3.medium (Linux, on-demand) : **0,0416 $/h**. [instances.vantage.sh](https://instances.vantage.sh/aws/ec2/t3.medium?utm_source=chatgpt.com)
+    
+-   Coût compute par machine / mois : 0,0416 × 720 = **29,952 $/mois** → **29,95 $**.
+    
+-   Stockage : **50 GB × 0,08 $/GB/mois (EBS gp3)** = **4,00 $/mois** par serveur. [Amazon Web Services, Inc.](https://aws.amazon.com/fr/ebs/pricing/?utm_source=chatgpt.com)
+    
+-   Coût total par serveur = 29,952 + 4,00 = **33,952 $/mois** → arrondi **33,95 $**.
+    
+-   Pour 3 serveurs : **33,952 × 3 = 101,856 $** → **101,86 $/mois**.
+    
+
+### B — Load Balancer (Application Load Balancer, ALB)
+
+-   Base hourly charge (ALB) ≈ **0,0225 $/h** → mensuel : 0,0225 × 720 = **16,20 $/mois**. [CloudZero](https://www.cloudzero.com/blog/aws-alb-pricing/?utm_source=chatgpt.com)
+    
+-   Data processed charge : **0,008 $ / GB** (ALB) × **1620 GB/mois** = **12,96 $/mois**. [CloudZero](https://www.cloudzero.com/blog/aws-alb-pricing/?utm_source=chatgpt.com)
+    
+-   Total ALB ≈ 16,20 + 12,96 = **29,16 $/mois**.
+    
+
+> Remarque AWS : l’ALB comporte aussi la notion d’LCU (Load-balancer Capacity Units) qui peut ajouter un coût si tu utilises beaucoup de règles/connexions; ici on a pris la formule simple base + data processed (hypothèse raisonnable pour ce cas). [Amazon Web Services, Inc.+1](https://aws.amazon.com/elasticloadbalancing/pricing/?utm_source=chatgpt.com)
+
+### C — Base de données managée (Amazon RDS)
+
+-   Instance choisie : **db.t3.large** (2 vCPU, 8 GiB) → tarif on-demand ≈ **0,145 $/h**. [instances.vantage.sh](https://instances.vantage.sh/aws/rds/db.t3.large?utm_source=chatgpt.com)
+    
+-   Compute RDS / mois : 0,145 × 720 = **104,40 $/mois**.
+    
+-   Stockage RDS : **10 GB × 0,115 $/GB/mois** = **1,15 $/mois** (approx. tarif gp/gp2 style). 
+    
+-   Total RDS ≈ 104,40 + 1,15 = **105,55 $/mois**.
+    
+
+### D — Total AWS (récap)
+
+-   Serveurs (3) : **101,86 $**
+    
+-   Load Balancer : **29,16 $**
+    
+-   RDS (managed DB) : **105,55 $**
+    
+
+**→ Total AWS = 101,86 + 29,16 + 105,55 = 236,57 $/mois** (arrondi au centime)
 
 ## Références
 
@@ -147,11 +193,11 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEwMDk0ODcsLTE4NTc3NzQ1NjUsLT
-M4NDc0ODAzNiw1NTc3MjYxMzMsLTE3NDYyMDgxMzEsMTc2NDc4
-NDc4OCw4Njg1MTQ5NywtNjIyMTg4MDY1LDIwMjE2NDk4NzUsMT
-MzNjY2NTU5OSwxNjI0NDgxOTUxLC0xMDU2MTkwNDc1LDEwMzM1
-MDg3MzMsNjAyOTcxNDg1LDEzODQwNTI1NTEsLTExOTQ2MjM4Nj
-EsLTE0NTA3NTE0MzIsLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0x
-MTI1MjcwNzY5XX0=
+eyJoaXN0b3J5IjpbOTczMjk1MjIyLC0xODU3Nzc0NTY1LC0zOD
+Q3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4MTMxLDE3NjQ3ODQ3
+ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMDIxNjQ5ODc1LDEzMz
+Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
+NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
+0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
+NTI3MDc2OV19
 -->
