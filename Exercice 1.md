@@ -89,9 +89,7 @@ Les possibles services à implémenter pourraient être par exemple:
 -   Un cloud privé sécurisé pour les services moins sensibles ou les pics de charge temporaires.
     
 
-En termes de coût, un tel cloud privé hybride est important :
-
--   **Investissement initial** : entre **1 et 3 millions d’euros**, pour mettre en place les serveurs, le stockage, le réseau, la virtualisation, la sécurité et la redondance.
+En termes de coûts, la mise en place d'une infrastructure est éstimé entre 1 à 3 millions d'euros (serveur, stockage, virtualisation, redondance) puis un co
     
 -   **Coût mensuel d’exploitation** : entre **100 000 € et 300 000 €**, selon le volume de services utilisés, la maintenance, la sécurité et le personnel technique nécessaire.
 
@@ -128,7 +126,7 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQ2MTc2MjIsMTY0OTA3NjYwMiw0Mz
+eyJoaXN0b3J5IjpbLTE1NDQ3NDQ2NzgsMTY0OTA3NjYwMiw0Mz
 gwODM3MDUsMTQyNzY0MzA3NCw4MTUzNTIzNjksMTgzNTc5ODQ0
 OSw5MDY0Njg4OTMsMTY2NTk0NjI5MywyMzg4NzEzNzQsMTMwMT
 cyMjY2MywtMTM5Nzc2MjA2OSwtMTU0NTY3MDk5MSwxMTE4MDcx
