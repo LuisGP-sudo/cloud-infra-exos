@@ -55,11 +55,11 @@ En termes de coût, un cloud privé étant plus cher qu’un cloud public, il fa
 
 ## Cas n°3
 
-Paul est un particulier de 37 ans qui souhaite reprendre le contrôle de ses données. Il fait beaucoup de photos et apprécie pouvoir les stocker à un seul endroit mais y accéder depuis de nombreux appareils. Il dispose d’environ 800 Go de données et son besoin en stockage évolue relativement peu. Les compétences en informatique de Paul sont limitées. 
+**Paul est un particulier de 37 ans qui souhaite reprendre le contrôle de ses données. Il fait beaucoup de photos et apprécie pouvoir les stocker à un seul endroit mais y accéder depuis de nombreux appareils. Il dispose d’environ 800 Go de données et son besoin en stockage évolue relativement peu. Les compétences en informatique de Paul sont limitées.** 
 
-Nombre d’employé : N/A 
+**Nombre d’employé : N/A** 
 
-Que conseillez-vous à Paul ?
+**Que conseillez-vous à Paul ?**
 
 ---
 Pour Paul qui lui est un particulier de 37 ans qui souhaite reprendre le contrôle de ses données et disposer d'un stockage accessible depuis plusieurs appareils, la solution étant la plus adapté pour lui est d'utiliser un cloud public en mode SaaS.
@@ -109,10 +109,10 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNTc5ODQ0OSw5MDY0Njg4OTMsMTY2NT
-k0NjI5MywyMzg4NzEzNzQsMTMwMTcyMjY2MywtMTM5Nzc2MjA2
-OSwtMTU0NTY3MDk5MSwxMTE4MDcxODQ4LC0yNTQyNjU1NzUsMT
-UwMzk1NTA4OCwtODU3NTY5MzA2LC0zNDcwODIzNTcsMjA4NDEw
-MDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4NjUyLC0xMTQ5NTE3Mz
-Y5LC0xNjA0MjU0MzQ2XX0=
+eyJoaXN0b3J5IjpbODE1MzUyMzY5LDE4MzU3OTg0NDksOTA2ND
+Y4ODkzLDE2NjU5NDYyOTMsMjM4ODcxMzc0LDEzMDE3MjI2NjMs
+LTEzOTc3NjIwNjksLTE1NDU2NzA5OTEsMTExODA3MTg0OCwtMj
+U0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2OTMwNiwtMzQ3MDgy
+MzU3LDIwODQxMDA5MDMsLTE4NzM1NTYxMDUsMTcyMjA4ODY1Mi
+wtMTE0OTUxNzM2OSwtMTYwNDI1NDM0Nl19
 -->
