@@ -135,12 +135,14 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 
 -**AWS Cloud**
 
- Pour cette solutions je vais prendre l'exemple de 3 EC2 t3.medium qui a un cout par heure de $0.h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
-### Serveurs (3 × EC2 t3.medium : 2 vCPU / 4 GiB)
+ Pour cette solutions je vais prendre l'exemple de 3 EC2 t3.medium qui a un cout par heure de $0.0416/h et comme stockage EBS gp3 qui coute 0.08/Go. La région étudiée est Europe (Paris) eu-west3.
+ 
+						(0.1344 × 720) + (20 × 0.10) = $98.77
+						98.77 x 3 = $296.31 pour les 3 serveurs qui tournent 24h/7
 
--   Prix horaire t3.medium (Linux, on-demand) : **0,0416 $/h**. [instances.vantage.sh](https://instances.vantage.sh/aws/ec2/t3.medium?utm_source=chatgpt.com)
+
     
--   Coût compute par machine / mois : 0,0416 × 720 = **29,952 $/mois** → **29,95 $**.
+ 0,0416 × 720 = **29,952 $/mois** → **29,95 $**.
     
 -   Stockage : **50 GB × 0,08 $/GB/mois (EBS gp3)** = **4,00 $/mois** par serveur. [Amazon Web Services, Inc.](https://aws.amazon.com/fr/ebs/pricing/?utm_source=chatgpt.com)
     
@@ -193,7 +195,7 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTczMjk1MjIyLC0xODU3Nzc0NTY1LC0zOD
+eyJoaXN0b3J5IjpbMjk2NDY3OTgwLC0xODU3Nzc0NTY1LC0zOD
 Q3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4MTMxLDE3NjQ3ODQ3
 ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMDIxNjQ5ODc1LDEzMz
 Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
