@@ -138,18 +138,19 @@ En termes de coûts, cette architecture PaaS sur cloud public et en comptant des
 **Quelle solution proposez-vous ?**
 
 ---
-Pour Onenveutpa, une entreprise de télévendeurs travaillant partout dans le monde, la solution la plus adaptée est un cloud public en mode SaaS, par exemple un CRM en ligne comme **Salesforce, HubSpot ou Zoho CRM.
+Pour Onenveutpa, une entreprise de télévendeurs travaillant partout dans le monde, la solution la plus adaptée est un cloud public en mode SaaS, par exemple un CRM en ligne comme Salesforce, HubSpot ou Zoho CRM.
 
-Ce qui permet de centraliser les informations des clients, faciliter la collaboration entre les télévendeurs à distance, sans besoin de réaliser une maintenance de systèmes réseau, ni logiciels locaux.
+Ce qui permet de centraliser les informations des clients, faciliter la collaboration entre les télévendeurs à distance, sans besoin de réaliser une maintenance de systèmes réseau, ni logiciels locaux et de la sécurité. En assurant une haute disponibilité du service et des mises à jours automatiques.
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTM2NTA5NywtMTQyNDk2Nzk1Miw2Nz
-QxMDA0MiwyMTM3MTM4ODcyLDcxMTM1NDQ1OSwtMTI1NzAwNDMz
-LDE2NDkwNzY2MDIsNDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1Mz
-UyMzY5LDE4MzU3OTg0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMs
-MjM4ODcxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1ND
-U2NzA5OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUw
-ODhdfQ==
+eyJoaXN0b3J5IjpbLTE4NjU3OTYyOTUsLTE0MjQ5Njc5NTIsNj
+c0MTAwNDIsMjEzNzEzODg3Miw3MTEzNTQ0NTksLTEyNTcwMDQz
+MywxNjQ5MDc2NjAyLDQzODA4MzcwNSwxNDI3NjQzMDc0LDgxNT
+M1MjM2OSwxODM1Nzk4NDQ5LDkwNjQ2ODg5MywxNjY1OTQ2Mjkz
+LDIzODg3MTM3NCwxMzAxNzIyNjYzLC0xMzk3NzYyMDY5LC0xNT
+Q1NjcwOTkxLDExMTgwNzE4NDgsLTI1NDI2NTU3NSwxNTAzOTU1
+MDg4XX0=
 -->
