@@ -101,6 +101,8 @@ En termes de coûts, la mise en place d'une infrastructure est estimée entre 1 
 ---
 Pour TheFoodStore, une petite entreprise de 5 employés qui souhaite publier rapidement un site e-commerce pour générer ses premières ventes en ligne, la solution la plus adaptée est un **cloud public en mode SaaS**
 
+Permettant de lancer une boutique de façon rapide sans préoccupation par rapport à l'infrastructure.
+
 ## Cas n°6 
 DeliverEats est une plateforme permettant de commander et se faire livrer des repas. Elle dispose d’une application mobile et d’un site internet pour passer commande. Les livreurs de commandes disposent d’une application mobile qui les guide dans leurs livraisons, tandis que les restaurateurs reçoivent les commandes à préparer sur une application pour tablette. 
 
@@ -124,7 +126,7 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzg1Mzc5OSw3MTEzNTQ0NTksLTEyNT
+eyJoaXN0b3J5IjpbMjEzNzEzODg3Miw3MTEzNTQ0NTksLTEyNT
 cwMDQzMywxNjQ5MDc2NjAyLDQzODA4MzcwNSwxNDI3NjQzMDc0
 LDgxNTM1MjM2OSwxODM1Nzk4NDQ5LDkwNjQ2ODg5MywxNjY1OT
 Q2MjkzLDIzODg3MTM3NCwxMzAxNzIyNjYzLC0xMzk3NzYyMDY5
