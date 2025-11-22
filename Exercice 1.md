@@ -40,8 +40,7 @@ Nombre d’employés : 150
 Quelle solution pensez-vous la plus optimale et pourquoi ?
 
 ---
-IaaS - cloud privé
-AWS IoT très cher 
+Dans le cas de MySecureProtect étant une entreprise 
 
 ## Cas n°3
 
@@ -100,9 +99,9 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTc3NjIwNjksLTE1NDU2NzA5OTEsMT
-ExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2
-OTMwNiwtMzQ3MDgyMzU3LDIwODQxMDA5MDMsLTE4NzM1NTYxMD
-UsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMTYwNDI1NDM0Nl19
-
+eyJoaXN0b3J5IjpbLTQ1ODM1MTg3MSwtMTM5Nzc2MjA2OSwtMT
+U0NTY3MDk5MSwxMTE4MDcxODQ4LC0yNTQyNjU1NzUsMTUwMzk1
+NTA4OCwtODU3NTY5MzA2LC0zNDcwODIzNTcsMjA4NDEwMDkwMy
+wtMTg3MzU1NjEwNSwxNzIyMDg4NjUyLC0xMTQ5NTE3MzY5LC0x
+NjA0MjU0MzQ2XX0=
 -->
