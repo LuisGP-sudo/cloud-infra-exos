@@ -102,10 +102,10 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 					(0.2326 × 720) + (20 × 0.1792) = $171.056
 					$171.056 x 3 = $513.168 pour les 3 serveurs qui tournent 24h/7
 
-					(0.2326 × 480) + (20 × 0.1792) = $66.52
+					(0.2326 × 480) + (20 × 0.1792) = $115.232
 					66.52 x 3 = $199.53 pour les 3 serveurs qui tournent 16h/7
 
-					513.168 + 199.53 = $165.39
+					513.168 + 115.232 = $
 
 					Total de $495.84 / mois	
 
@@ -133,11 +133,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTI3Mzc3OCwyMDIxNjQ5ODc1LDEzMz
-Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
-NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
-0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
-NTI3MDc2OSw1ODgzMzQxOTIsLTE4NTU2NDUxMDgsNzM2Njc0Nj
-U4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUw
-NTEyMzUzOF19
+eyJoaXN0b3J5IjpbLTEyNjk1ODg4OTYsMjAyMTY0OTg3NSwxMz
+M2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0NzUsMTAzMzUw
+ODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYyMzg2MS
+wtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTEx
+MjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDczNjY3ND
+Y1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1ODU4LC01
+MDUxMjM1MzhdfQ==
 -->
