@@ -51,7 +51,7 @@ Et disposant par exemple:
 -   Des firewalls et systèmes réseau pour sécuriser les échanges,
 -   Des solutions de sauvegarde et de redondance qui granitiseront une continuité du service.
 
-En termes de coût, un cloud privé étant plus cher qu’un cloud public, il faut compter une mise en place initiale entre 150 000 € et 300 000 € (infrastructure, licences, sécurité) et un coût mensuel d’environ 20 000 € à 60 000 € par mois (maintenance des serveurs, l’énergie).
+En termes de coût, un cloud privé étant plus cher qu’un cloud public, il faut compter la mise en place coûtant entre 150 000 € et 300 000 € (infrastructure, licences, sécurité) et par la suite un coût mensuel d’environ 20 000 € à 60 000 € par mois (maintenance des serveurs, l’énergie).
 
 ## Cas n°3
 
@@ -63,7 +63,7 @@ En termes de coût, un cloud privé étant plus cher qu’un cloud public, il fa
 
 ---
 Pour Paul qui lui est un particulier de 37 ans qui souhaite reprendre le contrôle de ses données et disposer d'un stockage accessible depuis plusieurs appareils, la solution étant la plus adapté pour lui est d'utiliser un cloud public en mode SaaS.
-Lui permettant de stocker ses photos de façon sécurisée, de synchroniser automatiquement sur tous ces appareils et de ne pas avoir a gérer des configurations complexes. Le cloud public en mode SaaS permet de payer uniquement l'espace utilisé en garantissant une haute disponibilité des données.
+Permettant de stocker ses photos de façon sécurisée, de synchroniser automatiquement sur tous ces appareils et de ne pas avoir a gérer des configurations complexes. Le cloud public en mode SaaS permet de payer uniquement l'espace utilisé en garantissant une haute disponibilité des données.
 Un exemple de services qui peut utiliser sont:
 - Google Drive
 - iCloud
@@ -116,11 +116,11 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1Mz
-UyMzY5LDE4MzU3OTg0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMs
-MjM4ODcxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1ND
-U2NzA5OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUw
-ODgsLTg1NzU2OTMwNiwtMzQ3MDgyMzU3LDIwODQxMDA5MDMsLT
-E4NzM1NTYxMDUsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMTYw
-NDI1NDM0Nl19
+eyJoaXN0b3J5IjpbLTcyODA3MDM4Nyw0MzgwODM3MDUsMTQyNz
+Y0MzA3NCw4MTUzNTIzNjksMTgzNTc5ODQ0OSw5MDY0Njg4OTMs
+MTY2NTk0NjI5MywyMzg4NzEzNzQsMTMwMTcyMjY2MywtMTM5Nz
+c2MjA2OSwtMTU0NTY3MDk5MSwxMTE4MDcxODQ4LC0yNTQyNjU1
+NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC0zNDcwODIzNTcsMj
+A4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4NjUyLC0xMTQ5
+NTE3MzY5XX0=
 -->
