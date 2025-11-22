@@ -118,7 +118,8 @@ En termes de coût, ce type de solution peut coûter entre 10 € et 100€ par 
 **Quels types d'architecture peuvent être envisagées dans ce cas ? Quels sont les avantages et inconvénients des différentes solutions ?**
 
 ---
-PaaS - Cloud Publique penser a la scalabilité, Kubernetes avec Jenkins 
+Pour DeliverEats, une plateforme de commande et livraison de repas disposant d’une application mobile pour les clients et les livreurs, ainsi qu’un site internet et des applications pour restaurateurs, la solution la plus adaptée est un cloud public en mode PaaS.
+
 
 ## Cas n°7 
 L’entreprise de télévendeurs Onenveutpa a besoin d’un nouveau système pour la gestion des informations de ses potentiels futurs clients. Les télévendeurs travaillent partout dans le monde. 
@@ -133,11 +134,11 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc0MTAwNDIsMjEzNzEzODg3Miw3MTEzNT
-Q0NTksLTEyNTcwMDQzMywxNjQ5MDc2NjAyLDQzODA4MzcwNSwx
-NDI3NjQzMDc0LDgxNTM1MjM2OSwxODM1Nzk4NDQ5LDkwNjQ2OD
-g5MywxNjY1OTQ2MjkzLDIzODg3MTM3NCwxMzAxNzIyNjYzLC0x
-Mzk3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMTgwNzE4NDgsLTI1ND
-I2NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLTM0NzA4MjM1
-N119
+eyJoaXN0b3J5IjpbMTY5NjU0MTg0MSw2NzQxMDA0MiwyMTM3MT
+M4ODcyLDcxMTM1NDQ1OSwtMTI1NzAwNDMzLDE2NDkwNzY2MDIs
+NDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1MzUyMzY5LDE4MzU3OT
+g0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMsMjM4ODcxMzc0LDEz
+MDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1NDU2NzA5OTEsMTExOD
+A3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2OTMw
+Nl19
 -->
