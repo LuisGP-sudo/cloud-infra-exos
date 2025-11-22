@@ -65,6 +65,7 @@ En termes de coût, un cloud privé étant plus cher qu’un cloud public, il fa
 ---
 Pour Paul qui lui est un particulier de 37 ans qui souhaite reprendre le contrôle de ses données et disposer d'un stockage accessible depuis plusieurs appareils, la solution étant la plus adapté pour lui est d'utiliser un cloud public en mode SaaS.
 Permettant de stocker ses photos de façon sécurisée, de synchroniser automatiquement sur tous ces appareils et de ne pas avoir a gérer des configurations complexes. Le cloud public en mode SaaS permet de payer uniquement l'espace utilisé en garantissant une haute disponibilité des données.
+
 Un exemple de services qui peut utiliser sont:
 - Google Drive
 - iCloud
@@ -85,6 +86,7 @@ Pour 800 Go de données, les solutions SaaS peuvent coûter entre 10 € et 15 �
 Pour cette grande entreprise française de soutien aux armées, qui compte 5 000 employés et doit moderniser ses infrastructures informatiques tout en gérant des besoins très divers et évolutifs, la solution la plus adaptée est un cloud privé en mode NaaS (Network as a Service) avec une infrastructure hybride.
 
 Ce qui permet de garder un control total des données sensibles et services critiques, bénéficiant d'une flexibilité et scalalbilité permettant de gérer des nouveaux serveurs, stockage, et réseau efficacement. Ce type de solution permet de combiner des ressources locales sécurisées et ressources cloud qui optimisent les coûts et améliorent la performance.
+
 Les possibles services à implémenter pourraient être par exemple:
 -   Des serveurs et stockage virtualisés dans un cloud privé pour héberger les applications critiques,
 -   Un cloud privé sécurisé pour les services moins sensibles ou les pics de charge temporaires.
@@ -121,11 +123,10 @@ En termes de coût, ce type de solution peut coûter entre 10 € et 100€ par 
 Pour DeliverEats, une plateforme de commande et livraison de repas disposant d’une application mobile pour les clients et les livreurs, ainsi qu’un site internet et des applications pour restaurateurs, la solution la plus adaptée est un cloud public en mode PaaS.
 
 Ceci permettant le déploiement rapide de l'application, en plus de gérer facilement la montée en charge pendant les périodes de forte demande, sans nécessité de réaliser la maintenance de serveurs physiques. Ce modèle permet aussi d'ajouter des services pour le stockage, base de données, API,, entre autres.
+
 Un exemple de composants qui pourraient intégrer cette infrastructure seraient:
-- Kubernetes pour orchestrer les conteneurs, permettant une scalabilité automatique des services en fonction de la demande.
-    
+- Kubernetes pour orchestrer les conteneurs, permettant une scalabilité automatique des services en fonction de la demande.    
 -   Jenkins pour automatiser le déploiement continu, garantissant que les nouvelles fonctionnalités ou corrections arrivent rapidement en production.
-    
 -   Services managés du cloud pour la base de données (SQL ou NoSQL), le stockage d’images et de données, et la messagerie en temps réel.
 
 En termes de coûts, cette architecture PaaS sur cloud public et en comptant des milliers d'utilisateurs demandant une haute disponibilité du service, pourrait atteindre les milliers d'euros par mois.
@@ -142,15 +143,24 @@ Pour Onenveutpa, une entreprise de télévendeurs travaillant partout dans le mo
 
 Ce qui permet de centraliser les informations des clients, faciliter la collaboration entre les télévendeurs à distance, sans besoin de réaliser une maintenance de systèmes réseau, ni logiciels locaux et de la sécurité. En assurant une haute disponibilité du service et des mises à jours automatiques.
 
+Voici quelques exemples de services que cette entreprise pourrait utiliser:
+
+-   CRM SaaS pour gérer les contacts, le suivi des prospects et les campagnes marketing, 
+-   Applications mobiles et web pour permettre aux télévendeurs de travailler à distance,
+-   Outils de reporting et d’analyse intégrés pour suivre les performances et la productivité.
+    
+
+En termes de coût, un CRM SaaS revient généralement à **20 à 100 € par utilisateur et par mois**
+
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjU3OTYyOTUsLTE0MjQ5Njc5NTIsNj
-c0MTAwNDIsMjEzNzEzODg3Miw3MTEzNTQ0NTksLTEyNTcwMDQz
-MywxNjQ5MDc2NjAyLDQzODA4MzcwNSwxNDI3NjQzMDc0LDgxNT
-M1MjM2OSwxODM1Nzk4NDQ5LDkwNjQ2ODg5MywxNjY1OTQ2Mjkz
-LDIzODg3MTM3NCwxMzAxNzIyNjYzLC0xMzk3NzYyMDY5LC0xNT
-Q1NjcwOTkxLDExMTgwNzE4NDgsLTI1NDI2NTU3NSwxNTAzOTU1
-MDg4XX0=
+eyJoaXN0b3J5IjpbMTc3NTc1NDQwMywtMTQyNDk2Nzk1Miw2Nz
+QxMDA0MiwyMTM3MTM4ODcyLDcxMTM1NDQ1OSwtMTI1NzAwNDMz
+LDE2NDkwNzY2MDIsNDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1Mz
+UyMzY5LDE4MzU3OTg0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMs
+MjM4ODcxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1ND
+U2NzA5OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUw
+ODhdfQ==
 -->
