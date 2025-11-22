@@ -42,7 +42,8 @@ Quelle solution pensez-vous la plus optimale et pourquoi ?
 ---
 Dans le cas de MySecureProtect étant une entreprise qui développe et exploite des objets connectés en lien avec la sécurité des habitations des particuliers. avec plus d'un million d'obejts connectés étant en liaison constante avec les serveurs de l'entreprise.
 La solution plus adaptée a son besoin est d'utiiser un colud privé en mode IaaS.
-Ceci permettant de garder le contrôle sur la sécurité des données et sa performance, indispensable pour une entreprise qui gère des données sensibles et être affronté a des fortes activités des clients pendant le matin et le soir lorsque les alarmes sont activés
+Ceci permettant de garder le contrôle sur la sécurité des données et sa performance, indispensable pour une entreprise qui gère des données sensibles et être affronté a des fortes activités des clients pendant le matin et le soir lorsque les alarmes sont activés.
+Ce type de cloud permet d'adapter la puissance des serveurs, la puisance et le stockage s
 
 ## Cas n°3
 
@@ -101,9 +102,9 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ0NTU0MzAsMTMwMTcyMjY2MywtMTM5Nz
-c2MjA2OSwtMTU0NTY3MDk5MSwxMTE4MDcxODQ4LC0yNTQyNjU1
-NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC0zNDcwODIzNTcsMj
-A4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4NjUyLC0xMTQ5
-NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
+eyJoaXN0b3J5IjpbLTY3MzcwMDk0NSwxMzAxNzIyNjYzLC0xMz
+k3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMTgwNzE4NDgsLTI1NDI2
+NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLTM0NzA4MjM1Ny
+wyMDg0MTAwOTAzLC0xODczNTU2MTA1LDE3MjIwODg2NTIsLTEx
+NDk1MTczNjksLTE2MDQyNTQzNDZdfQ==
 -->
