@@ -140,7 +140,7 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 
  Pour cette solutions je vais prendre l'exemple de 3 EC2 t3.medium qui ont un cout par heure de $0.0416/h et comme stockage EBS gp3 qui coute 0.08/Go. La région étudiée est Europe (Paris) eu-west3.
  
-					(0.0416 × 720) + (50× 0.08) = $33.95
+					(0.0416 × 720) + (50 × 0.08) = $33.95
 					33.95 x 3 = $101,86 pour les 3 serveurs qui tournent 24h/7
 
 Pour le Load Balancer je vais utiliser l'Application Load Balancer qui coute $0.0225/h et en supposant aussi un trafic de 1620 Go par mois.
@@ -166,12 +166,12 @@ Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large q
 
  Pour cette solutions je vais prendre l'exemple de 3 instances B2s  qui a un cout par heure de $0,0416/h et comme stockage EBS gp3 qui coute 0.08/Go. La région étudiée est Europe (Paris) eu-west3.
  
-					(0.0416 × 720) + (50× 0.08) = $33.95
-					33.95 x 3 = $101,86 pour les 3 serveurs qui tournent 24h/7
+					(0.0416 × 720) + (50 × 0.05) = $29.95
+					29.95 x 2.5 = $97.36 pour les 3 serveurs qui tournent 24h/7
 
-Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute $0.0225/h et en supposant aussi un trafic de 1620 Go par mois.
+Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute $0.013/h et en supposant aussi un trafic de 1620 Go par mois.
 						
-					0,0225 × 720 = 16,20 $/mois pour le base hourly charge
+					0.013 × 720 = 16,20 $/mois pour le base hourly gateway
 					$0,008 x 1620 = 12,96 $/mois pour le data processed charge
 					16.20 + 12.96 = $19.16 
 						
@@ -199,7 +199,7 @@ Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large q
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMjAyNzM4NSwtNjkxNzAwODg3LC0xOD
+eyJoaXN0b3J5IjpbLTU0ODY2NDUxNSwtNjkxNzAwODg3LC0xOD
 U3Nzc0NTY1LC0zODQ3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4
 MTMxLDE3NjQ3ODQ3ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMD
 IxNjQ5ODc1LDEzMzY2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5
