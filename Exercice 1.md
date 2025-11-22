@@ -21,8 +21,9 @@ Quelle solution est la plus adaptée pour héberger les logiciels Eldo ?
 Sachant que Eldo travail dans une startup, que le nombre d'employés 
 
 ---
-PaaS - Cloud publique
-Amazon
+Pour Eldo, qui est une startup de 60 employés en pleine croissance, la solution la plus adaptée est d’utiliser un cloud public en mode PaaS, par exemple AWS.
+
+Pér
 
 ## Cas n°2
 
@@ -93,8 +94,9 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU2NzA5OTEsMTExODA3MTg0OCwtMj
-U0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2OTMwNiwtMzQ3MDgy
-MzU3LDIwODQxMDA5MDMsLTE4NzM1NTYxMDUsMTcyMjA4ODY1Mi
-wtMTE0OTUxNzM2OSwtMTYwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbLTExNDU0MjUwNiwtMTU0NTY3MDk5MSwxMT
+E4MDcxODQ4LC0yNTQyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5
+MzA2LC0zNDcwODIzNTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNS
+wxNzIyMDg4NjUyLC0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
+
 -->
