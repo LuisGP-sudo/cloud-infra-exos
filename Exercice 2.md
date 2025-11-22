@@ -116,7 +116,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 | AWS| $495.84 |  
 | GCP| $628.40|
 
- En comparant les prix d'hébérgement dans la zone européenne. AWS Cloudest l'option la moins chère, sans compter pas de licences, ni de plans d'économie et taxes.
+ En comparant les prix d'hébérgement dans la zone européenne. AWS Cloud est l'option la moins chère, sans compter pas de licences, ni de plans d'économie et taxes.
 
 ## Infrastructure n°3: a faire 
 - **3 serveurs avec les ressources suivantes :**
@@ -128,6 +128,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
   - **8 Go de RAM minimum**
   - **2 vCPU**
   - **10 Go de stockage disque**
+ 
 
 ## Références
 
@@ -140,7 +141,7 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2NjExMzQ0NywyMDIxNjQ5ODc1LDEzMz
+eyJoaXN0b3J5IjpbLTE1NTEwNjIzMywyMDIxNjQ5ODc1LDEzMz
 Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
 NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
 0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
