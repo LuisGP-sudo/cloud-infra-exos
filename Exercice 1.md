@@ -33,23 +33,23 @@ En termes de coût, une architecture PaaS sur cloud public revient généralemen
 
 ## Cas n°2
 
-MySecureProtect est une entreprise qui développe et exploite des objets connectés en lien avec la sécurité des habitations des particuliers. Plus d’un million d’objets connectés sont en liaison constante avec les serveurs de l’entreprise. Une application mobile permet de gérer son système de sécurité et de recevoir des notifications en cas d’anomalies. La spécificité de ce système est qu’il sollicite les serveurs dans 3 cas bien précis. Le matin lorsque les personnes quittent le domicile pour activer l’alarme, le soir pour désactiver l’alarme et enfin dans de rare cas lorsqu’une anomalie de sécurité est détectée.
+**MySecureProtect est une entreprise qui développe et exploite des objets connectés en lien avec la sécurité des habitations des particuliers. Plus d’un million d’objets connectés sont en liaison constante avec les serveurs de l’entreprise. Une application mobile permet de gérer son système de sécurité et de recevoir des notifications en cas d’anomalies. La spécificité de ce système est qu’il sollicite les serveurs dans 3 cas bien précis. Le matin lorsque les personnes quittent le domicile pour activer l’alarme, le soir pour désactiver l’alarme et enfin dans de rare cas lorsqu’une anomalie de sécurité est détectée.**
 
-Nombre d’employés : 150
+**Nombre d’employés : 150**
 
-Quelle solution pensez-vous la plus optimale et pourquoi ?
+**Quelle solution pensez-vous la plus optimale et pourquoi ?**
 
 ---
 Dans le cas de MySecureProtect étant une entreprise qui développe et exploite des objets connectés en lien avec la sécurité des habitations des particuliers. avec plus d'un million d'obejts connectés étant en liaison constante avec les serveurs de l'entreprise.
-La solution plus adaptée a son besoin est d'utiiser un colud privé en mode IaaS.
+La solution plus adaptée a son besoin est d'utiiser un cloud privé en mode IaaS.
+
 Ceci permettant de garder le contrôle sur la sécurité des données et sa performance, indispensable pour une entreprise qui gère des données sensibles et être affronté a des fortes activités des clients pendant le matin et le soir lorsque les alarmes sont activés.
 Ce type de cloud permet d'adapter la puissance des serveurs, la puisance et le stockage selon le besoin et assurant une haute disponibilité du service.
-
 Et disposant par exemple:
--   des serveurs dédiés et virtualisés pour héberger l’application et traiter les communications avec les objets connectés,
--   un stockage haute disponibilité pour les données sensibles,
--   des firewalls et systèmes réseau pour sécuriser les échanges,
--   des **solutions de sauvegarde et de redondance pour garantir la continuité du service.
+-   Des serveurs dédiés et virtualisés pour héberger l’application et traiter les communications avec les objets connectés,
+-   Un stockage haute disponibilité pour les données sensibles,
+-   Des firewalls et systèmes réseau pour sécuriser les échanges,
+-   Des solutions de sauvegarde et de redondance pour garantir la continuité du service.
 
 ## Cas n°3
 
@@ -108,9 +108,9 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNzA2MjY5NCwxMzAxNzIyNjYzLC0xMz
-k3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMTgwNzE4NDgsLTI1NDI2
-NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLTM0NzA4MjM1Ny
-wyMDg0MTAwOTAzLC0xODczNTU2MTA1LDE3MjIwODg2NTIsLTEx
-NDk1MTczNjksLTE2MDQyNTQzNDZdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjg2NjU3OTIsMTMwMTcyMjY2MywtMT
+M5Nzc2MjA2OSwtMTU0NTY3MDk5MSwxMTE4MDcxODQ4LC0yNTQy
+NjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC0zNDcwODIzNT
+csMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIyMDg4NjUyLC0x
+MTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
 -->
