@@ -82,7 +82,7 @@ Suivi par Scaleway avec un cout un peu plus élevé, suivi par Azure et AWS. Fin
 - **Particularité : 3 serveurs sont éteints la nuit de 22h à 6h du matin**
 
 Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 jour, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
- Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
+ Voici les estimations des couts mensuels pour les deux cloud providers mentionnés ci-dessus:
 
  - **AWS Cloud**
  Pour cette solutions je vais prendre l'exemple d'un EC2 t4g.xl qui a un cout par heure de $0.1344/h et comme stockage EBS gp3 qui coute 0.10/Go. La région étudiée est Europe (Paris) eu-west3.
@@ -130,8 +130,9 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
   - **2 vCPU**
   - **10 Go de stockage disque**
   
- Dans ce cas, on suppose que les 3 serveurs sont utilisés 24h/7  avec un load balancer qui distribue 5 Mb/s de trafic entrant/sortant et 1 service de base de données manag, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
- Voici les estimations des couts mensuels pour quelques cloud providers mentionnés ci-dessus:
+ Dans ce cas, je suppose que les 3 serveurs sont utilisés 24h/7 avec un load balancer qui distribue 5 Mb/s de trafic entrant/sortant et 1 service de base de données managé, en précisant que je compare les options plus économiques, avec les ressources respectés pour chaque fournisseur avec un OS Linux et dans des clouds publics. 
+ Voici les estimations des couts mensuels pour les deux cloud providers mentionnés ci-dessus:
+ 
 
 ## Références
 
@@ -144,11 +145,11 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjE2NDAxNDgsLTYyMjE4ODA2NSwyMD
-IxNjQ5ODc1LDEzMzY2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5
-MDQ3NSwxMDMzNTA4NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC
-0xMTk0NjIzODYxLC0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYx
-Njk3NTA2MSwtMTEyNTI3MDc2OSw1ODgzMzQxOTIsLTE4NTU2ND
-UxMDgsNzM2Njc0NjU4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03
-Nzg4NzU4NThdfQ==
+eyJoaXN0b3J5IjpbOTc5NjMzNTY3LC02MjIxODgwNjUsMjAyMT
+Y0OTg3NSwxMzM2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0
+NzUsMTAzMzUwODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMT
+E5NDYyMzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5
+NzUwNjEsLTExMjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1MT
+A4LDczNjY3NDY1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNzc4
+ODc1ODU4XX0=
 -->
