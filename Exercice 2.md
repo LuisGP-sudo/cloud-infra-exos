@@ -177,12 +177,12 @@ Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute 
 						
 						Total de $15.84
 
-Pour la base de données managée, je vais utiliser un Flexible Server qui occupe 2 vCPU et 8 Go de RAM qui a un cout de $0.145/h et pour le stockage un coût de $0.115/Go par mois 
+Pour la base de données managée, je vais utiliser un Flexible Server qui occupe 2 vCPU et 8 Go de RAM qui a un cout de $0.173/h et pour le stockage un coût de $0.05/Go par mois 
 						
-					0,145 × 720 = 104,40 $/mois
-					10 × 0,115 = 1,15 $/mois
+					0.173 × 720 = 124.83 $/mois
+					10 × 0.05= 0.5 $/mois
 					
-						Total 105.55
+						Total $125.33 /mois
 					
  Au total par mois je retrouve le résultat suivant:
     
@@ -199,11 +199,11 @@ Pour la base de données managée, je vais utiliser un Flexible Server qui occup
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUwMDMyNjAyLC02OTE3MDA4ODcsLTE4NT
-c3NzQ1NjUsLTM4NDc0ODAzNiw1NTc3MjYxMzMsLTE3NDYyMDgx
-MzEsMTc2NDc4NDc4OCw4Njg1MTQ5NywtNjIyMTg4MDY1LDIwMj
-E2NDk4NzUsMTMzNjY2NTU5OSwxNjI0NDgxOTUxLC0xMDU2MTkw
-NDc1LDEwMzM1MDg3MzMsNjAyOTcxNDg1LDEzODQwNTI1NTEsLT
-ExOTQ2MjM4NjEsLTE0NTA3NTE0MzIsLTExNTgwMDcwNjUsNjE2
-OTc1MDYxXX0=
+eyJoaXN0b3J5IjpbLTE2NjI4NzkzOCwtNjkxNzAwODg3LC0xOD
+U3Nzc0NTY1LC0zODQ3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4
+MTMxLDE3NjQ3ODQ3ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMD
+IxNjQ5ODc1LDEzMzY2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5
+MDQ3NSwxMDMzNTA4NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC
+0xMTk0NjIzODYxLC0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYx
+Njk3NTA2MV19
 -->
