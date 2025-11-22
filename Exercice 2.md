@@ -138,12 +138,12 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 
 - **AWS Cloud**
 
- Pour cette solutions je vais prendre l'exemple de 3 EC2 t3.medium qui a un cout par heure de $0.0416/h et comme stockage EBS gp3 qui coute 0.08/Go. La région étudiée est Europe (Paris) eu-west3.
+ Pour cette solutions je vais prendre l'exemple de 3 EC2 t3.medium qui ont un cout par heure de $0.0416/h et comme stockage EBS gp3 qui coute 0.08/Go. La région étudiée est Europe (Paris) eu-west3.
  
 					0.0416 × 720) + (50× 0.08) = $33.95
 					33.95 x 3 = $101,86 pour les 3 serveurs qui tournent 24h/7
 
-Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute $0.0225/h et en supposant aussi un trafic de 1620 Go par mois.
+Pour le Load Balancer je vais utiliser l'Application Load Balancer qui coute $0.0225/h et en supposant aussi un trafic de 1620 Go par mois.
 						
 					0,0225 × 720 = 16,20 $/mois pour le base hourly charge
 					$0,008 x 1620 = 12,96 $/mois pour le data processed charge
@@ -164,7 +164,7 @@ Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large q
 
 - **Azure**
 
- Pour cette solutions je vais prendre l'exemple de 3 EC2 t3.medium qui a un cout par heure de $0.0416/h et comme stockage EBS gp3 qui coute 0.08/Go. La région étudiée est Europe (Paris) eu-west3.
+ Pour cette solutions je vais prendre l'exemple de 3 instances B2s  qui a un cout par heure de $0.0416/h et comme stockage EBS gp3 qui coute 0.08/Go. La région étudiée est Europe (Paris) eu-west3.
  
 					0.0416 × 720) + (50× 0.08) = $33.95
 					33.95 x 3 = $101,86 pour les 3 serveurs qui tournent 24h/7
@@ -199,11 +199,11 @@ Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large q
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4NTMzODEsLTY5MTcwMDg4NywtMTg1Nz
-c3NDU2NSwtMzg0NzQ4MDM2LDU1NzcyNjEzMywtMTc0NjIwODEz
-MSwxNzY0Nzg0Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMjAyMT
-Y0OTg3NSwxMzM2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0
-NzUsMTAzMzUwODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMT
-E5NDYyMzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5
-NzUwNjFdfQ==
+eyJoaXN0b3J5IjpbLTE0NDgzNjEyNTksLTY5MTcwMDg4NywtMT
+g1Nzc3NDU2NSwtMzg0NzQ4MDM2LDU1NzcyNjEzMywtMTc0NjIw
+ODEzMSwxNzY0Nzg0Nzg4LDg2ODUxNDk3LC02MjIxODgwNjUsMj
+AyMTY0OTg3NSwxMzM2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYx
+OTA0NzUsMTAzMzUwODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MS
+wtMTE5NDYyMzg2MSwtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2
+MTY5NzUwNjFdfQ==
 -->
