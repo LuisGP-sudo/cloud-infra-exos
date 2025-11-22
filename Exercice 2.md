@@ -1,6 +1,7 @@
 # Exercice: Calcul des coûts d’une Infrastructure as a Service en fonction de différents Cloud Provider
 >Etudiant: 
 **Luis Antonio GONZALEZ PATINO**
+Lien GitHub: https://github.com/LuisGP-sudo/cloud-infra-exos
 
 Pour chacune des infrastructures décrites ci-dessous calculer le coût sur 5 cloud providers (AWS, GCP, Azure, Scaleway et OVH). Faire apparaître le détail des calculs et comparer les résultats finaux.
 
@@ -141,11 +142,11 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwNjYwNTg1LDIwMjE2NDk4NzUsMTMzNj
-Y2NTU5OSwxNjI0NDgxOTUxLC0xMDU2MTkwNDc1LDEwMzM1MDg3
-MzMsNjAyOTcxNDg1LDEzODQwNTI1NTEsLTExOTQ2MjM4NjEsLT
-E0NTA3NTE0MzIsLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0xMTI1
-MjcwNzY5LDU4ODMzNDE5MiwtMTg1NTY0NTEwOCw3MzY2NzQ2NT
-gsLTY4NjAzMDE5Niw3MDA3Mjc2MjMsLTc3ODg3NTg1OCwtNTA1
-MTIzNTM4XX0=
+eyJoaXN0b3J5IjpbLTYyMjE4ODA2NSwyMDIxNjQ5ODc1LDEzMz
+Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
+NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
+0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
+NTI3MDc2OSw1ODgzMzQxOTIsLTE4NTU2NDUxMDgsNzM2Njc0Nj
+U4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUw
+NTEyMzUzOF19
 -->
