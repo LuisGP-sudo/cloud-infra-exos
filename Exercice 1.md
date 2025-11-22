@@ -17,7 +17,7 @@ Compétences :
 Eldo est une start-up qui développe un logiciel qui a pour objectif la mise en relation de professionnels du BTP avec des prospects qui souhaitent faire des travaux chez eux. En plus d’un module de mise en relation, Eldo développe un CRM pour les professionnels du BTP. 
 Nombre d’employés : 60 
 
-Quelle solution est la plus adaptée pour héberger les logiciels Eldo ?
+Quelle solution est la plus adaptée pour héberger les logiciels Eldo?
 Sachant que Eldo travail dans une startup, que le nombre d'employés 
 
 ---
@@ -29,7 +29,7 @@ Les services managés d’AWS qui peuvent utiliser sont:
 - RDS pour la base de données
 - S3 pour le stockage
 
-En termes de coût, une architecture PaaS sur cloud public revient généralement à 300 à 800 € par mois pour démarrer, puis 1 000 à 2 500 € par mois lorsque la plateforme commence à avoir plus d’utilisateurs.
+En termes de coût, une architecture PaaS sur cloud public revient généralement à 300 à 800 € par mois pour démarrer backend, base de données managée, stockage, monitoring, sécurité), puis 1 000 à 2 500 € par mois lorsque la plateforme commence à avoir plus d’utilisateurs.
 
 ## Cas n°2
 
@@ -100,9 +100,9 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTczNTMxMTMsLTE1NDU2NzA5OTEsMT
-ExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2
-OTMwNiwtMzQ3MDgyMzU3LDIwODQxMDA5MDMsLTE4NzM1NTYxMD
-UsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMTYwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbNTQ2MjI1Mzg5LC0xNTQ1NjcwOTkxLDExMT
+gwNzE4NDgsLTI1NDI2NTU3NSwxNTAzOTU1MDg4LC04NTc1Njkz
+MDYsLTM0NzA4MjM1NywyMDg0MTAwOTAzLC0xODczNTU2MTA1LD
+E3MjIwODg2NTIsLTExNDk1MTczNjksLTE2MDQyNTQzNDZdfQ==
 
 -->
