@@ -151,17 +151,17 @@ Voici quelques exemples de services que cette entreprise pourrait utiliser:
 -   Outils de reporting et d’analyse intégrés pour suivre les performances et la productivité.
     
 
-En termes de coût, un CRM SaaS revient généralement à **20 à 100 € par utilisateur et par mois**
+En termes de coût, un CRM SaaS revient généralement à 20 à 100 € par utilisateur et par mois dépendant des fonctionnalités et le nombre d'utilisateurs.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ2MTk1NjcsLTE0MjQ5Njc5NTIsNj
-c0MTAwNDIsMjEzNzEzODg3Miw3MTEzNTQ0NTksLTEyNTcwMDQz
-MywxNjQ5MDc2NjAyLDQzODA4MzcwNSwxNDI3NjQzMDc0LDgxNT
-M1MjM2OSwxODM1Nzk4NDQ5LDkwNjQ2ODg5MywxNjY1OTQ2Mjkz
-LDIzODg3MTM3NCwxMzAxNzIyNjYzLC0xMzk3NzYyMDY5LC0xNT
-Q1NjcwOTkxLDExMTgwNzE4NDgsLTI1NDI2NTU3NSwxNTAzOTU1
-MDg4XX0=
+eyJoaXN0b3J5IjpbMjAyNTk0OTI0NiwtMTQyNDk2Nzk1Miw2Nz
+QxMDA0MiwyMTM3MTM4ODcyLDcxMTM1NDQ1OSwtMTI1NzAwNDMz
+LDE2NDkwNzY2MDIsNDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1Mz
+UyMzY5LDE4MzU3OTg0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMs
+MjM4ODcxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1ND
+U2NzA5OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUw
+ODhdfQ==
 -->
