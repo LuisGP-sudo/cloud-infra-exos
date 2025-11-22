@@ -66,7 +66,9 @@ Pour Paul qui lui est un particulier de 37 ans qui souhaite reprendre le contrô
 Lui permettant de stocker ses photos de façon sécurisée, de synchroniser automatiquement sur tous ces appareils et de ne pas avoir a gérer des configurations complexes. Le cloud public en mode SaaS permet de payer uniquement l'espace utilisé en garantissant une haute disponibilité des données.
 Un exemple de services qui peut utiliser sont:
 - Google Drive
-- i
+- iCloud
+
+Pour 800 Go de données, les solutions SaaS peuvent coûter entre 10 € et 15 € par mois.
 
 
 ## Cas n°4
@@ -113,7 +115,7 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMDMyMTU4OCw4MTUzNTIzNjksMTgzNT
+eyJoaXN0b3J5IjpbMTQyNzY0MzA3NCw4MTUzNTIzNjksMTgzNT
 c5ODQ0OSw5MDY0Njg4OTMsMTY2NTk0NjI5MywyMzg4NzEzNzQs
 MTMwMTcyMjY2MywtMTM5Nzc2MjA2OSwtMTU0NTY3MDk5MSwxMT
 E4MDcxODQ4LC0yNTQyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5
