@@ -23,7 +23,7 @@ Sachant que Eldo travail dans une startup, que le nombre d'employés
 ---
 Pour Eldo, qui est une startup de 60 employés en pleine croissance, la solution la plus adaptée est d’utiliser un cloud public en mode PaaS, par exemple AWS.
 
-Permettant de déployer sa solution développé de façon rapide et efficace, leur permettant de ne pas s'occuper de la maintenance d'équippements phisique 
+Permettant de déployer sa solution développé de façon rapide et efficace, leur permettant de ne pas s'occuper de la maintenance d'équippements physiques et attribuer de la flexibilité et scalabilité auto 
 
 ## Cas n°2
 
@@ -94,9 +94,9 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDk2NjYxMDQsLTE1NDU2NzA5OTEsMT
-ExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUwODgsLTg1NzU2
-OTMwNiwtMzQ3MDgyMzU3LDIwODQxMDA5MDMsLTE4NzM1NTYxMD
-UsMTcyMjA4ODY1MiwtMTE0OTUxNzM2OSwtMTYwNDI1NDM0Nl19
+eyJoaXN0b3J5IjpbLTI1OTA1ODM1OCwtMTU0NTY3MDk5MSwxMT
+E4MDcxODQ4LC0yNTQyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5
+MzA2LC0zNDcwODIzNTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNS
+wxNzIyMDg4NjUyLC0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
 
 -->
