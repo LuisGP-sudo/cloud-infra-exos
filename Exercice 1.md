@@ -63,7 +63,10 @@ En termes de coût, un cloud privé étant plus cher qu’un cloud public, il fa
 
 ---
 Pour Paul qui lui est un particulier de 37 ans qui souhaite reprendre le contrôle de ses données et disposer d'un stockage accessible depuis plusieurs appareils, la solution étant la plus adapté pour lui est d'utiliser un cloud public en mode SaaS.
-Lui permettant de stocker ses photos de façon sécurisée, de synchroniser automatiquement sur tous ces appareils et de ne pas avoir a gérer des configurations complexes. Le cloud public en 
+Lui permettant de stocker ses photos de façon sécurisée, de synchroniser automatiquement sur tous ces appareils et de ne pas avoir a gérer des configurations complexes. Le cloud public en mode SaaS permet de payer uniquement l'espace utilisé en garantissant une haute disponibilité des données.
+Un exemple de services qui peut utiliser sont:
+- Google Drive
+- i
 
 
 ## Cas n°4
@@ -110,7 +113,7 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNTcyNjcxMiw4MTUzNTIzNjksMTgzNT
+eyJoaXN0b3J5IjpbMjExMDMyMTU4OCw4MTUzNTIzNjksMTgzNT
 c5ODQ0OSw5MDY0Njg4OTMsMTY2NTk0NjI5MywyMzg4NzEzNzQs
 MTMwMTcyMjY2MywtMTM5Nzc2MjA2OSwtMTU0NTY3MDk5MSwxMT
 E4MDcxODQ4LC0yNTQyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5
