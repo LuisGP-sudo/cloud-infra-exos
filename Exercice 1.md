@@ -44,7 +44,7 @@ Dans le cas de MySecureProtect étant une entreprise qui développe et exploite 
 La solution plus adaptée a son besoin est d'utiiser un cloud privé en mode IaaS.
 
 Ceci permettant de garder le contrôle sur la sécurité des données et sa performance, indispensable pour une entreprise qui gère des données sensibles et être affronté a des fortes activités des clients pendant le matin et le soir lorsque les alarmes sont activés.
-Ce type de cloud permet d'adapter la puissance des serveurs, la puisance et le stockage selon le besoin et assurant une haute disponibilité du service.
+Ce type de cloud permet d'adapter la puissance des serveurs, la puissance et le stockage selon le besoin et assurant une haute disponibilité du service.
 Et disposant par exemple:
 -   Des serveurs dédiés et virtualisés pour héberger l’application et traiter les communications avec les objets connectés,
 -   Un stockage haute disponibilité pour les données sensibles,
@@ -116,7 +116,7 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyODA3MDM4Nyw0MzgwODM3MDUsMTQyNz
+eyJoaXN0b3J5IjpbMTY0OTA3NjYwMiw0MzgwODM3MDUsMTQyNz
 Y0MzA3NCw4MTUzNTIzNjksMTgzNTc5ODQ0OSw5MDY0Njg4OTMs
 MTY2NTk0NjI5MywyMzg4NzEzNzQsMTMwMTcyMjY2MywtMTM5Nz
 c2MjA2OSwtMTU0NTY3MDk5MSwxMTE4MDcxODQ4LC0yNTQyNjU1
