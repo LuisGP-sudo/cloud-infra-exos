@@ -85,9 +85,8 @@ Pour cette grande entreprise française de soutien aux armées, qui compte 5 000
 
 Ce qui permet de garder un control total des données sensibles et services critiques, bénéficiant d'une flexibilité et scalalbilité permettant de gérer des nouveaux serveurs, stockage, et réseau efficacement. Ce type de solution permet de combiner des ressources locales sécurisées et ressources cloud qui optimisent les coûts et améliorent la performance.
 Les possibles services à implémenter pourraient être par exemple:
--   Un NaaS** pour gérer les réseaux virtuels et les connexions sécurisées entre sites et cloud,
--   **Serveurs et stockage virtualisés** dans un cloud privé pour héberger les applications critiques,
--   **Cloud public sécurisé** pour les services moins sensibles ou les pics de charge temporaires.
+-   Des serveurs et stockage virtualisés dans un cloud privé pour héberger les applications critiques,
+-   Un cloud privé sécurisé pour les services moins sensibles ou les pics de charge temporaires.
     
 
 En termes de coût, un tel cloud privé hybride est important :
@@ -129,11 +128,11 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5MzI1MTEzMywxNjQ5MDc2NjAyLDQzOD
-A4MzcwNSwxNDI3NjQzMDc0LDgxNTM1MjM2OSwxODM1Nzk4NDQ5
-LDkwNjQ2ODg5MywxNjY1OTQ2MjkzLDIzODg3MTM3NCwxMzAxNz
-IyNjYzLC0xMzk3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMTgwNzE4
-NDgsLTI1NDI2NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLT
-M0NzA4MjM1NywyMDg0MTAwOTAzLC0xODczNTU2MTA1LDE3MjIw
-ODg2NTJdfQ==
+eyJoaXN0b3J5IjpbLTExMDQ2MTc2MjIsMTY0OTA3NjYwMiw0Mz
+gwODM3MDUsMTQyNzY0MzA3NCw4MTUzNTIzNjksMTgzNTc5ODQ0
+OSw5MDY0Njg4OTMsMTY2NTk0NjI5MywyMzg4NzEzNzQsMTMwMT
+cyMjY2MywtMTM5Nzc2MjA2OSwtMTU0NTY3MDk5MSwxMTE4MDcx
+ODQ4LC0yNTQyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC
+0zNDcwODIzNTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIy
+MDg4NjUyXX0=
 -->
