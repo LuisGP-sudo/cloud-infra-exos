@@ -91,11 +91,11 @@ Les possibles services à implémenter pourraient être par exemple:
 En termes de coûts, la mise en place d'une infrastructure est estimée entre 1 à 3 millions d'euros (serveur, stockage, virtualisation, redondance) puis un coût mensuel d'entre 100 00 € et 300 000 € de services utilisées, maintenance, etc..
 
 ## Cas n°5
-TheFoodStore est une petite entreprise qui cherche à publier un site e-commerce rapidement afin de générer ses premières ventes en ligne. 
+**TheFoodStore est une petite entreprise qui cherche à publier un site e-commerce rapidement afin de générer ses premières ventes en ligne.** 
 
-Nombre d’employés : 5 
+**Nombre d’employés : 5** 
 
-Quelle solution sera la plus adaptée pour TheFoodStore ? 
+**Quelle solution sera la plus adaptée pour TheFoodStore ?** 
 
 ---
 SaaS - Cloud publique - UberEats, Shopify, etc... entre 10 et 100 euros
@@ -123,11 +123,11 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTcwMDQzMywxNjQ5MDc2NjAyLDQzOD
-A4MzcwNSwxNDI3NjQzMDc0LDgxNTM1MjM2OSwxODM1Nzk4NDQ5
-LDkwNjQ2ODg5MywxNjY1OTQ2MjkzLDIzODg3MTM3NCwxMzAxNz
-IyNjYzLC0xMzk3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMTgwNzE4
-NDgsLTI1NDI2NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLT
-M0NzA4MjM1NywyMDg0MTAwOTAzLC0xODczNTU2MTA1LDE3MjIw
-ODg2NTJdfQ==
+eyJoaXN0b3J5IjpbMTQ0ODMxNjkxMSwtMTI1NzAwNDMzLDE2ND
+kwNzY2MDIsNDM4MDgzNzA1LDE0Mjc2NDMwNzQsODE1MzUyMzY5
+LDE4MzU3OTg0NDksOTA2NDY4ODkzLDE2NjU5NDYyOTMsMjM4OD
+cxMzc0LDEzMDE3MjI2NjMsLTEzOTc3NjIwNjksLTE1NDU2NzA5
+OTEsMTExODA3MTg0OCwtMjU0MjY1NTc1LDE1MDM5NTUwODgsLT
+g1NzU2OTMwNiwtMzQ3MDgyMzU3LDIwODQxMDA5MDMsLTE4NzM1
+NTYxMDVdfQ==
 -->
