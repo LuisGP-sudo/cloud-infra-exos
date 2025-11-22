@@ -134,7 +134,7 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
  Voici les estimations des couts mensuels pour les deux cloud providers mentionnés ci-dessus:
 
  - **Scaleway**
-  Pour cette solutions je vais prendre l'exemple de l'instance PLAY2-NANO qui comporte exactement les ressources spécifiés a un cout par heure de $0.0001298 et le stockage de 50 Go et pour la base de donnée un POP2-2C-8G qui comporte exactement les ressources spécifiés avec un coût par heure $0.08085 et le stockage .
+  Pour cette solutions je vais prendre l'exemple de l'instance PLAY2-NANO qui comporte exactement les ressources spécifiés a un cout par heure de $0.0001298 et le stockage de 50 Go et pour la base de donnée un POP2-2C-8G qui comporte exactement les ressources spécifiés avec un coût par heure $0.08085 et le stockage.
 
 ## Références
 
@@ -147,11 +147,11 @@ Dans ce cas, 3 serveurs sont utilisés 24h/7 et les autres sont utilisés 16h/7 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc3NzQ1NjUsLTM4NDc0ODAzNiw1NT
-c3MjYxMzMsLTE3NDYyMDgxMzEsMTc2NDc4NDc4OCw4Njg1MTQ5
-NywtNjIyMTg4MDY1LDIwMjE2NDk4NzUsMTMzNjY2NTU5OSwxNj
-I0NDgxOTUxLC0xMDU2MTkwNDc1LDEwMzM1MDg3MzMsNjAyOTcx
-NDg1LDEzODQwNTI1NTEsLTExOTQ2MjM4NjEsLTE0NTA3NTE0Mz
-IsLTExNTgwMDcwNjUsNjE2OTc1MDYxLC0xMTI1MjcwNzY5LDU4
-ODMzNDE5Ml19
+eyJoaXN0b3J5IjpbNjk1NTI3ODY1LC0xODU3Nzc0NTY1LC0zOD
+Q3NDgwMzYsNTU3NzI2MTMzLC0xNzQ2MjA4MTMxLDE3NjQ3ODQ3
+ODgsODY4NTE0OTcsLTYyMjE4ODA2NSwyMDIxNjQ5ODc1LDEzMz
+Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
+NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
+0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
+NTI3MDc2OV19
 -->
