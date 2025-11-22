@@ -51,7 +51,7 @@ Et disposant par exemple:
 -   Des firewalls et systèmes réseau pour sécuriser les échanges,
 -   Des solutions de sauvegarde et de redondance qui granitiseront une continuité du service.
 
-En termes de coût, un cloud privé étant plus cher qu’un cloud public, il faut compter une mise en place initiale entre 150 000 € et 300 000 € (infrastructure, licences, sécurité) et un coût mensuel d’environ 20 000 € à 60 000 € par mois (maintenance des serveurs, l’énergie, les licences et l’équipe technique chargée de l’infrastructure si besoin).
+En termes de coût, un cloud privé étant plus cher qu’un cloud public, il faut compter une mise en place initiale entre 150 000 € et 300 000 € (infrastructure, licences, sécurité) et un coût mensuel d’environ 20 000 € à 60 000 € par mois (maintenance des serveurs, l’énergie).
 
 ## Cas n°3
 
@@ -64,7 +64,6 @@ Que conseillez-vous à Paul ?
 ---
 SaaS - cloud privé - Google Cloud Storage, Microsoft One Drive
 
-Sinon SSD SanDisk 1 To, paye 86 euros one shot, entrée USB-C avec adaptateur USB-B et voila
 
 ## Cas n°4
 Une grande entreprise française de soutien aux armées du pays, accréditée par le ministère des armées et dont le nom est confidentiel, a besoin de moderniser ses infrastructures informatiques. Les besoins en termes de diversité de service, de quantité de serveurs, stockages et réseaux évoluent très rapidement.
@@ -110,9 +109,9 @@ Cloud Privé IaaS. correction: SaaS fait l'affaire.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQyODkzODgzLDIzODg3MTM3NCwxMzAxNz
-IyNjYzLC0xMzk3NzYyMDY5LC0xNTQ1NjcwOTkxLDExMTgwNzE4
-NDgsLTI1NDI2NTU3NSwxNTAzOTU1MDg4LC04NTc1NjkzMDYsLT
-M0NzA4MjM1NywyMDg0MTAwOTAzLC0xODczNTU2MTA1LDE3MjIw
-ODg2NTIsLTExNDk1MTczNjksLTE2MDQyNTQzNDZdfQ==
+eyJoaXN0b3J5IjpbMTY2NTk0NjI5MywyMzg4NzEzNzQsMTMwMT
+cyMjY2MywtMTM5Nzc2MjA2OSwtMTU0NTY3MDk5MSwxMTE4MDcx
+ODQ4LC0yNTQyNjU1NzUsMTUwMzk1NTA4OCwtODU3NTY5MzA2LC
+0zNDcwODIzNTcsMjA4NDEwMDkwMywtMTg3MzU1NjEwNSwxNzIy
+MDg4NjUyLC0xMTQ5NTE3MzY5LC0xNjA0MjU0MzQ2XX0=
 -->
