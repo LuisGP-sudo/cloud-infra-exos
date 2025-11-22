@@ -99,8 +99,8 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
  - **GCP**
  Pour cette solutions je vais prendre l'exemple d'un n2-standard-4 qui a un cout par heure de $0.2326/h et le stockage qui coute 0.1792/Go. La région étudiée est Europe (Paris) europe-west9.
 
-					(0.2326 × 720) + (20 × 0.1792) = $98.77
-					98.77 x 3 = $296.31 pour les 3 serveurs qui tournent 24h/7
+					(0.2326 × 720) + (20 × 0.1792) = $171.056
+					$171.056 x 3 = $ pour les 3 serveurs qui tournent 24h/7
 
 					(0.1344 × 480) + (20 × 0.10) = $66.52
 					66.52 x 3 = $199.53 pour les 3 serveurs qui tournent 16h/7
@@ -133,11 +133,11 @@ Dans ce cas, cette infrastructure 3 serveurs sont utilisés 24h/7 et les autres 
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NDkwMDU5OSwyMDIxNjQ5ODc1LDEzMz
-Y2NjU1OTksMTYyNDQ4MTk1MSwtMTA1NjE5MDQ3NSwxMDMzNTA4
-NzMzLDYwMjk3MTQ4NSwxMzg0MDUyNTUxLC0xMTk0NjIzODYxLC
-0xNDUwNzUxNDMyLC0xMTU4MDA3MDY1LDYxNjk3NTA2MSwtMTEy
-NTI3MDc2OSw1ODgzMzQxOTIsLTE4NTU2NDUxMDgsNzM2Njc0Nj
-U4LC02ODYwMzAxOTYsNzAwNzI3NjIzLC03Nzg4NzU4NTgsLTUw
-NTEyMzUzOF19
+eyJoaXN0b3J5IjpbLTE4Mjk5NDI1MDgsMjAyMTY0OTg3NSwxMz
+M2NjY1NTk5LDE2MjQ0ODE5NTEsLTEwNTYxOTA0NzUsMTAzMzUw
+ODczMyw2MDI5NzE0ODUsMTM4NDA1MjU1MSwtMTE5NDYyMzg2MS
+wtMTQ1MDc1MTQzMiwtMTE1ODAwNzA2NSw2MTY5NzUwNjEsLTEx
+MjUyNzA3NjksNTg4MzM0MTkyLC0xODU1NjQ1MTA4LDczNjY3ND
+Y1OCwtNjg2MDMwMTk2LDcwMDcyNzYyMywtNzc4ODc1ODU4LC01
+MDUxMjM1MzhdfQ==
 -->
