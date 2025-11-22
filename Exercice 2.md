@@ -177,7 +177,7 @@ Pour le Load Balancer nous allons prendre l'Application Load Balancer qui coute 
 						
 						Total de $15.84
 
-Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large qui a un cout de $0.145/h et pour le stockage un coût de $0.115/Go par mois 
+Pour la base de données managée, je vais utiliser un Flexible Server qui occupe 2 vCPU et 8 Go de RAM qui a un cout de $0.145/h et pour le stockage un coût de $0.115/Go par mois 
 						
 					0,145 × 720 = 104,40 $/mois
 					10 × 0,115 = 1,15 $/mois
@@ -199,7 +199,7 @@ Pour la base de données managée, je vais utiliser l'instance RDS db.t3.large q
 - OVH ([Price list: A comparison of our Public Cloud offers | OVHcloud Worldwide](https://www.ovhcloud.com/en/public-cloud/prices/))
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ3Mjc5MjQyLC02OTE3MDA4ODcsLTE4NT
+eyJoaXN0b3J5IjpbMzUwMDMyNjAyLC02OTE3MDA4ODcsLTE4NT
 c3NzQ1NjUsLTM4NDc0ODAzNiw1NTc3MjYxMzMsLTE3NDYyMDgx
 MzEsMTc2NDc4NDc4OCw4Njg1MTQ5NywtNjIyMTg4MDY1LDIwMj
 E2NDk4NzUsMTMzNjY2NTU5OSwxNjI0NDgxOTUxLC0xMDU2MTkw
